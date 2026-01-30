@@ -2,19 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach**|Yinlin Zhu et.al.|[2601.21369](http://arxiv.org/abs/2601.21369)|null|
 |**2026-01-28**|**CM-GAI: Continuum Mechanistic Generative Artificial Intelligence Theory for Data Dynamics**|Shan Tang et.al.|[2601.20462](http://arxiv.org/abs/2601.20462)|null|
 |**2026-01-27**|**Structure-based RNA Design by Step-wise Optimization of Latent Diffusion Model**|Qi Si et.al.|[2601.19232](http://arxiv.org/abs/2601.19232)|null|
 |**2026-01-27**|**EnzyPGM: Pocket-conditioned Generative Model for Substrate-specific Enzyme Design**|Zefeng Lin et.al.|[2601.19205](http://arxiv.org/abs/2601.19205)|null|
 |**2026-01-27**|**GPCR-Filter: a deep learning framework for efficient and precise GPCR modulator discovery**|Jingjie Ning et.al.|[2601.19149](http://arxiv.org/abs/2601.19149)|null|
 |**2026-01-26**|**The Quantum Cliff: A Critical Proton Tunneling Threshold Determines Clinical Severity in RPE65-Mediated Retinal Disease**|Biraja Ghoshal et.al.|[2601.18435](http://arxiv.org/abs/2601.18435)|null|
-|**2026-01-23**|**AI Developments for T and B Cell Receptor Modeling and Therapeutic Design**|Linhui Xie et.al.|[2601.17138](http://arxiv.org/abs/2601.17138)|null|
+|**2026-01-28**|**AI Developments for T and B Cell Receptor Modeling and Therapeutic Design**|Linhui Xie et.al.|[2601.17138](http://arxiv.org/abs/2601.17138)|null|
 |**2026-01-23**|**Domain-Aware Geometric Multimodal Learning for Multi-Domain Protein-Ligand Affinity Prediction**|Shuo Zhang et.al.|[2601.17102](http://arxiv.org/abs/2601.17102)|null|
 |**2026-01-22**|**Identifying Concurrency Bug Reports via Linguistic Patterns**|Shuai Shao et.al.|[2601.16338](http://arxiv.org/abs/2601.16338)|null|
 |**2026-01-21**|**Ambient Dataloops: Generative Models for Dataset Refinement**|Adrián Rodríguez-Muñoz et.al.|[2601.15417](http://arxiv.org/abs/2601.15417)|null|
@@ -35,6 +36,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**GeoRC: A Benchmark for Geolocation Reasoning Chains**|Mohit Talreja et.al.|[2601.21278](http://arxiv.org/abs/2601.21278)|null|
 |**2026-01-24**|**WarrantScore: Modeling Warrants between Claims and Evidence for Substantiation Evaluation in Peer Reviews**|Kiyotada Mori et.al.|[2601.17377](http://arxiv.org/abs/2601.17377)|null|
 |**2026-01-22**|**Machine-Assisted Grading of Nationwide School-Leaving Essay Exams with LLMs and Statistical NLP**|Andres Karjus et.al.|[2601.16314](http://arxiv.org/abs/2601.16314)|null|
 |**2026-01-20**|**Can LLM Reasoning Be Trusted? A Comparative Study: Using Human Benchmarking on Statistical Tasks**|Crish Nagarkar et.al.|[2601.14479](http://arxiv.org/abs/2601.14479)|null|
@@ -113,6 +115,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Measuring node similarity using minimum cycles in networks**|Bo Yang et.al.|[2601.21783](http://arxiv.org/abs/2601.21783)|null|
+|**2026-01-29**|**Computational investigation of single herbal drugs in Ayurveda for diabetes and obesity using knowledge graph and network pharmacology**|Priyotosh Sil et.al.|[2601.21643](http://arxiv.org/abs/2601.21643)|null|
+|**2026-01-29**|**PPI-SVRG: Unifying Prediction-Powered Inference and Variance Reduction for Semi-Supervised Optimization**|Ruicheng Ao et.al.|[2601.21470](http://arxiv.org/abs/2601.21470)|null|
+|**2026-01-28**|**Noisy but Valid: Robust Statistical Evaluation of LLMs with Imperfect Judges**|Chen Feng et.al.|[2601.20913](http://arxiv.org/abs/2601.20913)|null|
 |**2026-01-28**|**Demystifying Prediction Powered Inference**|Yilin Song et.al.|[2601.20819](http://arxiv.org/abs/2601.20819)|null|
 |**2026-01-28**|**CPiRi: Channel Permutation-Invariant Relational Interaction for Multivariate Time Series Forecasting**|Jiyuan Xu et.al.|[2601.20318](http://arxiv.org/abs/2601.20318)|null|
 |**2026-01-27**|**Regime-Adaptive Bayesian Optimization via Dirichlet Process Mixtures of Gaussian Processes**|Yan Zhang et.al.|[2601.20043](http://arxiv.org/abs/2601.20043)|null|
@@ -140,6 +146,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Value-Based Pre-Training with Downstream Feedback**|Shuqi Ke et.al.|[2601.22108](http://arxiv.org/abs/2601.22108)|null|
+|**2026-01-29**|**Prior-Informed Flow Matching for Graph Reconstruction**|Harvey Chen et.al.|[2601.22107](http://arxiv.org/abs/2601.22107)|null|
+|**2026-01-29**|**Holographic generative flows with AdS/CFT**|Ehsan Mirafzali et.al.|[2601.22033](http://arxiv.org/abs/2601.22033)|null|
+|**2026-01-29**|**MEIDNet: Multimodal generative AI framework for inverse materials design**|Anand Babu et.al.|[2601.22009](http://arxiv.org/abs/2601.22009)|null|
+|**2026-01-29**|**Improving Classifier-Free Guidance of Flow Matching via Manifold Projection**|Jian-Feng Cai et.al.|[2601.21892](http://arxiv.org/abs/2601.21892)|null|
+|**2026-01-29**|**Generative Modeling of Discrete Data Using Geometric Latent Subspaces**|Daniel Gonzalez-Alvarado et.al.|[2601.21831](http://arxiv.org/abs/2601.21831)|null|
+|**2026-01-29**|**SmartMeterFM: Unifying Smart Meter Data Generative Tasks Using Flow Matching Models**|Nan Lin et.al.|[2601.21706](http://arxiv.org/abs/2601.21706)|null|
+|**2026-01-29**|**Can Local Learning Match Self-Supervised Backpropagation?**|Wu S. Zihan et.al.|[2601.21683](http://arxiv.org/abs/2601.21683)|null|
+|**2026-01-29**|**Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching**|Li Ju et.al.|[2601.21662](http://arxiv.org/abs/2601.21662)|null|
+|**2026-01-29**|**Generative Design of Ship Propellers using Conditional Flow Matching**|Patrick Kruger et.al.|[2601.21637](http://arxiv.org/abs/2601.21637)|null|
 |**2026-01-28**|**One Step Is Enough: Dispersive MeanFlow Policy Optimization**|Guowei Zou et.al.|[2601.20701](http://arxiv.org/abs/2601.20701)|null|
 |**2026-01-28**|**WFR-MFM: One-Step Inference for Dynamic Unbalanced Optimal Transport**|Xinyu Wang et.al.|[2601.20606](http://arxiv.org/abs/2601.20606)|null|
 |**2026-01-28**|**RAW-Flow: Advancing RGB-to-RAW Image Reconstruction with Deterministic Latent Flow Matching**|Zhen Liu et.al.|[2601.20364](http://arxiv.org/abs/2601.20364)|null|
@@ -175,6 +191,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems**|Dhiogo de Sá et.al.|[2601.21993](http://arxiv.org/abs/2601.21993)|null|
+|**2026-01-29**|**Toward Culturally Aligned LLMs through Ontology-Guided Multi-Agent Reasoning**|Wonduk Seo et.al.|[2601.21700](http://arxiv.org/abs/2601.21700)|null|
+|**2026-01-29**|**Computational investigation of single herbal drugs in Ayurveda for diabetes and obesity using knowledge graph and network pharmacology**|Priyotosh Sil et.al.|[2601.21643](http://arxiv.org/abs/2601.21643)|null|
+|**2026-01-29**|**HistoPrism: Unlocking Functional Pathway Analysis from Pan-Cancer Histology via Gene Expression Prediction**|Susu Hu et.al.|[2601.21560](http://arxiv.org/abs/2601.21560)|null|
+|**2026-01-29**|**Deep Koopman Iterative Learning and Stability-Guaranteed Control for Unknown Nonlinear Time-Varying Systems**|Hengde Zhang et.al.|[2601.21230](http://arxiv.org/abs/2601.21230)|null|
 |**2026-01-28**|**Revisiting the Interpretations of Quantum Mechanics: From FAPP Solutions to Contextual Ontologies**|Philippe Grangier et.al.|[2601.20488](http://arxiv.org/abs/2601.20488)|null|
 |**2026-01-28**|**Robust SDE Parameter Estimation Under Missing Time Information Setting**|Long Van Tran et.al.|[2601.20268](http://arxiv.org/abs/2601.20268)|null|
 |**2026-01-27**|**SynCABEL: Synthetic Contextualized Augmentation for Biomedical Entity Linking**|Adam Remaki et.al.|[2601.19667](http://arxiv.org/abs/2601.19667)|null|
@@ -210,6 +231,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Value-Based Pre-Training with Downstream Feedback**|Shuqi Ke et.al.|[2601.22108](http://arxiv.org/abs/2601.22108)|null|
+|**2026-01-29**|**BLO-Inst: Bi-Level Optimization Based Alignment of YOLO and SAM for Robust Instance Segmentation**|Li Zhang et.al.|[2601.22061](http://arxiv.org/abs/2601.22061)|null|
+|**2026-01-29**|**AIRPET: Virtual Positron Emission Tomography**|J. Renner et.al.|[2601.22059](http://arxiv.org/abs/2601.22059)|null|
+|**2026-01-29**|**Hybrid Foveated Path Tracing with Peripheral Gaussians for Immersive Anatomy**|Constantin Kleinbeck et.al.|[2601.22026](http://arxiv.org/abs/2601.22026)|null|
+|**2026-01-29**|**Investigation into using stochastic embedding representations for evaluating the trustworthiness of the Fréchet Inception Distance**|Ciaran Bench et.al.|[2601.21979](http://arxiv.org/abs/2601.21979)|null|
+|**2026-01-29**|**Impact of hydrogen incorporation on electronic and magnetic structure of X2CrNi18-9 stainless steel**|Torben Tappe et.al.|[2601.21672](http://arxiv.org/abs/2601.21672)|null|
+|**2026-01-29**|**Asymptotic Enumeration of Subclasses of Level- $2$ Phylogenetic Networks**|Hexuan Liu et.al.|[2601.21578](http://arxiv.org/abs/2601.21578)|null|
+|**2026-01-29**|**Cooperative Emission from Quantum Emitters in Hexagonal Boron Nitride Layers**|Igor Khanonkin et.al.|[2601.21544](http://arxiv.org/abs/2601.21544)|null|
+|**2026-01-29**|**The $^{8}$ Be nucleus and the Hoyle state in dissociation of relativistic nuclei**|D. A. Artemenkov et.al.|[2601.21425](http://arxiv.org/abs/2601.21425)|null|
+|**2026-01-29**|**A general framework for interactions between electron beams and quantum optical systems**|Jakob M. Grzesik et.al.|[2601.21385](http://arxiv.org/abs/2601.21385)|null|
 |**2026-01-28**|**How Disciplinary Partnerships Shape Research Landscape in U.S. Library and Information Science Schools**|Jiangen He et.al.|[2601.20806](http://arxiv.org/abs/2601.20806)|null|
 |**2026-01-28**|**Learning From a Steady Hand: A Weakly Supervised Agent for Robot Assistance under Microscopy**|Huanyu Tian et.al.|[2601.20776](http://arxiv.org/abs/2601.20776)|null|
 |**2026-01-28**|**Universality of Type-II Multiferroicity in Monolayer Nickel Dihalides**|Aleš Cahlík et.al.|[2601.20713](http://arxiv.org/abs/2601.20713)|null|
