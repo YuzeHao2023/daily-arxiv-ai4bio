@@ -2,16 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.03.03
+## Updated on 2026.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Deep learning-guided evolutionary optimization for protein design**|Erik Hartman et.al.|[2603.02753](http://arxiv.org/abs/2603.02753)|null|
+|**2026-03-02**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
 |**2026-03-02**|**Bi-TEAM: A Unified Cross-Scale Representation Learning Framework for Chemically Modified Biomolecules**|Chunbin Gu et.al.|[2603.01873](http://arxiv.org/abs/2603.01873)|null|
 |**2026-03-02**|**Pharmacology Knowledge Graphs: Do We Need Chemical Structure for Drug Repurposing?**|Youssef Abo-Dahab et.al.|[2603.01537](http://arxiv.org/abs/2603.01537)|null|
-|**2026-02-27**|**CoPeP: Benchmarking Continual Pretraining for Protein Language Models**|Darshan Patil et.al.|[2603.00253](http://arxiv.org/abs/2603.00253)|null|
+|**2026-03-03**|**CoPeP: Benchmarking Continual Pretraining for Protein Language Models**|Darshan Patil et.al.|[2603.00253](http://arxiv.org/abs/2603.00253)|null|
 |**2026-02-27**|**GENAI WORKBENCH: AI-Assisted Analysis and Synthesis of Engineering Systems from Multimodal Engineering Data**|H. Sinan Bank et.al.|[2603.00251](http://arxiv.org/abs/2603.00251)|null|
 |**2026-02-27**|**Multimodal Alignment Improves Generalizability of Genomic Biomarker Prediction in Computational Pathology**|Ekaterina Redekop et.al.|[2603.00193](http://arxiv.org/abs/2603.00193)|null|
 |**2026-02-26**|**An Active Learning Framework for Data-Efficient, Human-in-the-Loop Enzyme Function Prediction**|Ashley Babjac et.al.|[2602.23269](http://arxiv.org/abs/2602.23269)|null|
@@ -109,6 +111,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Sparse autoencoders reveal organized biological knowledge but minimal regulatory logic in single-cell foundation models: a comparative atlas of Geneformer and scGPT**|Ihor Kendiukhov et.al.|[2603.02952](http://arxiv.org/abs/2603.02952)|null|
+|**2026-03-02**|**GPU-accelerated single-cell analysis at scale with rapids-singlecell**|Severin Dicks et.al.|[2603.02402](http://arxiv.org/abs/2603.02402)|null|
+|**2026-03-01**|**Contextual Invertible World Models: A Neuro-Symbolic Agentic Framework for Colorectal Cancer Drug Response**|Christopher Baker et.al.|[2603.02274](http://arxiv.org/abs/2603.02274)|null|
 |**2026-03-02**|**Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions**|Amir Asiaee et.al.|[2603.02204](http://arxiv.org/abs/2603.02204)|null|
 |**2026-03-02**|**Lag-Induced Critical Transitions to Extinction in Replicating Systems**|Edward A. Turner et.al.|[2603.02036](http://arxiv.org/abs/2603.02036)|null|
 |**2026-03-02**|**Characterization of the novel transposon Tn7722 harboring bla NDM-1 : Insights into the evolutionary dynamics of resistance in Klebsiella pneumoniae**|Tram Vo et.al.|[2603.01849](http://arxiv.org/abs/2603.01849)|null|
@@ -234,7 +239,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-02**|**Hyperparameter Trajectory Inference with Conditional Lagrangian Optimal Transport**|Harry Amad et.al.|[2603.01771](http://arxiv.org/abs/2603.01771)|null|
+|**2026-03-02**|**GPU-accelerated single-cell analysis at scale with rapids-singlecell**|Severin Dicks et.al.|[2603.02402](http://arxiv.org/abs/2603.02402)|null|
+|**2026-03-01**|**Graph Attention Based Prioritization of Disease Responsible Genes from Multimodal Alzheimer's Network**|Binon Teji et.al.|[2603.02273](http://arxiv.org/abs/2603.02273)|null|
+|**2026-03-03**|**Hyperparameter Trajectory Inference with Conditional Lagrangian Optimal Transport**|Harry Amad et.al.|[2603.01771](http://arxiv.org/abs/2603.01771)|null|
 |**2026-02-27**|**Graph-Based Multi-Omics Integration Improves Subtype Recovery and Survival Prediction Over Classical Integration Strategies in TCGA-BRCA**|Taha Ahmad et.al.|[2603.00212](http://arxiv.org/abs/2603.00212)|null|
 |**2026-02-26**|**SC-Arena: A Natural Language Benchmark for Single-Cell Reasoning with Knowledge-Augmented Evaluation**|Jiahao Zhao et.al.|[2602.23199](http://arxiv.org/abs/2602.23199)|null|
 |**2026-02-26**|**permApprox: a general framework for accurate permutation p-value approximation**|Stefanie Peschel et.al.|[2602.22975](http://arxiv.org/abs/2602.22975)|null|
@@ -284,6 +291,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Quantum-Inspired Hamiltonian Feature Extraction for ADMET Prediction: A Simulation Study**|B. Maurice Benson et.al.|[2603.03109](http://arxiv.org/abs/2603.03109)|null|
+|**2026-03-01**|**Graph Attention Based Prioritization of Disease Responsible Genes from Multimodal Alzheimer's Network**|Binon Teji et.al.|[2603.02273](http://arxiv.org/abs/2603.02273)|null|
 |**2026-03-02**|**Downstream Task Inspired Underwater Image Enhancement: A Perception-Aware Study from Dataset Construction to Network Design**|Bosen Lin et.al.|[2603.01767](http://arxiv.org/abs/2603.01767)|null|
 |**2026-02-28**|**Designing the Haystack: Programmable Chemical Space for Generative Molecular Discovery**|Yuchen Zhu et.al.|[2603.00614](http://arxiv.org/abs/2603.00614)|null|
 |**2026-02-27**|**Experimental implementation of a discrete-time quantum walk on biological networks**|Viacheslav Dubovitskii et.al.|[2602.24053](http://arxiv.org/abs/2602.24053)|null|
@@ -339,6 +348,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Interpreting Speaker Characteristics in the Dimensions of Self-Supervised Speech Features**|Kyle Janse van Rensburg et.al.|[2603.03096](http://arxiv.org/abs/2603.03096)|null|
+|**2026-03-03**|**DreamFlow: Local Navigation Beyond Observation via Conditional Flow Matching in the Latent Space**|Jiwon Park et.al.|[2603.02976](http://arxiv.org/abs/2603.02976)|null|
+|**2026-03-03**|**Sparse autoencoders reveal organized biological knowledge but minimal regulatory logic in single-cell foundation models: a comparative atlas of Geneformer and scGPT**|Ihor Kendiukhov et.al.|[2603.02952](http://arxiv.org/abs/2603.02952)|null|
+|**2026-03-03**|**GloPath: An Entity-Centric Foundation Model for Glomerular Lesion Assessment and Clinicopathological Insights**|Qiming He et.al.|[2603.02926](http://arxiv.org/abs/2603.02926)|null|
+|**2026-03-03**|**DSBA: Dynamic Stealthy Backdoor Attack with Collaborative Optimization in Self-Supervised Learning**|Jiayao Wang et.al.|[2603.02849](http://arxiv.org/abs/2603.02849)|null|
+|**2026-03-03**|**Toward Early Quality Assessment of Text-to-Image Diffusion Models**|Huanlei Guo et.al.|[2603.02829](http://arxiv.org/abs/2603.02829)|null|
+|**2026-03-03**|**Real-Time Generative Policy via Langevin-Guided Flow Matching for Autonomous Driving**|Tianze Zhu et.al.|[2603.02613](http://arxiv.org/abs/2603.02613)|null|
+|**2026-03-03**|**NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders Pretraining**|Liang Zeng et.al.|[2603.02522](http://arxiv.org/abs/2603.02522)|null|
+|**2026-03-02**|**DINOv3 Visual Representations for Blueberry Perception Toward Robotic Harvesting**|Rui-Feng Wang et.al.|[2603.02419](http://arxiv.org/abs/2603.02419)|null|
+|**2026-03-02**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
 |**2026-03-02**|**CodecFlow: Efficient Bandwidth Extension via Conditional Flow Matching in Neural Codec Latent Space**|Bowen Zhang et.al.|[2603.02022](http://arxiv.org/abs/2603.02022)|null|
 |**2026-03-02**|**Causal Circuit Tracing Reveals Distinct Computational Architectures in Single-Cell Foundation Models: Inhibitory Dominance, Biological Coherence, and Cross-Model Convergence**|Ihor Kendiukhov et.al.|[2603.01752](http://arxiv.org/abs/2603.01752)|null|
 |**2026-03-02**|**LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models**|Chenxing Wei et.al.|[2603.01563](http://arxiv.org/abs/2603.01563)|null|
@@ -557,9 +576,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Guiding Sparse Neural Networks with Neurobiological Principles to Elicit Biologically Plausible Representations**|Patrick Inoue et.al.|[2603.03234](http://arxiv.org/abs/2603.03234)|null|
+|**2026-03-03**|**The Science Data Lake: A Unified Open Infrastructure Integrating 293 Million Papers Across Eight Scholarly Sources with Embedding-Based Ontology Alignment**|Jonas Wilinski et.al.|[2603.03126](http://arxiv.org/abs/2603.03126)|null|
+|**2026-03-03**|**Sparse autoencoders reveal organized biological knowledge but minimal regulatory logic in single-cell foundation models: a comparative atlas of Geneformer and scGPT**|Ihor Kendiukhov et.al.|[2603.02952](http://arxiv.org/abs/2603.02952)|null|
+|**2026-03-03**|**LLM-based Argument Mining meets Argumentation and Description Logics: a Unified Framework for Reasoning about Debates**|Gianvincenzo Alfano et.al.|[2603.02858](http://arxiv.org/abs/2603.02858)|null|
+|**2026-03-02**|**MIRAGE: Knowledge Graph-Guided Cross-Cohort MRI Synthesis for Alzheimer's Disease Prediction**|Guanchen Wu et.al.|[2603.02434](http://arxiv.org/abs/2603.02434)|null|
 |**2026-03-02**|**A System-of-Systems Convergence Paradigm for Societal Challenges of the Anthropocene**|Megan S. Harris et.al.|[2603.01972](http://arxiv.org/abs/2603.01972)|null|
 |**2026-03-02**|**A Hetero-functional Graph State Estimator for Watershed Systems: Application to the Chesapeake Bay**|Megan S. Harris et.al.|[2603.01931](http://arxiv.org/abs/2603.01931)|null|
-|**2026-03-02**|**QIME: Constructing Interpretable Medical Text Embeddings via Ontology-Grounded Questions**|Yixuan Tang et.al.|[2603.01690](http://arxiv.org/abs/2603.01690)|null|
+|**2026-03-03**|**QIME: Constructing Interpretable Medical Text Embeddings via Ontology-Grounded Questions**|Yixuan Tang et.al.|[2603.01690](http://arxiv.org/abs/2603.01690)|null|
 |**2026-03-02**|**Keyword-based Community Search in Bipartite Spatial-Social Networks (Technical Report)**|Kovan A. Bavi et.al.|[2603.01500](http://arxiv.org/abs/2603.01500)|null|
 |**2026-03-02**|**The Semantic Arrow of Time, Part I: From Eddington to Ethernet**|Paul Borrill et.al.|[2603.01440](http://arxiv.org/abs/2603.01440)|null|
 |**2026-03-02**|**Message Passing Without Temporal Direction: Constraint Semantics and the FITO Category Mistake**|Paul Borrill et.al.|[2603.01405](http://arxiv.org/abs/2603.01405)|null|
@@ -679,6 +703,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**ProSMA-UNet: Decoder Conditioning for Proximal-Sparse Skip Feature Selection**|Chun-Wun Cheng et.al.|[2603.03187](http://arxiv.org/abs/2603.03187)|null|
+|**2026-03-03**|**Enhancing the Energy Resolution in Scanning Tunneling Microscopy: from dynamical Coulomb blockade to cavity quantum electrodynamics**|Xianzhe Zeng et.al.|[2603.03166](http://arxiv.org/abs/2603.03166)|null|
+|**2026-03-03**|**BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology**|Xiaojing Guo et.al.|[2603.03030](http://arxiv.org/abs/2603.03030)|null|
+|**2026-03-03**|**Spatial Autoregressive Modeling of DINOv3 Embeddings for Unsupervised Anomaly Detection**|Ertunc Erdil et.al.|[2603.02974](http://arxiv.org/abs/2603.02974)|null|
+|**2026-03-03**|**Intrinsic Electric Field Driven High Sensitive Photodetection in Alloy TMDC MoSSe**|Chumki Nayak et.al.|[2603.02967](http://arxiv.org/abs/2603.02967)|null|
+|**2026-03-03**|**Semi-Supervised Few-Shot Adaptation of Vision-Language Models**|Julio Silva-Rodríguez et.al.|[2603.02959](http://arxiv.org/abs/2603.02959)|null|
+|**2026-03-03**|**Emergent quantum phenomena in two-dimensional 1T-TaS2**|Haiyang Chen et.al.|[2603.02815](http://arxiv.org/abs/2603.02815)|null|
+|**2026-03-03**|**Gated Differential Linear Attention: A Linear-Time Decoder for High-Fidelity Medical Segmentation**|Hongbo Zheng et.al.|[2603.02727](http://arxiv.org/abs/2603.02727)|null|
+|**2026-03-02**|**Transportable inference using target population summary statistics under covariate shift**|Ying Sheng et.al.|[2603.02474](http://arxiv.org/abs/2603.02474)|null|
+|**2026-03-02**|**Discovery of an electrically-controllable superconducting memory effect**|Zheyu Wu et.al.|[2603.02450](http://arxiv.org/abs/2603.02450)|null|
 |**2026-03-02**|**Bridging the gap between Performance and Interpretability: An Explainable Disentangled Multimodal Framework for Cancer Survival Prediction**|Aniek Eijpe et.al.|[2603.02162](http://arxiv.org/abs/2603.02162)|null|
 |**2026-03-02**|**Enhancing Phase Clustering in Nanomechanical Property Maps of Multiphase Materials Using Kernel-Averaged Mechanical Mismatch**|David Mercier et.al.|[2603.02090](http://arxiv.org/abs/2603.02090)|null|
 |**2026-03-02**|**Analysis of the steady solutions of the Fisher's infinitesimal model; a Hilbertian approach**|M Hillairet et.al.|[2603.01983](http://arxiv.org/abs/2603.01983)|null|
