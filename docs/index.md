@@ -2,19 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Inference-Time Toxicity Mitigation in Protein Language Models**|Manuel Fernández Burda et.al.|[2603.04045](http://arxiv.org/abs/2603.04045)|null|
+|**2026-03-04**|**Climate Downscaling with Stochastic Interpolants (CDSI)**|Erik Larsson et.al.|[2603.03838](http://arxiv.org/abs/2603.03838)|null|
 |**2026-03-03**|**Deep learning-guided evolutionary optimization for protein design**|Erik Hartman et.al.|[2603.02753](http://arxiv.org/abs/2603.02753)|null|
 |**2026-03-02**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
 |**2026-03-02**|**Bi-TEAM: A Unified Cross-Scale Representation Learning Framework for Chemically Modified Biomolecules**|Chunbin Gu et.al.|[2603.01873](http://arxiv.org/abs/2603.01873)|null|
 |**2026-03-02**|**Pharmacology Knowledge Graphs: Do We Need Chemical Structure for Drug Repurposing?**|Youssef Abo-Dahab et.al.|[2603.01537](http://arxiv.org/abs/2603.01537)|null|
 |**2026-03-03**|**CoPeP: Benchmarking Continual Pretraining for Protein Language Models**|Darshan Patil et.al.|[2603.00253](http://arxiv.org/abs/2603.00253)|null|
-|**2026-02-27**|**GENAI WORKBENCH: AI-Assisted Analysis and Synthesis of Engineering Systems from Multimodal Engineering Data**|H. Sinan Bank et.al.|[2603.00251](http://arxiv.org/abs/2603.00251)|null|
+|**2026-03-03**|**GENAI WORKBENCH: AI-Assisted Analysis and Synthesis of Engineering Systems from Multimodal Engineering Data**|H. Sinan Bank et.al.|[2603.00251](http://arxiv.org/abs/2603.00251)|null|
 |**2026-02-27**|**Multimodal Alignment Improves Generalizability of Genomic Biomarker Prediction in Computational Pathology**|Ekaterina Redekop et.al.|[2603.00193](http://arxiv.org/abs/2603.00193)|null|
 |**2026-02-26**|**An Active Learning Framework for Data-Efficient, Human-in-the-Loop Enzyme Function Prediction**|Ashley Babjac et.al.|[2602.23269](http://arxiv.org/abs/2602.23269)|null|
 |**2026-02-26**|**Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models**|Gal Kesten-Pomeranz et.al.|[2602.23179](http://arxiv.org/abs/2602.23179)|null|
@@ -111,6 +113,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Ultrabubble enumeration via a lowest common ancestor approach**|Athanasios E. Zisis et.al.|[2603.03909](http://arxiv.org/abs/2603.03909)|null|
+|**2026-03-03**|**Mutation Rate Variation Across Genomic Regions in \textit{Arabidopsis thaliana}**|Elisa Heinrich-Mora et.al.|[2603.03591](http://arxiv.org/abs/2603.03591)|null|
+|**2026-03-03**|**Learning functional groups in complex microbiomes**|Matthew S Schmitt et.al.|[2603.03547](http://arxiv.org/abs/2603.03547)|null|
+|**2026-03-03**|**Stringology-Based Motif Discovery from EEG Signals: an ADHD Case Study**|Anat Dahan et.al.|[2603.03476](http://arxiv.org/abs/2603.03476)|null|
 |**2026-03-03**|**Sparse autoencoders reveal organized biological knowledge but minimal regulatory logic in single-cell foundation models: a comparative atlas of Geneformer and scGPT**|Ihor Kendiukhov et.al.|[2603.02952](http://arxiv.org/abs/2603.02952)|null|
 |**2026-03-02**|**GPU-accelerated single-cell analysis at scale with rapids-singlecell**|Severin Dicks et.al.|[2603.02402](http://arxiv.org/abs/2603.02402)|null|
 |**2026-03-01**|**Contextual Invertible World Models: A Neuro-Symbolic Agentic Framework for Colorectal Cancer Drug Response**|Christopher Baker et.al.|[2603.02274](http://arxiv.org/abs/2603.02274)|null|
@@ -291,6 +297,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Mozi: Governed Autonomy for Drug Discovery LLM Agents**|He Cao et.al.|[2603.03655](http://arxiv.org/abs/2603.03655)|null|
+|**2026-03-03**|**MMAI Gym for Science: Training Liquid Foundation Models for Drug Discovery**|Maksim Kuznetsov et.al.|[2603.03517](http://arxiv.org/abs/2603.03517)|null|
+|**2026-03-03**|**Computational discovery of bifunctional organic semiconductors for energy and biosensing**|Patrick Sorrel Mvoto Kongo et.al.|[2603.03392](http://arxiv.org/abs/2603.03392)|null|
 |**2026-03-03**|**Quantum-Inspired Hamiltonian Feature Extraction for ADMET Prediction: A Simulation Study**|B. Maurice Benson et.al.|[2603.03109](http://arxiv.org/abs/2603.03109)|null|
 |**2026-03-01**|**Graph Attention Based Prioritization of Disease Responsible Genes from Multimodal Alzheimer's Network**|Binon Teji et.al.|[2603.02273](http://arxiv.org/abs/2603.02273)|null|
 |**2026-03-02**|**Downstream Task Inspired Underwater Image Enhancement: A Perception-Aware Study from Dataset Construction to Network Design**|Bosen Lin et.al.|[2603.01767](http://arxiv.org/abs/2603.01767)|null|
@@ -348,6 +357,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study**|Madhura Edirisooriya et.al.|[2603.04340](http://arxiv.org/abs/2603.04340)|null|
+|**2026-03-04**|**What Does Flow Matching Bring To TD Learning?**|Bhavya Agrawalla et.al.|[2603.04333](http://arxiv.org/abs/2603.04333)|null|
+|**2026-03-04**|**FlowW2N: Whispered-to-Normal Speech Conversion via Flow-Matching**|Fabian Ritter-Gutierrez et.al.|[2603.04296](http://arxiv.org/abs/2603.04296)|null|
+|**2026-03-04**|**Structural Action Transformer for 3D Dexterous Manipulation**|Xiaohan Lei et.al.|[2603.03960](http://arxiv.org/abs/2603.03960)|null|
+|**2026-03-04**|**Cyclostationarity Analysis as a Complement to Self-Supervised Representations for Speech Deepfake Detection**|Cemal Hanilçi et.al.|[2603.03921](http://arxiv.org/abs/2603.03921)|null|
+|**2026-03-04**|**MPFlow: Multi-modal Posterior-Guided Flow Matching for Zero-Shot MRI Reconstruction**|Seunghoi Kim et.al.|[2603.03710](http://arxiv.org/abs/2603.03710)|null|
+|**2026-03-04**|**One-Step Face Restoration via Shortcut-Enhanced Coupling Flow**|Xiaohui Sun et.al.|[2603.03648](http://arxiv.org/abs/2603.03648)|null|
+|**2026-03-03**|**Spectrum Shortage for Radio Sensing? Leveraging Ambient 5G Signals for Human Activity Detection**|Kunzhe Song et.al.|[2603.03579](http://arxiv.org/abs/2603.03579)|null|
+|**2026-03-03**|**Directional Neural Collapse Explains Few-Shot Transfer in Self-Supervised Learning**|Achleshwar Luthra et.al.|[2603.03530](http://arxiv.org/abs/2603.03530)|null|
 |**2026-03-03**|**Interpreting Speaker Characteristics in the Dimensions of Self-Supervised Speech Features**|Kyle Janse van Rensburg et.al.|[2603.03096](http://arxiv.org/abs/2603.03096)|null|
 |**2026-03-03**|**DreamFlow: Local Navigation Beyond Observation via Conditional Flow Matching in the Latent Space**|Jiwon Park et.al.|[2603.02976](http://arxiv.org/abs/2603.02976)|null|
 |**2026-03-03**|**Sparse autoencoders reveal organized biological knowledge but minimal regulatory logic in single-cell foundation models: a comparative atlas of Geneformer and scGPT**|Ihor Kendiukhov et.al.|[2603.02952](http://arxiv.org/abs/2603.02952)|null|
@@ -576,6 +594,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Predicting oscillations in complex networks with delayed feedback**|Shijie Liu et.al.|[2603.04251](http://arxiv.org/abs/2603.04251)|null|
+|**2026-03-03**|**Quantifying Ranking Instability Across Evaluation Protocol Axes in Gene Regulatory Network Benchmarking**|Ihor Kendiukhov et.al.|[2603.03493](http://arxiv.org/abs/2603.03493)|null|
 |**2026-03-03**|**Guiding Sparse Neural Networks with Neurobiological Principles to Elicit Biologically Plausible Representations**|Patrick Inoue et.al.|[2603.03234](http://arxiv.org/abs/2603.03234)|null|
 |**2026-03-03**|**The Science Data Lake: A Unified Open Infrastructure Integrating 293 Million Papers Across Eight Scholarly Sources with Embedding-Based Ontology Alignment**|Jonas Wilinski et.al.|[2603.03126](http://arxiv.org/abs/2603.03126)|null|
 |**2026-03-03**|**Sparse autoencoders reveal organized biological knowledge but minimal regulatory logic in single-cell foundation models: a comparative atlas of Geneformer and scGPT**|Ihor Kendiukhov et.al.|[2603.02952](http://arxiv.org/abs/2603.02952)|null|
@@ -703,6 +723,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study**|Madhura Edirisooriya et.al.|[2603.04340](http://arxiv.org/abs/2603.04340)|null|
+|**2026-03-04**|**A Hypertoroidal Covering for Perfect Color Equivariance**|Yulong Yang et.al.|[2603.04256](http://arxiv.org/abs/2603.04256)|null|
+|**2026-03-04**|**A Unified Framework for Joint Detection of Lacunes and Enlarged Perivascular Spaces**|Lucas He et.al.|[2603.04243](http://arxiv.org/abs/2603.04243)|null|
+|**2026-03-04**|**DeNuC: Decoupling Nuclei Detection and Classification in Histopathology**|Zijiang Yang et.al.|[2603.04240](http://arxiv.org/abs/2603.04240)|null|
+|**2026-03-04**|**Atomic-scale Stark-shift spectroscopy and microscopy of organic molecules**|Xabier Arrieta et.al.|[2603.04139](http://arxiv.org/abs/2603.04139)|null|
+|**2026-03-04**|**Understanding Sources of Demographic Predictability in Brain MRI via Disentangling Anatomy and Contrast**|Mehmet Yigit Avci et.al.|[2603.04113](http://arxiv.org/abs/2603.04113)|null|
+|**2026-03-04**|**Revisiting the Role of Foundation Models in Cell-Level Histopathological Image Analysis under Small-Patch Constraints -- Effects of Training Data Scale and Blur Perturbations on CNNs and Vision Transformers**|Hiroki Kagiyama et.al.|[2603.04081](http://arxiv.org/abs/2603.04081)|null|
+|**2026-03-04**|**Volumetric Directional Diffusion: Anchoring Uncertainty Quantification in Anatomical Consensus for Ambiguous Medical Image Segmentation**|Chao Wu et.al.|[2603.04024](http://arxiv.org/abs/2603.04024)|null|
+|**2026-03-04**|**Video-rate volumetric chemical imaging via mid-infrared photothermal optical diffraction tomography**|Masato Fukushima et.al.|[2603.03812](http://arxiv.org/abs/2603.03812)|null|
+|**2026-03-04**|**CoRe-BT: A Multimodal Radiology-Pathology-Text Benchmark for Robust Brain Tumor Typing**|Juampablo E. Heras Rivera et.al.|[2603.03618](http://arxiv.org/abs/2603.03618)|null|
 |**2026-03-03**|**ProSMA-UNet: Decoder Conditioning for Proximal-Sparse Skip Feature Selection**|Chun-Wun Cheng et.al.|[2603.03187](http://arxiv.org/abs/2603.03187)|null|
 |**2026-03-03**|**Enhancing the Energy Resolution in Scanning Tunneling Microscopy: from dynamical Coulomb blockade to cavity quantum electrodynamics**|Xianzhe Zeng et.al.|[2603.03166](http://arxiv.org/abs/2603.03166)|null|
 |**2026-03-03**|**BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology**|Xiaojing Guo et.al.|[2603.03030](http://arxiv.org/abs/2603.03030)|null|
