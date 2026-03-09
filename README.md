@@ -19,11 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**A cationic carrier for diffuse interstellar band at 862.1 nm: Evidence from the skin effect in nearby diffuse-to-translucent clouds**|He Zhao et.al.|[2603.05631](http://arxiv.org/abs/2603.05631)|null|
 |**2026-03-05**|**Enhancing Zero-shot Commonsense Reasoning by Integrating Visual Knowledge via Machine Imagination**|Hyuntae Park et.al.|[2603.05040](http://arxiv.org/abs/2603.05040)|null|
 |**2026-03-04**|**Inference-Time Toxicity Mitigation in Protein Language Models**|Manuel Fernández Burda et.al.|[2603.04045](http://arxiv.org/abs/2603.04045)|null|
 |**2026-03-04**|**Climate Downscaling with Stochastic Interpolants (CDSI)**|Erik Larsson et.al.|[2603.03838](http://arxiv.org/abs/2603.03838)|null|
 |**2026-03-03**|**Deep learning-guided evolutionary optimization for protein design**|Erik Hartman et.al.|[2603.02753](http://arxiv.org/abs/2603.02753)|null|
-|**2026-03-02**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
+|**2026-03-06**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
 |**2026-03-02**|**Bi-TEAM: A Unified Cross-Scale Representation Learning Framework for Chemically Modified Biomolecules**|Chunbin Gu et.al.|[2603.01873](http://arxiv.org/abs/2603.01873)|null|
 |**2026-03-02**|**Pharmacology Knowledge Graphs: Do We Need Chemical Structure for Drug Repurposing?**|Youssef Abo-Dahab et.al.|[2603.01537](http://arxiv.org/abs/2603.01537)|null|
 |**2026-03-03**|**CoPeP: Benchmarking Continual Pretraining for Protein Language Models**|Darshan Patil et.al.|[2603.00253](http://arxiv.org/abs/2603.00253)|null|
@@ -97,6 +98,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Multicellular Tumour Spheroids Exposure to Pulsed Electric Field: A Combined Experimental and Mathematical Modelling Study Highlighting Temporal Dynamics of DAMP Release and Accelerated Regrowth at Intermediate Field Intensities**|Emma Leschiera et.al.|[2603.06087](http://arxiv.org/abs/2603.06087)|null|
 |**2026-03-04**|**CLARC: C/C++ Benchmark for Robust Code Search**|Kaicheng Wang et.al.|[2603.04484](http://arxiv.org/abs/2603.04484)|null|
 |**2026-03-04**|**AbAffinity: A Large Language Model for Predicting Antibody Binding Affinity against SARS-CoV-2**|Faisal Bin Ashraf et.al.|[2603.04480](http://arxiv.org/abs/2603.04480)|null|
 |**2026-02-10**|**How effective are VLMs in assisting humans in inferring the quality of mental models from Multimodal short answers?**|Pritam Sil et.al.|[2603.00056](http://arxiv.org/abs/2603.00056)|null|
@@ -130,6 +132,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**Machine Learning for analysis of Multiple Sclerosis cross-tissue bulk and single-cell transcriptomics data**|Francesco Massafra et.al.|[2603.05572](http://arxiv.org/abs/2603.05572)|null|
 |**2026-03-05**|**How important are the genes to explain the outcome - the asymmetric Shapley value as an honest importance metric for high-dimensional features**|Mark A. van de Wiel et.al.|[2603.05317](http://arxiv.org/abs/2603.05317)|null|
 |**2026-03-05**|**SeekRBP: Leveraging Sequence-Structure Integration with Reinforcement Learning for Receptor-Binding Protein Identification**|Xiling Luo et.al.|[2603.04748](http://arxiv.org/abs/2603.04748)|null|
 |**2026-03-05**|**Distribution-Conditioned Transport**|Nic Fishman et.al.|[2603.04736](http://arxiv.org/abs/2603.04736)|null|
@@ -268,6 +271,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**SpaCRD: Multimodal Deep Fusion of Histology and Spatial Transcriptomics for Cancer Region Detection**|Shuailin Xue et.al.|[2603.06186](http://arxiv.org/abs/2603.06186)|null|
 |**2026-03-05**|**Count Bridges enable Modeling and Deconvolving Transcriptomic Data**|Nic Fishman et.al.|[2603.04730](http://arxiv.org/abs/2603.04730)|null|
 |**2026-03-02**|**GPU-accelerated single-cell analysis at scale with rapids-singlecell**|Severin Dicks et.al.|[2603.02402](http://arxiv.org/abs/2603.02402)|null|
 |**2026-03-01**|**Graph Attention Based Prioritization of Disease Responsible Genes from Multimodal Alzheimer's Network**|Binon Teji et.al.|[2603.02273](http://arxiv.org/abs/2603.02273)|null|
@@ -323,6 +327,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Network-based drug repurposing for MYH9-related nephritis**|Muhammed Ali et.al.|[2603.06112](http://arxiv.org/abs/2603.06112)|null|
+|**2026-03-02**|**On the Reliability of AI Methods in Drug Discovery: Evaluation of Boltz-2 for Structure and Binding Affinity Prediction**|Shunzhou Wan et.al.|[2603.05532](http://arxiv.org/abs/2603.05532)|null|
 |**2026-03-05**|**Robust Node Affinities via Jaccard-Biased Random Walks and Rank Aggregation**|Bastian Pfeifer et.al.|[2603.05375](http://arxiv.org/abs/2603.05375)|null|
 |**2026-03-04**|**Mozi: Governed Autonomy for Drug Discovery LLM Agents**|He Cao et.al.|[2603.03655](http://arxiv.org/abs/2603.03655)|null|
 |**2026-03-03**|**MMAI Gym for Science: Training Liquid Foundation Models for Drug Discovery**|Maksim Kuznetsov et.al.|[2603.03517](http://arxiv.org/abs/2603.03517)|null|
@@ -386,6 +392,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis**|Hila Chefer et.al.|[2603.06507](http://arxiv.org/abs/2603.06507)|null|
+|**2026-03-06**|**Training Flow Matching: The Role of Weighting and Parameterization**|Anne Gagneux et.al.|[2603.06454](http://arxiv.org/abs/2603.06454)|null|
+|**2026-03-06**|**LATO: 3D Mesh Flow Matching with Structured TOpology Preserving LAtents**|Tianhao Zhao et.al.|[2603.06357](http://arxiv.org/abs/2603.06357)|null|
+|**2026-03-06**|**Reflective Flow Sampling Enhancement**|Zikai Zhou et.al.|[2603.06165](http://arxiv.org/abs/2603.06165)|null|
+|**2026-03-06**|**Do Compact SSL Backbones Matter for Audio Deepfake Detection? A Controlled Study with RAPTOR**|Ajinkya Kulkarni et.al.|[2603.06164](http://arxiv.org/abs/2603.06164)|null|
+|**2026-03-06**|**LucidNFT: LR-Anchored Multi-Reward Preference Optimization for Generative Real-World Super-Resolution**|Song Fei et.al.|[2603.05947](http://arxiv.org/abs/2603.05947)|null|
+|**2026-03-06**|**CBCT-Based Synthetic CT Generation Using Conditional Flow Matching Model**|Junbo Peng et.al.|[2603.05796](http://arxiv.org/abs/2603.05796)|null|
+|**2026-03-05**|**Interpretable Perception and Reasoning for Audiovisual Geolocation**|Yiyang Su et.al.|[2603.05708](http://arxiv.org/abs/2603.05708)|null|
 |**2026-03-05**|**Cheap Thrills: Effective Amortized Optimization Using Inexpensive Labels**|Khai Nguyen et.al.|[2603.05495](http://arxiv.org/abs/2603.05495)|null|
 |**2026-03-05**|**PhysiFlow: Physics-Aware Humanoid Whole-Body VLA via Multi-Brain Latent Flow Matching and Robust Tracking**|Weikai Qin et.al.|[2603.05410](http://arxiv.org/abs/2603.05410)|null|
 |**2026-03-05**|**Distribution-Conditioned Transport**|Nic Fishman et.al.|[2603.04736](http://arxiv.org/abs/2603.04736)|null|
@@ -629,6 +643,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**A Causal Graph Approach to Oppositional Narrative Analysis**|Diego Revilla et.al.|[2603.06135](http://arxiv.org/abs/2603.06135)|null|
+|**2026-03-06**|**A Hazard-Informed Data Pipeline for Robotics Physical Safety**|Alexei Odinokov et.al.|[2603.06130](http://arxiv.org/abs/2603.06130)|null|
+|**2026-03-06**|**OD-RASE: Ontology-Driven Risk Assessment and Safety Enhancement for Autonomous Driving**|Kota Shimomura et.al.|[2603.05936](http://arxiv.org/abs/2603.05936)|null|
 |**2026-03-05**|**Generalizable Multiscale Segmentation of Heterogeneous Map Collections**|Remi Petitpierre et.al.|[2603.05037](http://arxiv.org/abs/2603.05037)|null|
 |**2026-03-05**|**Memory as Ontology: A Constitutional Memory Architecture for Persistent Digital Citizens**|Zhenghui Li et.al.|[2603.04740](http://arxiv.org/abs/2603.04740)|null|
 |**2026-03-05**|**Predicting oscillations in complex networks with delayed feedback**|Shijie Liu et.al.|[2603.04251](http://arxiv.org/abs/2603.04251)|null|
@@ -762,6 +779,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Nanoscale Electronic Phase Separation Driven by Fe-site Ordering in Fe\textsubscript{5-x}GeTe\textsubscript{2}**|Shreyashi Sinha et.al.|[2603.06539](http://arxiv.org/abs/2603.06539)|null|
+|**2026-03-06**|**Epitaxial stabilization of magnetic GdAuSb/LaAuSb superlattices**|Patrick J. Strohbeen et.al.|[2603.06500](http://arxiv.org/abs/2603.06500)|null|
+|**2026-03-06**|**Methods for characterization of atomic-scale field emission point-electron-source**|Shuai Tang et.al.|[2603.06499](http://arxiv.org/abs/2603.06499)|null|
+|**2026-03-06**|**Match4Annotate: Propagating Sparse Video Annotations via Implicit Neural Feature Matching**|Zhuorui Zhang et.al.|[2603.06471](http://arxiv.org/abs/2603.06471)|null|
+|**2026-03-06**|**CLoPA: Continual Low Parameter Adaptation of Interactive Segmentation for Medical Image Annotation**|Parhom Esmaeili et.al.|[2603.06426](http://arxiv.org/abs/2603.06426)|null|
+|**2026-03-06**|**Prompt Group-Aware Training for Robust Text-Guided Nuclei Segmentation**|Yonghuang Wu et.al.|[2603.06384](http://arxiv.org/abs/2603.06384)|null|
+|**2026-03-06**|**Epitaxy of strained, nuclear-spin free $^{76}$ Ge quantum wells from solid source materials**|Maximilian Oezkent et.al.|[2603.06372](http://arxiv.org/abs/2603.06372)|null|
+|**2026-03-06**|**K-MaT: Knowledge-Anchored Manifold Transport for Cross-Modal Prompt Learning in Medical Imaging**|Jiajun Zeng et.al.|[2603.06340](http://arxiv.org/abs/2603.06340)|null|
+|**2026-03-06**|**From Displacement to Angle: Diamond-Based 3D Rotation Sensing for High-Precision Cellular Force Measurement**|Linjie Ma et.al.|[2603.06288](http://arxiv.org/abs/2603.06288)|null|
+|**2026-03-06**|**Confined drying of a binary liquid mixture droplet: A quantitative interferometric study under humidity control**|Ole Milark et.al.|[2603.06282](http://arxiv.org/abs/2603.06282)|null|
 |**2026-03-05**|**Spin-resolved microscopy of $^{87}$Sr SU($N$ ) Fermi-Hubbard systems**|Carlos Gas-Ferrer et.al.|[2603.05478](http://arxiv.org/abs/2603.05478)|null|
 |**2026-03-05**|**Temperature-Dependent Dielectric Function of Tantalum Nitride Formed by Atomic Layer Deposition for Tunnel Barriers in Josephson Junctions**|Ekta Bhatia et.al.|[2603.05383](http://arxiv.org/abs/2603.05383)|null|
 |**2026-03-05**|**CT-Enabled Patient-Specific Simulation and Contact-Aware Robotic Planning for Cochlear Implantation**|Lingxiao Xun et.al.|[2603.05333](http://arxiv.org/abs/2603.05333)|null|
