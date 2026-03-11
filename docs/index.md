@@ -2,18 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Non-equilibrium generalized Langevin equation for multi-dimensional observables**|Benjamin J. A. Héry et.al.|[2603.09850](http://arxiv.org/abs/2603.09850)|null|
+|**2026-03-10**|**More than the Sum: Panorama-Language Models for Adverse Omni-Scenes**|Weijia Fan et.al.|[2603.09573](http://arxiv.org/abs/2603.09573)|null|
 |**2026-03-08**|**Machine Learning of Vertical Fluxes by Unresolved Midlatitude Mesoscale Processes**|Erisa Ismaili et.al.|[2603.07712](http://arxiv.org/abs/2603.07712)|null|
 |**2026-03-08**|**Reverse Distillation: Consistently Scaling Protein Language Model Representations**|Darius Catrina et.al.|[2603.07710](http://arxiv.org/abs/2603.07710)|null|
 |**2026-03-06**|**Small Target Detection Based on Mask-Enhanced Attention Fusion of Visible and Infrared Remote Sensing Images**|Qianqian Zhang et.al.|[2603.06925](http://arxiv.org/abs/2603.06925)|null|
 |**2026-03-06**|**HIDDENdb: Co-dependency database reveals a plethora of genetic and protein interactions**|Iresha De Silva et.al.|[2603.06903](http://arxiv.org/abs/2603.06903)|null|
-|**2026-03-06**|**Property-driven Protein Inverse Folding With Multi-Objective Preference Alignment**|Xiaoyang Hou et.al.|[2603.06748](http://arxiv.org/abs/2603.06748)|null|
+|**2026-03-10**|**Property-driven Protein Inverse Folding With Multi-Objective Preference Alignment**|Xiaoyang Hou et.al.|[2603.06748](http://arxiv.org/abs/2603.06748)|null|
 |**2026-03-06**|**ViroGym: Realistic Large-Scale Benchmarks for Evaluating Viral Proteins**|Yichen Zhou et.al.|[2603.06740](http://arxiv.org/abs/2603.06740)|null|
 |**2026-03-06**|**ProtAlign: Contrastive learning paradigm for Sequence and structure alignment**|Aditya Ranganath et.al.|[2603.06722](http://arxiv.org/abs/2603.06722)|null|
 |**2026-03-05**|**A cationic carrier for diffuse interstellar band at 862.1 nm: Evidence from the skin effect in nearby diffuse-to-translucent clouds**|He Zhao et.al.|[2603.05631](http://arxiv.org/abs/2603.05631)|null|
@@ -126,6 +128,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**MM-algorithms for traditional and convex NMF with Tweedie and Negative Binomial cost functions and empirical evaluation**|Elisabeth Sommer James et.al.|[2603.09601](http://arxiv.org/abs/2603.09601)|null|
+|**2026-03-09**|**Quantifying Memorization and Privacy Risks in Genomic Language Models**|Alexander Nemecek et.al.|[2603.08913](http://arxiv.org/abs/2603.08913)|null|
 |**2026-03-09**|**Amortized Phylodynamic Inference with Neural Bayes Estimators and Recursive Neural Networks**|Alexander E. Zarebski et.al.|[2603.08345](http://arxiv.org/abs/2603.08345)|null|
 |**2026-03-09**|**Adversarial Domain Adaptation Enables Knowledge Transfer Across Heterogeneous RNA-Seq Datasets**|Kevin Dradjat et.al.|[2603.08062](http://arxiv.org/abs/2603.08062)|null|
 |**2026-03-09**|**AI Agents, Language, Deep Learning and the Next Revolution in Science**|Ke Li et.al.|[2603.07940](http://arxiv.org/abs/2603.07940)|null|
@@ -273,6 +277,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Distribution-free screening of spatially variable genes in spatial transcriptomics**|Changhu Wang et.al.|[2603.09061](http://arxiv.org/abs/2603.09061)|null|
 |**2026-03-09**|**Beyond Attention Heatmaps: How to Get Better Explanations for Multiple Instance Learning Models in Histopathology**|Mina Jamshidi Idaji et.al.|[2603.08328](http://arxiv.org/abs/2603.08328)|null|
 |**2026-03-09**|**MINT: Molecularly Informed Training with Spatial Transcriptomics Supervision for Pathology Foundation Models**|Minsoo Lee et.al.|[2603.07895](http://arxiv.org/abs/2603.07895)|null|
 |**2026-03-06**|**SpatialMAGIC: A Hybrid Framework Integrating Graph Diffusion and Spatial Attention for Spatial Transcriptomics Imputation**|Sayeem Bin Zaman et.al.|[2603.06780](http://arxiv.org/abs/2603.06780)|null|
@@ -330,6 +335,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Self-consistent mean-field quantum approximate optimization**|Maxime Dupont et.al.|[2603.09838](http://arxiv.org/abs/2603.09838)|null|
 |**2026-03-08**|**Inefficiency of chiral dynamos in protoneutron stars and the early universe**|Valentin A. Skoutnev et.al.|[2603.07715](http://arxiv.org/abs/2603.07715)|null|
 |**2026-03-06**|**Network-based drug repurposing for MYH9-related nephritis**|Muhammed Ali et.al.|[2603.06112](http://arxiv.org/abs/2603.06112)|null|
 |**2026-03-02**|**On the Reliability of AI Methods in Drug Discovery: Evaluation of Boltz-2 for Structure and Binding Affinity Prediction**|Shunzhou Wan et.al.|[2603.05532](http://arxiv.org/abs/2603.05532)|null|
@@ -394,6 +400,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**From Flow to One Step: Real-Time Multi-Modal Trajectory Policies via Implicit Maximum Likelihood Estimation-based Distribution Distillation**|Ju Dong et.al.|[2603.09415](http://arxiv.org/abs/2603.09415)|null|
+|**2026-03-10**|**Paralinguistic Emotion-Aware Validation Timing Detection in Japanese Empathetic Spoken Dialogue**|Zi Haur Pang et.al.|[2603.09307](http://arxiv.org/abs/2603.09307)|null|
+|**2026-03-10**|**CogBlender: Towards Continuous Cognitive Intervention in Text-to-Image Generation**|Shengqi Dang et.al.|[2603.09286](http://arxiv.org/abs/2603.09286)|null|
+|**2026-03-10**|**Learning Convex Decomposition via Feature Fields**|Yuezhi Yang et.al.|[2603.09285](http://arxiv.org/abs/2603.09285)|null|
+|**2026-03-10**|**StuPASE: Towards Low-Hallucination Studio-Quality Generative Speech Enhancement**|Xiaobin Rong et.al.|[2603.09234](http://arxiv.org/abs/2603.09234)|null|
+|**2026-03-10**|**UniField: A Unified Field-Aware MRI Enhancement Framework**|Yiyang Lin et.al.|[2603.09223](http://arxiv.org/abs/2603.09223)|null|
+|**2026-03-10**|**GST-VLA: Structured Gaussian Spatial Tokens for 3D Depth-Aware Vision-Language-Action Models**|Md Selim Sarowar et.al.|[2603.09079](http://arxiv.org/abs/2603.09079)|null|
+|**2026-03-09**|**The Coupling Within: Flow Matching via Distilled Normalizing Flows**|David Berthelot et.al.|[2603.09014](http://arxiv.org/abs/2603.09014)|null|
+|**2026-03-09**|**Statistical Inference via Generative Models: Flow Matching and Causal Inference**|Shinto Eguchi et.al.|[2603.09009](http://arxiv.org/abs/2603.09009)|null|
+|**2026-03-09**|**16 new quasars at the end of the reionization unveiled by self-supervised learning**|L. N. Martínez-Ramírez et.al.|[2603.08830](http://arxiv.org/abs/2603.08830)|null|
 |**2026-03-09**|**Echo2ECG: Enhancing ECG Representations with Cardiac Morphology from Multi-View Echos**|Michelle Espranita Liman et.al.|[2603.08505](http://arxiv.org/abs/2603.08505)|null|
 |**2026-03-09**|**X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection**|Youngseo Kim et.al.|[2603.08483](http://arxiv.org/abs/2603.08483)|null|
 |**2026-03-09**|**STRIDE: Structured Lagrangian and Stochastic Residual Dynamics via Flow Matching**|Prakrut Kotecha et.al.|[2603.08478](http://arxiv.org/abs/2603.08478)|null|
@@ -653,12 +669,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Beyond Fine-Tuning: Robust Food Entity Linking under Ontology Drift with FoodOntoRAG**|Jan Drole et.al.|[2603.09758](http://arxiv.org/abs/2603.09758)|null|
+|**2026-03-10**|**Vibe-Creation: The Epistemology of Human-AI Emergent Cognition**|Ilya Levin et.al.|[2603.09486](http://arxiv.org/abs/2603.09486)|null|
+|**2026-03-09**|**Automated Classification of Homeostasis Structure in Input-Output Networks**|Xinni Lin et.al.|[2603.08882](http://arxiv.org/abs/2603.08882)|null|
 |**2026-03-09**|**RexDrug: Reliable Multi-Drug Combination Extraction through Reasoning-Enhanced LLMs**|Zhijun Wang et.al.|[2603.08166](http://arxiv.org/abs/2603.08166)|null|
 |**2026-03-09**|**Learning Hierarchical Knowledge in Text-Rich Networks with Taxonomy-Informed Representation Learning**|Yunhui Liu et.al.|[2603.08159](http://arxiv.org/abs/2603.08159)|null|
 |**2026-03-09**|**SMGI: A Structural Theory of General Artificial Intelligence**|Aomar Osmani et.al.|[2603.07896](http://arxiv.org/abs/2603.07896)|null|
 |**2026-03-07**|**Elenchus: Generating Knowledge Bases from Prover-Skeptic Dialogues**|Bradley P. Allen et.al.|[2603.06974](http://arxiv.org/abs/2603.06974)|null|
 |**2026-03-06**|**Identifying genes associated with phenotypes using machine and deep learning**|Muhammad Muneeb et.al.|[2603.06804](http://arxiv.org/abs/2603.06804)|null|
-|**2026-03-06**|**A Causal Graph Approach to Oppositional Narrative Analysis**|Diego Revilla et.al.|[2603.06135](http://arxiv.org/abs/2603.06135)|null|
+|**2026-03-10**|**A Causal Graph Approach to Oppositional Narrative Analysis**|Diego Revilla et.al.|[2603.06135](http://arxiv.org/abs/2603.06135)|null|
 |**2026-03-06**|**A Hazard-Informed Data Pipeline for Robotics Physical Safety**|Alexei Odinokov et.al.|[2603.06130](http://arxiv.org/abs/2603.06130)|null|
 |**2026-03-06**|**OD-RASE: Ontology-Driven Risk Assessment and Safety Enhancement for Autonomous Driving**|Kota Shimomura et.al.|[2603.05936](http://arxiv.org/abs/2603.05936)|null|
 |**2026-03-05**|**Generalizable Multiscale Segmentation of Heterogeneous Map Collections**|Remi Petitpierre et.al.|[2603.05037](http://arxiv.org/abs/2603.05037)|null|
@@ -792,6 +811,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Leveraging whole slide difficulty in Multiple Instance Learning to improve prostate cancer grading**|Marie Arrivat et.al.|[2603.09953](http://arxiv.org/abs/2603.09953)|null|
+|**2026-03-10**|**Direct Laser Writing of Ferromagnetic Nickel Utilizing the Principle of Sensitized Triplet-Triplet Annihilation Upconversion**|Kristin E. J. Kühl et.al.|[2603.09871](http://arxiv.org/abs/2603.09871)|null|
+|**2026-03-10**|**CycleULM: A unified label-free deep learning framework for ultrasound localisation microscopy**|Su Yan et.al.|[2603.09840](http://arxiv.org/abs/2603.09840)|null|
+|**2026-03-10**|**TriFusion-SR: Joint Tri-Modal Medical Image Fusion and SR**|Fayaz Ali Dharejo et.al.|[2603.09702](http://arxiv.org/abs/2603.09702)|null|
+|**2026-03-10**|**DCAU-Net: Differential Cross Attention and Channel-Spatial Feature Fusion for Medical Image Segmentation**|Yanxin Li et.al.|[2603.09530](http://arxiv.org/abs/2603.09530)|null|
+|**2026-03-10**|**GIIM: Graph-based Learning of Inter- and Intra-view Dependencies for Multi-view Medical Image Diagnosis**|Tran Bao Sam et.al.|[2603.09446](http://arxiv.org/abs/2603.09446)|null|
+|**2026-03-10**|**MIL-PF: Multiple Instance Learning on Precomputed Features for Mammography Classification**|Nikola Jovišić et.al.|[2603.09374](http://arxiv.org/abs/2603.09374)|null|
+|**2026-03-10**|**CLoE: Expert Consistency Learning for Missing Modality Segmentation**|Xinyu Tong et.al.|[2603.09316](http://arxiv.org/abs/2603.09316)|null|
+|**2026-03-10**|**Structural and electronic signatures of strain-tunable marginally twisted bilayer graphene**|Pei Ouyang et.al.|[2603.09295](http://arxiv.org/abs/2603.09295)|null|
+|**2026-03-10**|**VIVID-Med: LLM-Supervised Structured Pretraining for Deployable Medical ViTs**|Xiyao Wang et.al.|[2603.09109](http://arxiv.org/abs/2603.09109)|null|
 |**2026-03-09**|**Weakly Supervised Teacher-Student Framework with Progressive Pseudo-mask Refinement for Gland Segmentation**|Hikmat Khan et.al.|[2603.08605](http://arxiv.org/abs/2603.08605)|null|
 |**2026-03-09**|**Defect-induced multiferroicicy in bulk solid solutions of WSe $_2$ and WTe$_2$**|H. Rojas-Páez et.al.|[2603.08515](http://arxiv.org/abs/2603.08515)|null|
 |**2026-03-09**|**Second harmonic study of thermally oxidized mono- and few-layer 2H-MoS2**|Katharina Burgholzer et.al.|[2603.08461](http://arxiv.org/abs/2603.08461)|null|
