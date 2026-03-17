@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**IgPose: A Generative Data-Augmented Pipeline for Robust Immunoglobulin-Antigen Binding Prediction**|Tien-Cuong Bui et.al.|[2603.14870](http://arxiv.org/abs/2603.14870)|null|
+|**2026-03-16**|**Fold-CP: A Context Parallelism Framework for Biomolecular Modeling**|Dejun Lin et.al.|[2603.14806](http://arxiv.org/abs/2603.14806)|null|
+|**2026-03-15**|**Spectrum Matching: a Unified Perspective for Superior Diffusability in Latent Diffusion**|Mang Ning et.al.|[2603.14645](http://arxiv.org/abs/2603.14645)|null|
+|**2026-03-15**|**Trust-Region Noise Search for Black-Box Alignment of Diffusion and Flow Models**|Niklas Schweiger et.al.|[2603.14504](http://arxiv.org/abs/2603.14504)|null|
+|**2026-03-15**|**Refold: Refining Protein Inverse Folding with Efficient Structural Matching and Fusion**|Yiran Zhu et.al.|[2603.14350](http://arxiv.org/abs/2603.14350)|null|
 |**2026-03-13**|**Multimodal Protein Language Models for Enzyme Kinetic Parameters: From Substrate Recognition to Conformational Adaptation**|Fei Wang et.al.|[2603.12845](http://arxiv.org/abs/2603.12845)|null|
 |**2026-03-13**|**RXNRECer Enables Fine-grained Enzymatic Function Annotation through Active Learning and Protein Language Models**|Zhenkun Shi et.al.|[2603.12694](http://arxiv.org/abs/2603.12694)|null|
 |**2026-03-11**|**Multi-objective Genetic Programming with Multi-view Multi-level Feature for Enhanced Protein Secondary Structure Prediction**|Yining Qian et.al.|[2603.12293](http://arxiv.org/abs/2603.12293)|null|
@@ -104,6 +109,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**CHIMERA-Bench: A Benchmark Dataset for Epitope-Specific Antibody Design**|Mansoor Ahmed et.al.|[2603.13431](http://arxiv.org/abs/2603.13431)|null|
 |**2026-03-07**|**TIQA: Human-Aligned Text Quality Assessment in Generated Images**|Kirill Koltsov et.al.|[2603.07119](http://arxiv.org/abs/2603.07119)|null|
 |**2026-03-06**|**Multicellular Tumour Spheroids Exposure to Pulsed Electric Field: A Combined Experimental and Mathematical Modelling Study Highlighting Temporal Dynamics of DAMP Release and Accelerated Regrowth at Intermediate Field Intensities**|Emma Leschiera et.al.|[2603.06087](http://arxiv.org/abs/2603.06087)|null|
 |**2026-03-04**|**CLARC: C/C++ Benchmark for Robust Code Search**|Kaicheng Wang et.al.|[2603.04484](http://arxiv.org/abs/2603.04484)|null|
@@ -137,6 +143,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Hecate: A Modular Genomic Compressor**|Kamila Szewczyk et.al.|[2603.15390](http://arxiv.org/abs/2603.15390)|null|
+|**2026-03-16**|**Multi-Task Genetic Algorithm with Multi-Granularity Encoding for Protein-Nucleotide Binding Site Prediction**|Yiming Gao et.al.|[2603.14797](http://arxiv.org/abs/2603.14797)|null|
+|**2026-03-15**|**IQP Born Machines under Data-dependent and Agnostic Initialization Strategies**|Sacha Lerch et.al.|[2603.14576](http://arxiv.org/abs/2603.14576)|null|
+|**2026-03-15**|**Prediction-based Inference in Electronic Health Record (EHR)-linked Biobanks**|Xingran Chen et.al.|[2603.14356](http://arxiv.org/abs/2603.14356)|null|
+|**2026-03-14**|**Advancing Cancer Prognosis with Hierarchical Fusion of Genomic, Proteomic and Pathology Imaging Data from a Systems Biology Perspective**|Junjie Zhou et.al.|[2603.13787](http://arxiv.org/abs/2603.13787)|null|
 |**2026-03-13**|**Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos**|Rohith Peddi et.al.|[2603.13185](http://arxiv.org/abs/2603.13185)|null|
 |**2026-03-12**|**Probabilistic Joint and Individual Variation Explained (ProJIVE) for Data Integration**|Raphiel J. Murden et.al.|[2603.12351](http://arxiv.org/abs/2603.12351)|null|
 |**2026-03-12**|**A Multi-Label Temporal Convolutional Framework for Transcription Factor Binding Characterization**|Pietro Demurtas et.al.|[2603.12073](http://arxiv.org/abs/2603.12073)|null|
@@ -296,6 +307,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**BiTro: Bidirectional Transfer Learning Enhances Bulk and Spatial Transcriptomics Prediction in Cancer Pathological Images**|Jingkun Yu et.al.|[2603.14897](http://arxiv.org/abs/2603.14897)|null|
+|**2026-03-13**|**Spatial Transcriptomics as Images for Large-Scale Pretraining**|Yishun Zhu et.al.|[2603.13432](http://arxiv.org/abs/2603.13432)|null|
+|**2026-03-11**|**MAD: Microenvironment-Aware Distillation -- A Pretraining Strategy for Virtual Spatial Omics from Microscopy**|Jiashu Han et.al.|[2603.13401](http://arxiv.org/abs/2603.13401)|null|
 |**2026-03-12**|**ELISA: An Interpretable Hybrid Generative AI Agent for Expression-Grounded Discovery in Single-Cell Genomics**|Omar Coser et.al.|[2603.11872](http://arxiv.org/abs/2603.11872)|null|
 |**2026-03-10**|**Distribution-free screening of spatially variable genes in spatial transcriptomics**|Changhu Wang et.al.|[2603.09061](http://arxiv.org/abs/2603.09061)|null|
 |**2026-03-09**|**Beyond Attention Heatmaps: How to Get Better Explanations for Multiple Instance Learning Models in Histopathology**|Mina Jamshidi Idaji et.al.|[2603.08328](http://arxiv.org/abs/2603.08328)|null|
@@ -355,6 +369,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**CrossADR: enhancing adverse drug reactions prediction for combination pharmacotherapy with cross-layer feature integration and cross-level associative learning**|Y. Cheung et.al.|[2603.15047](http://arxiv.org/abs/2603.15047)|null|
+|**2026-03-16**|**Empowering Chemical Structures with Biological Insights for Scalable Phenotypic Virtual Screening**|Xiaoqing Lian et.al.|[2603.15006](http://arxiv.org/abs/2603.15006)|null|
 |**2026-03-12**|**Generalist Large Language Models for Molecular Property Prediction: Distilling Knowledge from Specialist Models**|Khiem Le et.al.|[2603.12344](http://arxiv.org/abs/2603.12344)|null|
 |**2026-03-12**|**Maximum Entropy Exploration Without the Rollouts**|Jacob Adamczyk et.al.|[2603.12325](http://arxiv.org/abs/2603.12325)|null|
 |**2026-03-12**|**Binding Free Energies without Alchemy**|Michael Brocidiacono et.al.|[2603.12253](http://arxiv.org/abs/2603.12253)|null|
@@ -424,6 +440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Self-Distillation of Hidden Layers for Self-Supervised Representation Learning**|Scott C. Lowe et.al.|[2603.15553](http://arxiv.org/abs/2603.15553)|null|
+|**2026-03-16**|**Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling**|Aram Davtyan et.al.|[2603.15279](http://arxiv.org/abs/2603.15279)|null|
+|**2026-03-16**|**IConE: Batch Independent Collapse Prevention for Self-Supervised Representation Learning**|Konstantinos Almpanakis et.al.|[2603.15263](http://arxiv.org/abs/2603.15263)|null|
+|**2026-03-16**|**HapticVLA: Contact-Rich Manipulation via Vision-Language-Action Model without Inference-Time Tactile Sensing**|Konstantin Gubernatorov et.al.|[2603.15257](http://arxiv.org/abs/2603.15257)|null|
+|**2026-03-16**|**WiT: Waypoint Diffusion Transformers via Trajectory Conflict Navigation**|Hainuo Wang et.al.|[2603.15132](http://arxiv.org/abs/2603.15132)|null|
+|**2026-03-16**|**Riemannian Motion Generation: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching**|Fangran Miao et.al.|[2603.15016](http://arxiv.org/abs/2603.15016)|null|
+|**2026-03-16**|**TrajFlow: Nation-wide Pseudo GPS Trajectory Generation with Flow Matching Models**|Peiran Li et.al.|[2603.15009](http://arxiv.org/abs/2603.15009)|null|
+|**2026-03-16**|**Masked BRep Autoencoder via Hierarchical Graph Transformer**|Yifei Li et.al.|[2603.14927](http://arxiv.org/abs/2603.14927)|null|
+|**2026-03-16**|**AnyPhoto: Multi-Person Identity Preserving Image Generation with ID Adaptive Modulation on Location Canvas**|Longhui Yuan et.al.|[2603.14770](http://arxiv.org/abs/2603.14770)|null|
+|**2026-03-16**|**Automated Diabetic Screening via Anterior Segment Ocular Imaging: A Deep Learning and Explainable AI Approach**|Hasaan Maqsood et.al.|[2603.14727](http://arxiv.org/abs/2603.14727)|null|
 |**2026-03-13**|**Representation Learning for Spatiotemporal Physical Systems**|Helen Qu et.al.|[2603.13227](http://arxiv.org/abs/2603.13227)|null|
 |**2026-03-13**|**SldprtNet: A Large-Scale Multimodal Dataset for CAD Generation in Language-Driven 3D Design**|Ruogu Li et.al.|[2603.13098](http://arxiv.org/abs/2603.13098)|null|
 |**2026-03-13**|**3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting**|Jun Liu et.al.|[2603.13049](http://arxiv.org/abs/2603.13049)|null|
@@ -713,6 +739,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Establishing Construct Validity in LLM Capability Benchmarks Requires Nomological Networks**|Timo Freiesleben et.al.|[2603.15121](http://arxiv.org/abs/2603.15121)|null|
+|**2026-03-16**|**Open Biomedical Knowledge Graphs at Scale: Construction, Federation, and AI Agent Access with Samyama Graph Database**|Madhulatha Mandarapu et.al.|[2603.15080](http://arxiv.org/abs/2603.15080)|null|
+|**2026-03-15**|**Argumentation for Explainable and Globally Contestable Decision Support with LLMs**|Adam Dejl et.al.|[2603.14643](http://arxiv.org/abs/2603.14643)|null|
+|**2026-03-15**|**A Systematic Comparison and Evaluation of Building Ontologies for Deploying Data-Driven Analytics in Smart Buildings**|Zhangcheng Qiang et.al.|[2603.14374](http://arxiv.org/abs/2603.14374)|null|
+|**2026-03-14**|**An Alternative Trajectory for Generative AI**|Margarita Belova et.al.|[2603.14147](http://arxiv.org/abs/2603.14147)|null|
+|**2026-03-14**|**The GELATO Dataset for Legislative NER**|Matthew Flynn et.al.|[2603.14130](http://arxiv.org/abs/2603.14130)|null|
+|**2026-03-14**|**Hierarchical p-Adic Framework for Gene Regulatory Networks: Theory and Stability Analysis**|J. R. Pérez-Buendía et.al.|[2603.14097](http://arxiv.org/abs/2603.14097)|null|
+|**2026-03-14**|**Advancing Cancer Prognosis with Hierarchical Fusion of Genomic, Proteomic and Pathology Imaging Data from a Systems Biology Perspective**|Junjie Zhou et.al.|[2603.13787](http://arxiv.org/abs/2603.13787)|null|
 |**2026-03-12**|**Inverse Neural Operator for ODE Parameter Optimization**|Zhi-Song Liu et.al.|[2603.11854](http://arxiv.org/abs/2603.11854)|null|
 |**2026-03-12**|**Leveraging Large Language Models and Survival Analysis for Early Prediction of Chemotherapy Outcomes**|Muhammad Faisal Shahid et.al.|[2603.11594](http://arxiv.org/abs/2603.11594)|null|
 |**2026-03-11**|**Ill-Conditioning in Dictionary-Based Dynamic-Equation Learning: A Systems Biology Case Study**|Yuxiang Feng et.al.|[2603.11330](http://arxiv.org/abs/2603.11330)|null|
@@ -861,6 +895,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Probing the Penetration Depth of Topological Surface States by Magnetic Impurity Scattering in V-doped Sb $_2$Te$_3$**|Yidi Wang et.al.|[2603.15601](http://arxiv.org/abs/2603.15601)|null|
+|**2026-03-16**|**Benchmarking Machine Learning Approaches for Polarization Mapping in Ferroelectrics Using 4D-STEM**|Matej Martinc et.al.|[2603.15582](http://arxiv.org/abs/2603.15582)|null|
+|**2026-03-16**|**Microstructural characteristics, atomic-scale features, and growth mechanisms of deuterides (hydrides) in hafnium**|Di Wang et.al.|[2603.15420](http://arxiv.org/abs/2603.15420)|null|
+|**2026-03-16**|**Epitaxial growth of topological insulator $β$ -Ag2Te thin films**|Ayuki Takegawa et.al.|[2603.15406](http://arxiv.org/abs/2603.15406)|null|
+|**2026-03-16**|**Spectral Rectification for Parameter-Efficient Adaptation of Foundation Models in Colonoscopy Depth Estimation**|Xiaoxian Zhang et.al.|[2603.15374](http://arxiv.org/abs/2603.15374)|null|
+|**2026-03-16**|**Self-Supervised ImageNet Representations for In Vivo Confocal Microscopy: Tortuosity Grading without Segmentation Maps**|Kim Ouan et.al.|[2603.15269](http://arxiv.org/abs/2603.15269)|null|
+|**2026-03-16**|**Exemplar Diffusion: Improving Medical Object Detection with Opportunistic Labels**|Victor Wåhlstrand et.al.|[2603.15267](http://arxiv.org/abs/2603.15267)|null|
+|**2026-03-16**|**Nanoscale electronic variations in altermagnetic $α$ -MnTe**|Zeyu Ma et.al.|[2603.15225](http://arxiv.org/abs/2603.15225)|null|
+|**2026-03-16**|**Geometric framework for biological evolution**|Vitaly Vanchurin et.al.|[2603.15198](http://arxiv.org/abs/2603.15198)|null|
+|**2026-03-16**|**Bayesian Inference in Epidemic Modelling: A Beginner's Guide**|Augustine Okolie et.al.|[2603.15175](http://arxiv.org/abs/2603.15175)|null|
 |**2026-03-13**|**Electromechanical Hysteresis in Phase Change Material Sb2S3**|Jack Kaman et.al.|[2603.13221](http://arxiv.org/abs/2603.13221)|null|
 |**2026-03-13**|**Diffusion-Based Feature Denoising and Using NNMF for Robust Brain Tumor Classification**|Hiba Adil Al-kharsan et.al.|[2603.13182](http://arxiv.org/abs/2603.13182)|null|
 |**2026-03-13**|**NOIR: Neural Operator mapping for Implicit Representations**|Sidaty El Hadramy et.al.|[2603.13118](http://arxiv.org/abs/2603.13118)|null|
