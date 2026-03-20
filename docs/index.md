@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**From Snapshots to Symphonies: The Evolution of Protein Prediction from Static Structures to Generative Dynamics and Multimodal Interactions**|Jingzhi Chen et.al.|[2603.18505](http://arxiv.org/abs/2603.18505)|null|
+|**2026-03-18**|**TOI-4552 b: A new ultra-short period rocky world revealed by NIRPS and TESS**|Avidaan Srivastava et.al.|[2603.18233](http://arxiv.org/abs/2603.18233)|null|
 |**2026-03-18**|**Beyond Muon: MUD (MomentUm Decorrelation) for Faster Transformer Training**|Ben S. Southworth et.al.|[2603.17970](http://arxiv.org/abs/2603.17970)|null|
 |**2026-03-18**|**Binary Latent Protein Fitness Landscapes for Quantum Annealing Optimization**|Truong-Son Hy et.al.|[2603.17247](http://arxiv.org/abs/2603.17247)|null|
 |**2026-03-17**|**Machines acquire scientific taste from institutional traces**|Ziqin Gong et.al.|[2603.16659](http://arxiv.org/abs/2603.16659)|null|
@@ -148,6 +150,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**BVSIMC: Bayesian Variable Selection-Guided Inductive Matrix Completion for Improved and Interpretable Drug Discovery**|Sijian Fan et.al.|[2603.18957](http://arxiv.org/abs/2603.18957)|null|
 |**2026-03-18**|**Bivariate deconvolution for cancer detection after surgery**|Nuria Senar et.al.|[2603.17864](http://arxiv.org/abs/2603.17864)|null|
 |**2026-03-17**|**Looking for (Genomic) Needles in a Haystack: Sparsity-Driven Search for Identifying Correlated Genetic Mutations in Cancer**|Ritvik Prabhu et.al.|[2603.16721](http://arxiv.org/abs/2603.16721)|null|
 |**2026-03-17**|**An Interpretable Machine Learning Framework for Non-Small Cell Lung Cancer Drug Response Analysis**|Ann Rachel et.al.|[2603.16330](http://arxiv.org/abs/2603.16330)|null|
@@ -316,6 +319,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images**|Kazuya Nishimura et.al.|[2603.18461](http://arxiv.org/abs/2603.18461)|null|
+|**2026-03-18**|**RAFT-UP: Robust Alignment for Spatial Transcriptomics with Explicit Control of Spatial Distortion**|Yaqi Wu et.al.|[2603.18249](http://arxiv.org/abs/2603.18249)|null|
 |**2026-03-18**|**The Causal Uncertainty Principle: Manifold Tearing and the Topological Limits of Counterfactual Interventions**|Rui Wu et.al.|[2603.17385](http://arxiv.org/abs/2603.17385)|null|
 |**2026-03-18**|**Cohomological Obstructions to Global Counterfactuals: A Sheaf-Theoretic Foundation for Generative Causal Models**|Rui Wu et.al.|[2603.17384](http://arxiv.org/abs/2603.17384)|null|
 |**2026-03-17**|**Learning Lineage-guided Geodesics with Finsler Geometry**|Aaron Zweig et.al.|[2603.16708](http://arxiv.org/abs/2603.16708)|null|
@@ -381,6 +386,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**PPI is the Difference Estimator: Recognizing the Survey Sampling Roots of Prediction-Powered Inference**|Reagan Mozer et.al.|[2603.19160](http://arxiv.org/abs/2603.19160)|null|
+|**2026-03-19**|**BiSSLB: Binary Spike-and-Slab Lasso Biclustering**|Sijian Fan et.al.|[2603.18378](http://arxiv.org/abs/2603.18378)|null|
 |**2026-03-17**|**GIST: Gauge-Invariant Spectral Transformers for Scalable Graph Neural Operators**|Mattia Rigotti et.al.|[2603.16849](http://arxiv.org/abs/2603.16849)|null|
 |**2026-03-17**|**Power Analysis for Prediction-Powered Inference**|Yiqun T. Chen et.al.|[2603.16041](http://arxiv.org/abs/2603.16041)|null|
 |**2026-03-16**|**CrossADR: enhancing adverse drug reactions prediction for combination pharmacotherapy with cross-layer feature integration and cross-level associative learning**|Y. Cheung et.al.|[2603.15047](http://arxiv.org/abs/2603.15047)|null|
@@ -454,6 +461,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Rethinking Vector Field Learning for Generative Segmentation**|Chaoyang Wang et.al.|[2603.19218](http://arxiv.org/abs/2603.19218)|null|
+|**2026-03-19**|**Few-shot Acoustic Synthesis with Multimodal Flow Matching**|Amandine Brunetto et.al.|[2603.19176](http://arxiv.org/abs/2603.19176)|null|
+|**2026-03-19**|**Radar Detection through Rectified Flow Matching**|P. Meena et.al.|[2603.18995](http://arxiv.org/abs/2603.18995)|null|
+|**2026-03-19**|**Foundations of Schrödinger Bridges for Generative Modeling**|Sophia Tang et.al.|[2603.18992](http://arxiv.org/abs/2603.18992)|null|
+|**2026-03-19**|**Towards Interpretable Foundation Models for Retinal Fundus Images**|Samuel Ofosu Mensah et.al.|[2603.18846](http://arxiv.org/abs/2603.18846)|null|
+|**2026-03-19**|**OpenT2M: No-frill Motion Generation with Open-source,Large-scale, High-quality Data**|Bin Cao et.al.|[2603.18623](http://arxiv.org/abs/2603.18623)|null|
+|**2026-03-19**|**Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation**|Mingshi Yan et.al.|[2603.18556](http://arxiv.org/abs/2603.18556)|null|
+|**2026-03-19**|**CAFlow: Adaptive-Depth Single-Step Flow Matching for Efficient Histopathology Super-Resolution**|Elad Yoshai et.al.|[2603.18513](http://arxiv.org/abs/2603.18513)|null|
+|**2026-03-19**|**From Snapshots to Symphonies: The Evolution of Protein Prediction from Static Structures to Generative Dynamics and Multimodal Interactions**|Jingzhi Chen et.al.|[2603.18505](http://arxiv.org/abs/2603.18505)|null|
+|**2026-03-19**|**FlowMS: Flow Matching for De Novo Structure Elucidation from Mass Spectra**|Jianan Nie et.al.|[2603.18397](http://arxiv.org/abs/2603.18397)|null|
 |**2026-03-18**|**ProbeFlow: Training-Free Adaptive Flow Matching for Vision-Language-Action Models**|Zhou Fang et.al.|[2603.17850](http://arxiv.org/abs/2603.17850)|null|
 |**2026-03-18**|**Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control**|Zunzhe Zhang et.al.|[2603.17834](http://arxiv.org/abs/2603.17834)|null|
 |**2026-03-18**|**Flow Matching Policy with Entropy Regularization**|Ting Gao et.al.|[2603.17685](http://arxiv.org/abs/2603.17685)|null|
@@ -773,6 +790,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Ontology-Guided Diffusion for Zero-Shot Visual Sim2Real Transfer**|Mohamed Youssef et.al.|[2603.18719](http://arxiv.org/abs/2603.18719)|null|
+|**2026-03-19**|**An Onto-Relational-Sophic Framework for Governing Synthetic Minds**|Huansheng Ning et.al.|[2603.18633](http://arxiv.org/abs/2603.18633)|null|
 |**2026-03-18**|**From Symbol to Meaning: Ontological and Philosophical Reflections on Large Language Models in Information Systems Engineering**|José Palazzo Moreira de Oliveira et.al.|[2603.17659](http://arxiv.org/abs/2603.17659)|null|
 |**2026-03-18**|**Complex versus Complicated Systems Biology, Universality versus Detailed Modelling**|Kunihiko Kaneko et.al.|[2603.17264](http://arxiv.org/abs/2603.17264)|null|
 |**2026-03-18**|**CTG-DB: An Ontology-Based Transformation of ClinicalTrials.gov to Enable Cross-Trial Drug Safety Analyses**|Jeffery L. Painter et.al.|[2603.15936](http://arxiv.org/abs/2603.15936)|null|
@@ -932,6 +951,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**ARIADNE: A Perception-Reasoning Synergy Framework for Trustworthy Coronary Angiography Analysis**|Zhan Jin et.al.|[2603.19169](http://arxiv.org/abs/2603.19169)|null|
+|**2026-03-19**|**Photoferroelectric Coupling and Polarization-Controlled Interfacial Band Modulation in van der Waal Compound CuInP2S6**|Subhashree Chatterjee et.al.|[2603.19148](http://arxiv.org/abs/2603.19148)|null|
+|**2026-03-19**|**A bilinear inverse problem with forward operator inaccuracy applied to neonatal atlas-based diffuse optical tomography**|Aada Hakula et.al.|[2603.18980](http://arxiv.org/abs/2603.18980)|null|
+|**2026-03-19**|**Imaging short- and long-range magnetic order in a quantum anomalous Hall insulator**|Andriani Vervelaki et.al.|[2603.18906](http://arxiv.org/abs/2603.18906)|null|
+|**2026-03-19**|**Translating MRI to PET through Conditional Diffusion Models with Enhanced Pathology Awareness**|Yitong Li et.al.|[2603.18896](http://arxiv.org/abs/2603.18896)|null|
+|**2026-03-19**|**Towards Interpretable Foundation Models for Retinal Fundus Images**|Samuel Ofosu Mensah et.al.|[2603.18846](http://arxiv.org/abs/2603.18846)|null|
+|**2026-03-19**|**Statistical Characteristic-Guided Denoising for Rapid High-Resolution Transmission Electron Microscopy Imaging**|Hesong Li et.al.|[2603.18834](http://arxiv.org/abs/2603.18834)|null|
+|**2026-03-19**|**Interplay between evolutionary and epidemic time scales challenges the outcome of control policies**|Santiago Lamata-Otín et.al.|[2603.18801](http://arxiv.org/abs/2603.18801)|null|
+|**2026-03-19**|**Rethinking Uncertainty Quantification and Entanglement in Image Segmentation**|Jakob Lønborg Christensen et.al.|[2603.18792](http://arxiv.org/abs/2603.18792)|null|
+|**2026-03-19**|**Fermi surface of Kagome metal CsCr $_3$Sb$_5$ observed by laser photoemission microscopy**|Hayate Kunitsu et.al.|[2603.18672](http://arxiv.org/abs/2603.18672)|null|
 |**2026-03-18**|**Revisiting foundation models for cell instance segmentation**|Anwai Archit et.al.|[2603.17845](http://arxiv.org/abs/2603.17845)|null|
 |**2026-03-18**|**Concept-to-Pixel: Prompt-Free Universal Medical Image Segmentation**|Haoyun Chen et.al.|[2603.17746](http://arxiv.org/abs/2603.17746)|null|
 |**2026-03-18**|**Eye image segmentation using visual and concept prompts with Segment Anything Model 3 (SAM3)**|Diederick C. Niehorster et.al.|[2603.17715](http://arxiv.org/abs/2603.17715)|null|
