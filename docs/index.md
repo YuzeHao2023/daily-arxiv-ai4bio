@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**GDEGAN: Gaussian Dynamic Equivariant Graph Attention Network for Ligand Binding Site Prediction**|Animesh et.al.|[2603.19817](http://arxiv.org/abs/2603.19817)|null|
+|**2026-03-20**|**RiboSphere: Learning Unified and Efficient Representations of RNA Structures**|Zhou Zhang et.al.|[2603.19636](http://arxiv.org/abs/2603.19636)|null|
+|**2026-03-19**|**Reinforcement-guided generative protein language models enable de novo design of highly diverse AAV capsids**|Lucas Ferraz et.al.|[2603.19473](http://arxiv.org/abs/2603.19473)|null|
 |**2026-03-19**|**From Snapshots to Symphonies: The Evolution of Protein Prediction from Static Structures to Generative Dynamics and Multimodal Interactions**|Jingzhi Chen et.al.|[2603.18505](http://arxiv.org/abs/2603.18505)|null|
 |**2026-03-18**|**TOI-4552 b: A new ultra-short period rocky world revealed by NIRPS and TESS**|Avidaan Srivastava et.al.|[2603.18233](http://arxiv.org/abs/2603.18233)|null|
 |**2026-03-18**|**Beyond Muon: MUD (MomentUm Decorrelation) for Faster Transformer Training**|Ben S. Southworth et.al.|[2603.17970](http://arxiv.org/abs/2603.17970)|null|
@@ -150,6 +153,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Objective Model Prior Probabilities in Variable Selection**|James Berger et.al.|[2603.19728](http://arxiv.org/abs/2603.19728)|null|
 |**2026-03-19**|**BVSIMC: Bayesian Variable Selection-Guided Inductive Matrix Completion for Improved and Interpretable Drug Discovery**|Sijian Fan et.al.|[2603.18957](http://arxiv.org/abs/2603.18957)|null|
 |**2026-03-18**|**Bivariate deconvolution for cancer detection after surgery**|Nuria Senar et.al.|[2603.17864](http://arxiv.org/abs/2603.17864)|null|
 |**2026-03-17**|**Looking for (Genomic) Needles in a Haystack: Sparsity-Driven Search for Identifying Correlated Genetic Mutations in Cancer**|Ritvik Prabhu et.al.|[2603.16721](http://arxiv.org/abs/2603.16721)|null|
@@ -319,6 +323,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Adapting a Pre-trained Single-Cell Foundation Model to Spatial Gene Expression Generation from Histology Images**|Donghai Fang et.al.|[2603.19766](http://arxiv.org/abs/2603.19766)|null|
 |**2026-03-19**|**Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images**|Kazuya Nishimura et.al.|[2603.18461](http://arxiv.org/abs/2603.18461)|null|
 |**2026-03-18**|**RAFT-UP: Robust Alignment for Spatial Transcriptomics with Explicit Control of Spatial Distortion**|Yaqi Wu et.al.|[2603.18249](http://arxiv.org/abs/2603.18249)|null|
 |**2026-03-18**|**The Causal Uncertainty Principle: Manifold Tearing and the Topological Limits of Counterfactual Interventions**|Rui Wu et.al.|[2603.17385](http://arxiv.org/abs/2603.17385)|null|
@@ -461,6 +466,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture -- Bridging Predictive and Generative Self-Supervised Learning**|Moritz Gögl et.al.|[2603.20111](http://arxiv.org/abs/2603.20111)|null|
+|**2026-03-20**|**LIORNet: Self-Supervised LiDAR Snow Removal Framework for Autonomous Driving under Adverse Weather Conditions**|Ji-il Park et.al.|[2603.19936](http://arxiv.org/abs/2603.19936)|null|
+|**2026-03-20**|**RiboSphere: Learning Unified and Efficient Representations of RNA Structures**|Zhou Zhang et.al.|[2603.19636](http://arxiv.org/abs/2603.19636)|null|
+|**2026-03-19**|**Warm-Start Flow Matching for Guaranteed Fast Text/Image Generation**|Minyoung Kim et.al.|[2603.19360](http://arxiv.org/abs/2603.19360)|null|
 |**2026-03-19**|**Rethinking Vector Field Learning for Generative Segmentation**|Chaoyang Wang et.al.|[2603.19218](http://arxiv.org/abs/2603.19218)|null|
 |**2026-03-19**|**Few-shot Acoustic Synthesis with Multimodal Flow Matching**|Amandine Brunetto et.al.|[2603.19176](http://arxiv.org/abs/2603.19176)|null|
 |**2026-03-19**|**Radar Detection through Rectified Flow Matching**|P. Meena et.al.|[2603.18995](http://arxiv.org/abs/2603.18995)|null|
@@ -790,6 +799,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Can Large Multimodal Models Inspect Buildings? A Hierarchical Benchmark for Structural Pathology Reasoning**|Hui Zhong et.al.|[2603.20148](http://arxiv.org/abs/2603.20148)|null|
+|**2026-03-20**|**Revisiting Gene Ontology Knowledge Discovery with Hierarchical Feature Selection and Virtual Study Group of AI Agents**|Cen Wan et.al.|[2603.20132](http://arxiv.org/abs/2603.20132)|null|
+|**2026-03-20**|**LLM-Enhanced Semantic Data Integration of Electronic Component Qualifications in the Aerospace Domain**|Antonio De Santis et.al.|[2603.20094](http://arxiv.org/abs/2603.20094)|null|
+|**2026-03-20**|**Ontology-Based Knowledge Modeling and Uncertainty-Aware Outdoor Air Quality Assessment Using Weighted Interval Type-2 Fuzzy Logic**|Md Inzmam et.al.|[2603.19683](http://arxiv.org/abs/2603.19683)|null|
+|**2026-03-17**|**Projection and Invariance in Scientific Explanation**|Harry Sticker et.al.|[2603.19323](http://arxiv.org/abs/2603.19323)|null|
 |**2026-03-19**|**Ontology-Guided Diffusion for Zero-Shot Visual Sim2Real Transfer**|Mohamed Youssef et.al.|[2603.18719](http://arxiv.org/abs/2603.18719)|null|
 |**2026-03-19**|**An Onto-Relational-Sophic Framework for Governing Synthetic Minds**|Huansheng Ning et.al.|[2603.18633](http://arxiv.org/abs/2603.18633)|null|
 |**2026-03-18**|**From Symbol to Meaning: Ontological and Philosophical Reflections on Large Language Models in Information Systems Engineering**|José Palazzo Moreira de Oliveira et.al.|[2603.17659](http://arxiv.org/abs/2603.17659)|null|
@@ -951,6 +965,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation**|Sebastian Gerard et.al.|[2603.20191](http://arxiv.org/abs/2603.20191)|null|
+|**2026-03-20**|**When Cubic Is Not Isotropic: Phonon-Exciton Decoupling in CuInSnS $_4$ Single Crystals**|Lara Kim Linke et.al.|[2603.20159](http://arxiv.org/abs/2603.20159)|null|
+|**2026-03-20**|**BioDCASE 2026 Challenge Baseline for Cross-Domain Mosquito Species Classification**|Yuanbo Hou et.al.|[2603.20118](http://arxiv.org/abs/2603.20118)|null|
+|**2026-03-20**|**CFCML: A Coarse-to-Fine Crossmodal Learning Framework For Disease Diagnosis Using Multimodal Images and Tabular Data**|Tianling Liu et.al.|[2603.20016](http://arxiv.org/abs/2603.20016)|null|
+|**2026-03-20**|**Physics-informed Bayesian Optimization for Quantitative High-Resolution Transmission Electron Microscopy**|Xiankang Tang et.al.|[2603.19943](http://arxiv.org/abs/2603.19943)|null|
+|**2026-03-20**|**Physics-aware neural networks enable robust and full atomic structure determination via low-dose atomic electron tomography**|Yao Zhang et.al.|[2603.19942](http://arxiv.org/abs/2603.19942)|null|
+|**2026-03-20**|**Structure orientation determined in transmission and reflection: q-plate**|Hsin-Hui Huang et.al.|[2603.19934](http://arxiv.org/abs/2603.19934)|null|
+|**2026-03-20**|**MedQ-Engine: A Closed-Loop Data Engine for Evolving MLLMs in Medical Image Quality Assessment**|Jiyao Liu et.al.|[2603.19863](http://arxiv.org/abs/2603.19863)|null|
+|**2026-03-20**|**Hyper-Connections for Adaptive Multi-Modal MRI Brain Tumor Segmentation**|Lokendra Kumar et.al.|[2603.19844](http://arxiv.org/abs/2603.19844)|null|
+|**2026-03-20**|**A computational framework to predict the spreading of Alzheimer's disease**|A. Vazquez-Palomo et.al.|[2603.19829](http://arxiv.org/abs/2603.19829)|null|
 |**2026-03-19**|**ARIADNE: A Perception-Reasoning Synergy Framework for Trustworthy Coronary Angiography Analysis**|Zhan Jin et.al.|[2603.19169](http://arxiv.org/abs/2603.19169)|null|
 |**2026-03-19**|**Photoferroelectric Coupling and Polarization-Controlled Interfacial Band Modulation in van der Waal Compound CuInP2S6**|Subhashree Chatterjee et.al.|[2603.19148](http://arxiv.org/abs/2603.19148)|null|
 |**2026-03-19**|**A bilinear inverse problem with forward operator inaccuracy applied to neonatal atlas-based diffuse optical tomography**|Aada Hakula et.al.|[2603.18980](http://arxiv.org/abs/2603.18980)|null|
