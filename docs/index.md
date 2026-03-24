@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.03.23
+## Updated on 2026.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**|Kaiqiang Li et.al.|[2603.21511](http://arxiv.org/abs/2603.21511)|null|
+|**2026-03-22**|**Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on Text-Attributed Graphs**|Zihui Chen et.al.|[2603.21155](http://arxiv.org/abs/2603.21155)|null|
+|**2026-03-21**|**Cross-Granularity Representations for Biological Sequences: Insights from ESM and BiGCARP**|Hanlin Xiao et.al.|[2603.20825](http://arxiv.org/abs/2603.20825)|null|
 |**2026-03-20**|**GDEGAN: Gaussian Dynamic Equivariant Graph Attention Network for Ligand Binding Site Prediction**|Animesh et.al.|[2603.19817](http://arxiv.org/abs/2603.19817)|null|
 |**2026-03-20**|**RiboSphere: Learning Unified and Efficient Representations of RNA Structures**|Zhou Zhang et.al.|[2603.19636](http://arxiv.org/abs/2603.19636)|null|
 |**2026-03-19**|**Reinforcement-guided generative protein language models enable de novo design of highly diverse AAV capsids**|Lucas Ferraz et.al.|[2603.19473](http://arxiv.org/abs/2603.19473)|null|
@@ -153,6 +156,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**RotorMap and Quantum Fingerprints of DNA Sequences via Rotary Position Embeddings**|Danylo Yakymenko et.al.|[2603.22245](http://arxiv.org/abs/2603.22245)|null|
+|**2026-03-23**|**Multimodal Survival Analysis with Locally Deployable Large Language Models**|Moritz Gögl et.al.|[2603.22158](http://arxiv.org/abs/2603.22158)|null|
+|**2026-03-23**|**Parsimonious Subset Selection for Generalized Linear Models with Biomedical Applications**|Anant Mathur et.al.|[2603.21952](http://arxiv.org/abs/2603.21952)|null|
+|**2026-03-23**|**Revisiting Weakly-Supervised Video Scene Graph Generation via Pair Affinity Learning**|Minseok Kang et.al.|[2603.21559](http://arxiv.org/abs/2603.21559)|null|
+|**2026-03-22**|**A harmonized benchmarking framework for implementation-aware evaluation of 46 polygenic risk score tools across binary and continuous phenotypes**|Muhammad Muneeb et.al.|[2603.21201](http://arxiv.org/abs/2603.21201)|null|
+|**2026-03-21**|**Fast and Scalable Cellwise-Robust Ensembles for High-Dimensional Data**|Anthony Christidis et.al.|[2603.20940](http://arxiv.org/abs/2603.20940)|null|
+|**2026-03-21**|**GOLDMARK: Governed Outcome-Linked Diagnostic Model Assessment Reference Kit**|Chad Vanderbilt et.al.|[2603.20848](http://arxiv.org/abs/2603.20848)|null|
+|**2026-03-21**|**Generating from Discrete Distributions Using Diffusions: Insights from Random Constraint Satisfaction Problems**|Alankrita Bhatt et.al.|[2603.20589](http://arxiv.org/abs/2603.20589)|null|
+|**2026-03-21**|**RECLAIM: Cyclic Causal Discovery Amid Measurement Noise**|Muralikrishnna G. Sethuraman et.al.|[2603.20585](http://arxiv.org/abs/2603.20585)|null|
+|**2026-03-20**|**Towards Practical Multimodal Hospital Outbreak Detection**|Chang Liu et.al.|[2603.20536](http://arxiv.org/abs/2603.20536)|null|
 |**2026-03-20**|**Objective Model Prior Probabilities in Variable Selection**|James Berger et.al.|[2603.19728](http://arxiv.org/abs/2603.19728)|null|
 |**2026-03-19**|**BVSIMC: Bayesian Variable Selection-Guided Inductive Matrix Completion for Improved and Interpretable Drug Discovery**|Sijian Fan et.al.|[2603.18957](http://arxiv.org/abs/2603.18957)|null|
 |**2026-03-18**|**Bivariate deconvolution for cancer detection after surgery**|Nuria Senar et.al.|[2603.17864](http://arxiv.org/abs/2603.17864)|null|
@@ -323,6 +336,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-22**|**Domain Elastic Transform: Bayesian Function Registration for High-Dimensional Scientific Data**|Osamu Hirose et.al.|[2603.21235](http://arxiv.org/abs/2603.21235)|null|
 |**2026-03-20**|**Adapting a Pre-trained Single-Cell Foundation Model to Spatial Gene Expression Generation from Histology Images**|Donghai Fang et.al.|[2603.19766](http://arxiv.org/abs/2603.19766)|null|
 |**2026-03-19**|**Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images**|Kazuya Nishimura et.al.|[2603.18461](http://arxiv.org/abs/2603.18461)|null|
 |**2026-03-18**|**RAFT-UP: Robust Alignment for Spatial Transcriptomics with Explicit Control of Spatial Distortion**|Yaqi Wu et.al.|[2603.18249](http://arxiv.org/abs/2603.18249)|null|
@@ -330,7 +344,7 @@ layout: default
 |**2026-03-18**|**Cohomological Obstructions to Global Counterfactuals: A Sheaf-Theoretic Foundation for Generative Causal Models**|Rui Wu et.al.|[2603.17384](http://arxiv.org/abs/2603.17384)|null|
 |**2026-03-17**|**Learning Lineage-guided Geodesics with Finsler Geometry**|Aaron Zweig et.al.|[2603.16708](http://arxiv.org/abs/2603.16708)|null|
 |**2026-03-16**|**BiTro: Bidirectional Transfer Learning Enhances Bulk and Spatial Transcriptomics Prediction in Cancer Pathological Images**|Jingkun Yu et.al.|[2603.14897](http://arxiv.org/abs/2603.14897)|null|
-|**2026-03-18**|**Spatial Transcriptomics as Images for Large-Scale Pretraining**|Yishun Zhu et.al.|[2603.13432](http://arxiv.org/abs/2603.13432)|null|
+|**2026-03-23**|**Spatial Transcriptomics as Images for Large-Scale Pretraining**|Yishun Zhu et.al.|[2603.13432](http://arxiv.org/abs/2603.13432)|null|
 |**2026-03-11**|**MAD: Microenvironment-Aware Distillation -- A Pretraining Strategy for Virtual Spatial Omics from Microscopy**|Jiashu Han et.al.|[2603.13401](http://arxiv.org/abs/2603.13401)|null|
 |**2026-03-16**|**ELISA: An Interpretable Hybrid Generative AI Agent for Expression-Grounded Discovery in Single-Cell Genomics**|Omar Coser et.al.|[2603.11872](http://arxiv.org/abs/2603.11872)|null|
 |**2026-03-10**|**Distribution-free screening of spatially variable genes in spatial transcriptomics**|Changhu Wang et.al.|[2603.09061](http://arxiv.org/abs/2603.09061)|null|
@@ -391,6 +405,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Learning Inflation Narratives from Reddit: How Lightweight LLMs Reveal Forward-Looking Economic Signals**|Ryuichi Saito et.al.|[2603.21501](http://arxiv.org/abs/2603.21501)|null|
+|**2026-03-21**|**Beyond Expression Similarity: Contrastive Learning Recovers Functional Gene Associations from Protein Interaction Structure**|Jason Dury et.al.|[2603.20955](http://arxiv.org/abs/2603.20955)|null|
+|**2026-03-20**|**From Attention to Dialogue: Does Audience Engagement Reinforce Constructive Cross-Party Communication?**|Ahana Biswas et.al.|[2603.20549](http://arxiv.org/abs/2603.20549)|null|
+|**2026-03-13**|**Deciphering Scientific Reasoning Steps from Outcome Data for Molecule Optimization**|Zequn Liu et.al.|[2603.20262](http://arxiv.org/abs/2603.20262)|null|
 |**2026-03-19**|**PPI is the Difference Estimator: Recognizing the Survey Sampling Roots of Prediction-Powered Inference**|Reagan Mozer et.al.|[2603.19160](http://arxiv.org/abs/2603.19160)|null|
 |**2026-03-19**|**BiSSLB: Binary Spike-and-Slab Lasso Biclustering**|Sijian Fan et.al.|[2603.18378](http://arxiv.org/abs/2603.18378)|null|
 |**2026-03-17**|**GIST: Gauge-Invariant Spectral Transformers for Scalable Graph Neural Operators**|Mattia Rigotti et.al.|[2603.16849](http://arxiv.org/abs/2603.16849)|null|
@@ -466,6 +484,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**A Backbone Benchmarking Study on Self-supervised Learning as a Auxiliary Task with Texture-based Local Descriptors for Face Analysis**|Shukesh Reddy et.al.|[2603.22190](http://arxiv.org/abs/2603.22190)|null|
+|**2026-03-23**|**Cross-Modal Reinforcement Learning for Navigation with Degraded Depth Measurements**|Omkar Sawant et.al.|[2603.22182](http://arxiv.org/abs/2603.22182)|null|
+|**2026-03-23**|**SpecTM: Spectral Targeted Masking for Trustworthy Foundation Models**|Syed Usama Imtiaz et.al.|[2603.22097](http://arxiv.org/abs/2603.22097)|null|
+|**2026-03-23**|**Tuning Real-World Image Restoration at Inference: A Test-Time Scaling Paradigm for Flow Matching Models**|Purui Bai et.al.|[2603.22027](http://arxiv.org/abs/2603.22027)|null|
+|**2026-03-23**|**Ara-Best-RQ: Multi Dialectal Arabic SSL**|Haroun Elleuch et.al.|[2603.21900](http://arxiv.org/abs/2603.21900)|null|
+|**2026-03-23**|**Adaptive Federated Fine-Tuning of Self-Supervised Speech Representations**|Xin Guo et.al.|[2603.21888](http://arxiv.org/abs/2603.21888)|null|
+|**2026-03-23**|**Show Me What You Don't Know: Efficient Sampling from Invariant Sets for Model Validation**|Armand Rousselot et.al.|[2603.21782](http://arxiv.org/abs/2603.21782)|null|
+|**2026-03-23**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717](http://arxiv.org/abs/2603.21717)|null|
+|**2026-03-23**|**AdaEdit: Adaptive Temporal and Channel Modulation for Flow-Based Image Editing**|Guandong Li et.al.|[2603.21615](http://arxiv.org/abs/2603.21615)|null|
+|**2026-03-23**|**DiT-Flow: Speech Enhancement Robust to Multiple Distortions based on Flow Matching in Latent Space and Diffusion Transformers**|Tianyu Cao et.al.|[2603.21608](http://arxiv.org/abs/2603.21608)|null|
 |**2026-03-20**|**Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture -- Bridging Predictive and Generative Self-Supervised Learning**|Moritz Gögl et.al.|[2603.20111](http://arxiv.org/abs/2603.20111)|null|
 |**2026-03-20**|**LIORNet: Self-Supervised LiDAR Snow Removal Framework for Autonomous Driving under Adverse Weather Conditions**|Ji-il Park et.al.|[2603.19936](http://arxiv.org/abs/2603.19936)|null|
 |**2026-03-20**|**RiboSphere: Learning Unified and Efficient Representations of RNA Structures**|Zhou Zhang et.al.|[2603.19636](http://arxiv.org/abs/2603.19636)|null|
@@ -799,6 +827,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**The Semantic Ladder: A Framework for Progressive Formalization of Natural Language Content for Knowledge Graphs and AI Systems**|Lars Vogt et.al.|[2603.22136](http://arxiv.org/abs/2603.22136)|null|
+|**2026-03-22**|**Ontology-Compliant Knowledge Graphs**|Zhangcheng Qiang et.al.|[2603.21188](http://arxiv.org/abs/2603.21188)|null|
+|**2026-03-22**|**Ontology-driven personalized information retrieval for XML documents**|Ounnaci Iddir et.al.|[2603.21139](http://arxiv.org/abs/2603.21139)|null|
+|**2026-03-21**|**gUFO: A Gentle Foundational Ontology for Semantic Web Knowledge Graphs**|João Paulo A. Almeida et.al.|[2603.20948](http://arxiv.org/abs/2603.20948)|null|
+|**2026-03-21**|**Auto-differentiable data assimilation: Co-learning of states, dynamics, and filtering algorithms**|Melissa Adrian et.al.|[2603.20891](http://arxiv.org/abs/2603.20891)|null|
+|**2026-03-21**|**Semantic Sections: An Atlas-Native Feature Ontology for Obstructed Representation Spaces**|Hossein Javidnia et.al.|[2603.20867](http://arxiv.org/abs/2603.20867)|null|
+|**2026-03-21**|**Towards Intelligent Geospatial Data Discovery: a knowledge graph-driven multi-agent framework powered by large language models**|Ruixiang Liu et.al.|[2603.20670](http://arxiv.org/abs/2603.20670)|null|
+|**2026-03-21**|**Where can AI be used? Insights from a deep ontology of work activities**|Alice Cai et.al.|[2603.20619](http://arxiv.org/abs/2603.20619)|null|
+|**2026-03-21**|**LJ-Bench: Ontology-Based Benchmark for U.S. Crime**|Hung Yun Tseng et.al.|[2603.20572](http://arxiv.org/abs/2603.20572)|null|
 |**2026-03-20**|**Can Large Multimodal Models Inspect Buildings? A Hierarchical Benchmark for Structural Pathology Reasoning**|Hui Zhong et.al.|[2603.20148](http://arxiv.org/abs/2603.20148)|null|
 |**2026-03-20**|**Revisiting Gene Ontology Knowledge Discovery with Hierarchical Feature Selection and Virtual Study Group of AI Agents**|Cen Wan et.al.|[2603.20132](http://arxiv.org/abs/2603.20132)|null|
 |**2026-03-20**|**LLM-Enhanced Semantic Data Integration of Electronic Component Qualifications in the Aerospace Domain**|Antonio De Santis et.al.|[2603.20094](http://arxiv.org/abs/2603.20094)|null|
@@ -965,6 +1002,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Phonon-polaritonic skyrmions: Transition from bubble- to Néel-type**|Florian Mangold et.al.|[2603.22176](http://arxiv.org/abs/2603.22176)|null|
+|**2026-03-23**|**Transparency-controlled multiple charge transfer in superconducting junctions with local shot-noise scanning tunneling spectroscopy**|Yudai Sato et.al.|[2603.22145](http://arxiv.org/abs/2603.22145)|null|
+|**2026-03-23**|**SegMaFormer: A Hybrid State-Space and Transformer Model for Efficient Segmentation**|Duy D. Nguyen et.al.|[2603.22002](http://arxiv.org/abs/2603.22002)|null|
+|**2026-03-23**|**Visualizing spin-polarization of an altermagnet KV $_2$Se$_2$ O via spin-selective tunneling**|Guofei Yang et.al.|[2603.21969](http://arxiv.org/abs/2603.21969)|null|
+|**2026-03-23**|**Chronological Contrastive Learning: Few-Shot Progression Assessment in Irreversible Diseases**|Clemens Watzenböck et.al.|[2603.21935](http://arxiv.org/abs/2603.21935)|null|
+|**2026-03-23**|**SHAPE: Structure-aware Hierarchical Unsupervised Domain Adaptation with Plausibility Evaluation for Medical Image Segmentation**|Linkuan Zhou et.al.|[2603.21904](http://arxiv.org/abs/2603.21904)|null|
+|**2026-03-23**|**Multi-View Deformable Convolution Meets Visual Mamba for Coronary Artery Segmentation**|Xiaochan Yuan et.al.|[2603.21829](http://arxiv.org/abs/2603.21829)|null|
+|**2026-03-23**|**Anatomical Token Uncertainty for Transformer-Guided Active MRI Acquisition**|Lev Ayzenberg et.al.|[2603.21806](http://arxiv.org/abs/2603.21806)|null|
+|**2026-03-23**|**Cycle Inverse-Consistent TransMorph: A Balanced Deep Learning Framework for Brain MRI Registration**|Jiaqi Shang et.al.|[2603.21760](http://arxiv.org/abs/2603.21760)|null|
+|**2026-03-23**|**A closed-loop platform for the design and nanoscale imaging of GHz acoustic metamaterials**|Federico Maccagno et.al.|[2603.21744](http://arxiv.org/abs/2603.21744)|null|
 |**2026-03-20**|**Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation**|Sebastian Gerard et.al.|[2603.20191](http://arxiv.org/abs/2603.20191)|null|
 |**2026-03-20**|**When Cubic Is Not Isotropic: Phonon-Exciton Decoupling in CuInSnS $_4$ Single Crystals**|Lara Kim Linke et.al.|[2603.20159](http://arxiv.org/abs/2603.20159)|null|
 |**2026-03-20**|**BioDCASE 2026 Challenge Baseline for Cross-Domain Mosquito Species Classification**|Yuanbo Hou et.al.|[2603.20118](http://arxiv.org/abs/2603.20118)|null|
