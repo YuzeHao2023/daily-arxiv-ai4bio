@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
@@ -123,6 +123,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents**|Yuhao Chen et.al.|[2603.23840](http://arxiv.org/abs/2603.23840)|null|
+|**2026-03-24**|**LLMs Do Not Grade Essays Like Humans**|Jerin George Mathew et.al.|[2603.23714](http://arxiv.org/abs/2603.23714)|null|
 |**2026-03-13**|**CHIMERA-Bench: A Benchmark Dataset for Epitope-Specific Antibody Design**|Mansoor Ahmed et.al.|[2603.13431](http://arxiv.org/abs/2603.13431)|null|
 |**2026-03-07**|**TIQA: Human-Aligned Text Quality Assessment in Generated Images**|Kirill Koltsov et.al.|[2603.07119](http://arxiv.org/abs/2603.07119)|null|
 |**2026-03-06**|**Multicellular Tumour Spheroids Exposure to Pulsed Electric Field: A Combined Experimental and Mathematical Modelling Study Highlighting Temporal Dynamics of DAMP Release and Accelerated Regrowth at Intermediate Field Intensities**|Emma Leschiera et.al.|[2603.06087](http://arxiv.org/abs/2603.06087)|null|
@@ -157,6 +159,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**PIM-CACHE: High-Efficiency Content-Aware Copy for Processing-In-Memory**|Peterson Yuhala et.al.|[2603.23762](http://arxiv.org/abs/2603.23762)|null|
 |**2026-03-24**|**Central Dogma Transformer III: Interpretable AI Across DNA, RNA, and Protein**|Nobuyuki Ota et.al.|[2603.23361](http://arxiv.org/abs/2603.23361)|null|
 |**2026-03-23**|**SynLeaF: A Dual-Stage Multimodal Fusion Framework for Synthetic Lethality Prediction Across Pan- and Single-Cancer Contexts**|Zheming Xing et.al.|[2603.22369](http://arxiv.org/abs/2603.22369)|null|
 |**2026-03-23**|**RotorMap and Quantum Fingerprints of DNA Sequences via Rotary Position Embeddings**|Danylo Yakymenko et.al.|[2603.22245](http://arxiv.org/abs/2603.22245)|null|
@@ -339,6 +342,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**i-IF-Learn: Iterative Feature Selection and Unsupervised Learning for High-Dimensional Complex Data**|Chen Ma et.al.|[2603.24025](http://arxiv.org/abs/2603.24025)|null|
+|**2026-03-24**|**Wasserstein Parallel Transport for Predicting the Dynamics of Statistical Systems**|Tristan Luca Saidi et.al.|[2603.23736](http://arxiv.org/abs/2603.23736)|null|
 |**2026-03-24**|**Cross-Slice Knowledge Transfer via Masked Multi-Modal Heterogeneous Graph Contrastive Learning for Spatial Gene Expression Inference**|Zhiceng Shi et.al.|[2603.22821](http://arxiv.org/abs/2603.22821)|null|
 |**2026-03-23**|**MIOFlow 2.0: A unified framework for inferring cellular stochastic dynamics from single cell and spatial transcriptomics data**|Xingzhi Sun et.al.|[2603.22564](http://arxiv.org/abs/2603.22564)|null|
 |**2026-03-23**|**Subspace Tensor Orthogonal Rotation Model (STORM) for Batch Alignment, Cell Type Deconvolution, and Gene Imputation in Spatial Transcriptomic Data**|Sean Cottrell et.al.|[2603.22477](http://arxiv.org/abs/2603.22477)|null|
@@ -411,6 +416,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**ZeroFold: Protein-RNA Binding Affinity Predictions from Pre-Structural Embeddings**|Josef Hanke et.al.|[2603.23583](http://arxiv.org/abs/2603.23583)|null|
 |**2026-03-23**|**Latent Style-based Quantum Wasserstein GAN for Drug Design**|Julien Baglio et.al.|[2603.22399](http://arxiv.org/abs/2603.22399)|null|
 |**2026-03-23**|**Learning Inflation Narratives from Reddit: How Lightweight LLMs Reveal Forward-Looking Economic Signals**|Ryuichi Saito et.al.|[2603.21501](http://arxiv.org/abs/2603.21501)|null|
 |**2026-03-21**|**Beyond Expression Similarity: Contrastive Learning Recovers Functional Gene Associations from Protein Interaction Structure**|Jason Dury et.al.|[2603.20955](http://arxiv.org/abs/2603.20955)|null|
@@ -491,6 +497,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Marchuk: Efficient Global Weather Forecasting from Mid-Range to Sub-Seasonal Scales via Flow Matching**|Arsen Kuzhamuratov et.al.|[2603.24428](http://arxiv.org/abs/2603.24428)|null|
+|**2026-03-25**|**Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens**|Ciem Cornelissen et.al.|[2603.24327](http://arxiv.org/abs/2603.24327)|null|
+|**2026-03-25**|**Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching**|Anjun Gao et.al.|[2603.24054](http://arxiv.org/abs/2603.24054)|null|
+|**2026-03-25**|**SafeFlow: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating**|Hanbyel Cho et.al.|[2603.23983](http://arxiv.org/abs/2603.23983)|null|
+|**2026-03-25**|**ChargeFlow: Flow-Matching Refinement of Charge-Conditioned Electron Densities**|Tri Minh Nguyen et.al.|[2603.23943](http://arxiv.org/abs/2603.23943)|null|
+|**2026-03-25**|**A simple model for conserved intracellular dynamics exhibits multiscale pattern formation, traveling protein domains and arrested coarsening of lipids in the membrane**|Benjamin Winkler et.al.|[2603.23856](http://arxiv.org/abs/2603.23856)|null|
+|**2026-03-25**|**Rethinking Masking Strategies for Masked Prediction-based Audio Self-supervised Learning**|Daisuke Niizumi et.al.|[2603.23810](http://arxiv.org/abs/2603.23810)|null|
+|**2026-03-24**|**Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition**|Lucas H. Ueda et.al.|[2603.23673](http://arxiv.org/abs/2603.23673)|null|
 |**2026-03-24**|**UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation**|Jie Liu et.al.|[2603.23500](http://arxiv.org/abs/2603.23500)|null|
 |**2026-03-24**|**Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation**|Brian Chao et.al.|[2603.23491](http://arxiv.org/abs/2603.23491)|null|
 |**2026-03-24**|**PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning**|Yuanhang Lei et.al.|[2603.23194](http://arxiv.org/abs/2603.23194)|null|
@@ -841,6 +855,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Aumann's theorem beyond ontology: quantum, postquantum, and indefinite causal order**|Carlo Cepollaro et.al.|[2603.23595](http://arxiv.org/abs/2603.23595)|null|
 |**2026-03-24**|**General Machine Learning: Theory for Learning Under Variable Regimes**|Aomar Osmani et.al.|[2603.23220](http://arxiv.org/abs/2603.23220)|null|
 |**2026-03-23**|**SynLeaF: A Dual-Stage Multimodal Fusion Framework for Synthetic Lethality Prediction Across Pan- and Single-Cancer Contexts**|Zheming Xing et.al.|[2603.22369](http://arxiv.org/abs/2603.22369)|null|
 |**2026-03-23**|**The Semantic Ladder: A Framework for Progressive Formalization of Natural Language Content for Knowledge Graphs and AI Systems**|Lars Vogt et.al.|[2603.22136](http://arxiv.org/abs/2603.22136)|null|
@@ -1018,6 +1033,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Chiral Epitaxy: Enantioselective Growth of Chiral Nanowires on Low-Symmetry Two-Dimensional Materials**|Noya Ruth Itzhak et.al.|[2603.24565](http://arxiv.org/abs/2603.24565)|null|
+|**2026-03-25**|**Controlled antivortex propagation at bifurcations in reconfigurable NdCo/NiFe racetracks**|V. V. Fernandez et.al.|[2603.24520](http://arxiv.org/abs/2603.24520)|null|
+|**2026-03-25**|**Substrate-dependent pore formation in molybdenum disulfide monolayers under ion irradiation**|Y. Liebsch et.al.|[2603.24416](http://arxiv.org/abs/2603.24416)|null|
+|**2026-03-25**|**Causal Transfer in Medical Image Analysis**|Mohammed M. Abdelsamea et.al.|[2603.24388](http://arxiv.org/abs/2603.24388)|null|
+|**2026-03-25**|**Honey, I shrunk the scientist -- Evaluating 2D, 3D, and VR interfaces for navigating samples under the microscope**|Jan Tiemann et.al.|[2603.24337](http://arxiv.org/abs/2603.24337)|null|
+|**2026-03-25**|**Automatic LbL-LPE Spin-Coating Strategy for the Fabrication of Highly Oriented Mixed-Linker MOF Thin Films for Orientation-Dependent Applications**|Eleonora Afanasenko et.al.|[2603.24320](http://arxiv.org/abs/2603.24320)|null|
+|**2026-03-25**|**AMIF: Authorizable Medical Image Fusion Model with Built-in Authentication**|Jie Song et.al.|[2603.24296](http://arxiv.org/abs/2603.24296)|null|
+|**2026-03-25**|**Exploring the Structure and Chemistry of 1D and 2D Lepidocrocite TiO2 at Atomic Resolution**|Eric Nestor Tseng et.al.|[2603.24264](http://arxiv.org/abs/2603.24264)|null|
+|**2026-03-25**|**S $^{3}$ G: Stock State Space Graph for Enhanced Stock Trend Prediction**|Yao Lu et.al.|[2603.24236](http://arxiv.org/abs/2603.24236)|null|
+|**2026-03-25**|**How delay, isolation and vaccination shape epidemic waves: a bifurcation approach in mathematical epidemiology**|Mehdi Bouziane et.al.|[2603.24107](http://arxiv.org/abs/2603.24107)|null|
 |**2026-03-24**|**Harnessing Lightweight Transformer with Contextual Synergic Enhancement for Efficient 3D Medical Image Segmentation**|Xinyu Liu et.al.|[2603.23390](http://arxiv.org/abs/2603.23390)|null|
 |**2026-03-24**|**Mamba-driven MRI-to-CT Synthesis for MRI-only Radiotherapy Planning**|Konstantinos Barmpounakis et.al.|[2603.23295](http://arxiv.org/abs/2603.23295)|null|
 |**2026-03-24**|**FDIF: Formula-Driven supervised Learning with Implicit Functions for 3D Medical Image Segmentation**|Yukinori Yamamoto et.al.|[2603.23199](http://arxiv.org/abs/2603.23199)|null|
