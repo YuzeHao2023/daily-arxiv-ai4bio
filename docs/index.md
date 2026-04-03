@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**The Overlooked Repetitive Lengthening Form in Sentiment Analysis**|Lei Wang et.al.|[2604.01268](http://arxiv.org/abs/2604.01268)|null|
 |**2026-04-01**|**BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery**|Yao Qin et.al.|[2604.00550](http://arxiv.org/abs/2604.00550)|null|
 |**2026-03-31**|**Cold-Starts in Generative Recommendation: A Reproducibility Study**|Zhen Zhang et.al.|[2603.29845](http://arxiv.org/abs/2603.29845)|null|
 |**2026-03-31**|**Sampling at intermediate temperatures is optimal for training large language models in protein structure prediction**|L. Ghiringhelli et.al.|[2603.29529](http://arxiv.org/abs/2603.29529)|null|
@@ -170,6 +171,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**QuantumXCT: Learning Interaction-Induced State Transformation in Cell-Cell Communication via Quantum Entanglement and Generative Modeling**|Selim Romero et.al.|[2604.02203](http://arxiv.org/abs/2604.02203)|null|
+|**2026-04-02**|**annbatch unlocks terabyte-scale training of biological data in anndata**|Ilan Gold et.al.|[2604.01949](http://arxiv.org/abs/2604.01949)|null|
 |**2026-04-01**|**Event Embedding of Protein Networks : Compositional Learning of Biological Function**|Antonin Sulc et.al.|[2604.00911](http://arxiv.org/abs/2604.00911)|null|
 |**2026-04-01**|**Debiased Estimators in High-Dimensional Regression: A Review and Replication of Javanmard and Montanari (2014)**|Benjamin Smith et.al.|[2604.00848](http://arxiv.org/abs/2604.00848)|null|
 |**2026-04-01**|**Non-ignorable fuzziness in granular counts: the case of RNA-seq data**|Antonio Calcagnì et.al.|[2604.00763](http://arxiv.org/abs/2604.00763)|null|
@@ -384,7 +387,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-01**|**Yet Even Less Is Even Better For Agentic, Reasoning, and Coding LLMs**|Yang Ye et.al.|[2604.00824](http://arxiv.org/abs/2604.00824)|null|
+|**2026-04-02**|**QuantumXCT: Learning Interaction-Induced State Transformation in Cell-Cell Communication via Quantum Entanglement and Generative Modeling**|Selim Romero et.al.|[2604.02203](http://arxiv.org/abs/2604.02203)|null|
+|**2026-04-02**|**Yet Even Less Is Even Better For Agentic, Reasoning, and Coding LLMs**|CodeArts Model Team et.al.|[2604.00824](http://arxiv.org/abs/2604.00824)|null|
 |**2026-03-31**|**PRISM: PRIor from corpus Statistics for topic Modeling**|Tal Ishon et.al.|[2603.29406](http://arxiv.org/abs/2603.29406)|null|
 |**2026-03-30**|**Key-Embedded Privacy for Decentralized AI in Biomedical Omics**|Rongyu Zhang et.al.|[2603.28334](http://arxiv.org/abs/2603.28334)|null|
 |**2026-03-27**|**A Hierarchical Sheaf Spectral Embedding Framework for Single-Cell RNA-seq Analysis**|Xiang Xiang Wang et.al.|[2603.26858](http://arxiv.org/abs/2603.26858)|null|
@@ -466,6 +470,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Do Prediction Markets Forecast Cryptocurrency Volatility? Evidence from Kalshi Macro Contracts**|Hardhik Mohanty et.al.|[2604.01431](http://arxiv.org/abs/2604.01431)|null|
 |**2026-04-01**|**Event Embedding of Protein Networks : Compositional Learning of Biological Function**|Antonin Sulc et.al.|[2604.00911](http://arxiv.org/abs/2604.00911)|null|
 |**2026-04-01**|**BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery**|Yao Qin et.al.|[2604.00550](http://arxiv.org/abs/2604.00550)|null|
 |**2026-03-31**|**Harmonization mitigates diffusion MRI scanner effects in infancy: insights from the HEALthy Brain and Childhood Development (HBCD) study**|Elyssa M. McMaster et.al.|[2604.00246](http://arxiv.org/abs/2604.00246)|null|
@@ -554,6 +559,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Modular Energy Steering for Safe Text-to-Image Generation with Foundation Models**|Yaoteng Tan et.al.|[2604.02265](http://arxiv.org/abs/2604.02265)|null|
+|**2026-04-02**|**UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**|Qiyao Zhang et.al.|[2604.02241](http://arxiv.org/abs/2604.02241)|null|
+|**2026-04-02**|**Impact of Multimodal and Conversational AI on Learning Outcomes and Experience**|Karan Taneja et.al.|[2604.02221](http://arxiv.org/abs/2604.02221)|null|
+|**2026-04-02**|**Curia-2: Scaling Self-Supervised Learning for Radiology Foundation Models**|Antoine Saporta et.al.|[2604.01987](http://arxiv.org/abs/2604.01987)|null|
+|**2026-04-02**|**A Self supervised learning framework for imbalanced medical imaging datasets**|Yash Kumar Sharma et.al.|[2604.01947](http://arxiv.org/abs/2604.01947)|null|
+|**2026-04-02**|**Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion**|Edoardo A. Dominici et.al.|[2604.01761](http://arxiv.org/abs/2604.01761)|null|
+|**2026-04-02**|**Can Video Diffusion Models Predict Past Frames? Bidirectional Cycle Consistency for Reversible Interpolation**|Lingyu Liu et.al.|[2604.01700](http://arxiv.org/abs/2604.01700)|null|
+|**2026-04-02**|**NEMESIS: Noise-suppressed Efficient MAE with Enhanced Superpatch Integration Strategy**|Kyeonghun Kim et.al.|[2604.01612](http://arxiv.org/abs/2604.01612)|null|
+|**2026-04-02**|**Optimizing EEG Graph Structure for Seizure Detection: An Information Bottleneck and Self-Supervised Learning Approach**|Lincan Li et.al.|[2604.01595](http://arxiv.org/abs/2604.01595)|null|
+|**2026-04-02**|**ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction**|Yanzhe Liang et.al.|[2604.01561](http://arxiv.org/abs/2604.01561)|null|
 |**2026-04-01**|**Maximizing T2-Only Prostate Cancer Localization from Expected Diffusion Weighted Imaging**|Weixi Yi et.al.|[2604.00985](http://arxiv.org/abs/2604.00985)|null|
 |**2026-04-01**|**Flow-based Policy With Distributional Reinforcement Learning in Trajectory Optimization**|Ruijie Hao et.al.|[2604.00977](http://arxiv.org/abs/2604.00977)|null|
 |**2026-04-01**|**Super-Resolving Coarse-Resolution Weather Forecasts With Flow Matching**|Aymeric Delefosse et.al.|[2604.00897](http://arxiv.org/abs/2604.00897)|null|
@@ -956,6 +971,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**A Pragmatist Understanding of Quantum Mechanics**|Richard Healey et.al.|[2604.02197](http://arxiv.org/abs/2604.02197)|null|
+|**2026-04-02**|**The IAEA Fusion Data Lake Project -- Accelerating AI and Big Data Applications through Open Science and FAIR Data**|Daljeet Singh Gahle et.al.|[2604.01797](http://arxiv.org/abs/2604.01797)|null|
+|**2026-04-02**|**Detecting Toxic Language: Ontology and BERT-based Approaches for Bulgarian Text**|Melania Berbatova et.al.|[2604.01745](http://arxiv.org/abs/2604.01745)|null|
+|**2026-04-02**|**The AnIML Ontology: Enabling Semantic Interoperability for Large-Scale Experimental Data in Interconnected Scientific Labs**|Wilf Morlidge et.al.|[2604.01728](http://arxiv.org/abs/2604.01728)|null|
+|**2026-04-02**|**Ontology-Aware Design Patterns for Clinical AI Systems: Translating Reification Theory into Software Architecture**|Florian Odi Stummer et.al.|[2604.01661](http://arxiv.org/abs/2604.01661)|null|
+|**2026-04-01**|**Semantic Modeling for World-Centered Architectures**|Andrei Mantsivoda et.al.|[2604.01359](http://arxiv.org/abs/2604.01359)|null|
+|**2026-04-01**|**IDEA2: Expert-in-the-loop competency question elicitation for collaborative ontology engineering**|Elliott Watkiss-Leek et.al.|[2604.01344](http://arxiv.org/abs/2604.01344)|null|
 |**2026-04-01**|**On distance and proximity between Dummett and Brouwer**|Mark van Atten et.al.|[2604.00934](http://arxiv.org/abs/2604.00934)|null|
 |**2026-04-01**|**Event Embedding of Protein Networks : Compositional Learning of Biological Function**|Antonin Sulc et.al.|[2604.00911](http://arxiv.org/abs/2604.00911)|null|
 |**2026-04-01**|**Procela: Epistemic Governance in Mechanistic Simulations Under Structural Uncertainty**|Kinson Vernet et.al.|[2604.00675](http://arxiv.org/abs/2604.00675)|null|
@@ -1154,6 +1176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**The Retraction Epidemic in Science Across Publishers, Fields, and Countries**|Sara Venturini et.al.|[2604.02302](http://arxiv.org/abs/2604.02302)|null|
+|**2026-04-02**|**AdamFlow: Adam-based Wasserstein Gradient Flows for Surface Registration in Medical Imaging**|Qiang Ma et.al.|[2604.02290](http://arxiv.org/abs/2604.02290)|null|
+|**2026-04-02**|**Bayesian covariance regression for differential network analysis of zero-inflated microbiome data**|Zichun Xu et.al.|[2604.02286](http://arxiv.org/abs/2604.02286)|null|
+|**2026-04-02**|**The "Intensity" Countoscope: Measuring particle dynamics in real space from microscopy images**|Sophie Hermann et.al.|[2604.02271](http://arxiv.org/abs/2604.02271)|null|
+|**2026-04-02**|**DenOiS: Dual-Domain Denoising of Observation and Solution in Ultrasound Image Reconstruction**|Can Deniz Bezek et.al.|[2604.02105](http://arxiv.org/abs/2604.02105)|null|
+|**2026-04-02**|**Rare-Aware Autoencoding: Reconstructing Spatially Imbalanced Data**|Alejandro Castañeda Garcia et.al.|[2604.02031](http://arxiv.org/abs/2604.02031)|null|
+|**2026-04-02**|**Optimizing Interventions for Agent-Based Infectious Disease Simulations**|Anja Wolpers et.al.|[2604.02016](http://arxiv.org/abs/2604.02016)|null|
+|**2026-04-02**|**Curia-2: Scaling Self-Supervised Learning for Radiology Foundation Models**|Antoine Saporta et.al.|[2604.01987](http://arxiv.org/abs/2604.01987)|null|
+|**2026-04-02**|**annbatch unlocks terabyte-scale training of biological data in anndata**|Ilan Gold et.al.|[2604.01949](http://arxiv.org/abs/2604.01949)|null|
+|**2026-04-02**|**A Self supervised learning framework for imbalanced medical imaging datasets**|Yash Kumar Sharma et.al.|[2604.01947](http://arxiv.org/abs/2604.01947)|null|
 |**2026-04-01**|**AdaLoRA-QAT: Adaptive Low-Rank and Quantization-Aware Segmentation**|Prantik Deb et.al.|[2604.01167](http://arxiv.org/abs/2604.01167)|null|
 |**2026-04-01**|**A multiphysics model for triboelectric nanogenerator design with explicit surface roughness representation**|MD Tanzib Ehsan Sanglap et.al.|[2604.01119](http://arxiv.org/abs/2604.01119)|null|
 |**2026-04-01**|**Foundation Model-guided Iteratively Prompting and Pseudo-Labeling for Partially Labeled Medical Image Segmentation**|Qiaochu Zhao et.al.|[2604.01038](http://arxiv.org/abs/2604.01038)|null|
