@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**ViraHinter: a dual-modal artificial intelligence framework for predicting virus-host interactions**|Weiqiang Bai et.al.|[2604.02842](http://arxiv.org/abs/2604.02842)|null|
 |**2026-04-01**|**The Overlooked Repetitive Lengthening Form in Sentiment Analysis**|Lei Wang et.al.|[2604.01268](http://arxiv.org/abs/2604.01268)|null|
 |**2026-04-01**|**BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery**|Yao Qin et.al.|[2604.00550](http://arxiv.org/abs/2604.00550)|null|
 |**2026-03-31**|**Cold-Starts in Generative Recommendation: A Reproducibility Study**|Zhen Zhang et.al.|[2603.29845](http://arxiv.org/abs/2603.29845)|null|
@@ -171,8 +172,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Synonymous Codon Usage Bias Overrides Phylogeny to Reflect Convergent Frond Architecture in a Rapidly Radiating Fern Family Thelypteridaceae**|Kerui Huang et.al.|[2604.03028](http://arxiv.org/abs/2604.03028)|null|
+|**2026-04-03**|**High-dimensional Many-to-many-to-many Mediation Analysis**|Tien Dat Nguyen et.al.|[2604.02886](http://arxiv.org/abs/2604.02886)|null|
+|**2026-04-03**|**Mechanistic insights into the spatial organization of RNA polymerase proteins and the chromosome in E. coli cells**|Debarshi Mitra et.al.|[2604.02838](http://arxiv.org/abs/2604.02838)|null|
+|**2026-04-02**|**Applied Statistics Requires Scientific Context**|Ashley I Naimi et.al.|[2604.02526](http://arxiv.org/abs/2604.02526)|null|
+|**2026-04-02**|**Re-analysis of the Human Transcription Factor Atlas Recovers TF-Specific Signatures from Pooled Single-Cell Screens with Missing Controls**|Arka Jain et.al.|[2604.02511](http://arxiv.org/abs/2604.02511)|null|
+|**2026-04-02**|**Benchmarking Heritability Estimation Strategies Across 86 Configurations and Their Downstream Effect on Polygenic Risk Score Performance**|Muhammad Muneeb et.al.|[2604.02394](http://arxiv.org/abs/2604.02394)|null|
+|**2026-04-01**|**VeloTree: Inferring single-cell trajectories from RNA velocity fields with varifold distances**|Elodie Maignant et.al.|[2604.02380](http://arxiv.org/abs/2604.02380)|null|
 |**2026-04-02**|**QuantumXCT: Learning Interaction-Induced State Transformation in Cell-Cell Communication via Quantum Entanglement and Generative Modeling**|Selim Romero et.al.|[2604.02203](http://arxiv.org/abs/2604.02203)|null|
-|**2026-04-02**|**annbatch unlocks terabyte-scale training of biological data in anndata**|Ilan Gold et.al.|[2604.01949](http://arxiv.org/abs/2604.01949)|null|
+|**2026-04-03**|**annbatch unlocks terabyte-scale training of biological data in anndata**|Ilan Gold et.al.|[2604.01949](http://arxiv.org/abs/2604.01949)|null|
 |**2026-04-01**|**Event Embedding of Protein Networks : Compositional Learning of Biological Function**|Antonin Sulc et.al.|[2604.00911](http://arxiv.org/abs/2604.00911)|null|
 |**2026-04-01**|**Debiased Estimators in High-Dimensional Regression: A Review and Replication of Javanmard and Montanari (2014)**|Benjamin Smith et.al.|[2604.00848](http://arxiv.org/abs/2604.00848)|null|
 |**2026-04-01**|**Non-ignorable fuzziness in granular counts: the case of RNA-seq data**|Antonio Calcagnì et.al.|[2604.00763](http://arxiv.org/abs/2604.00763)|null|
@@ -387,6 +395,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**VeloTree: Inferring single-cell trajectories from RNA velocity fields with varifold distances**|Elodie Maignant et.al.|[2604.02380](http://arxiv.org/abs/2604.02380)|null|
 |**2026-04-02**|**QuantumXCT: Learning Interaction-Induced State Transformation in Cell-Cell Communication via Quantum Entanglement and Generative Modeling**|Selim Romero et.al.|[2604.02203](http://arxiv.org/abs/2604.02203)|null|
 |**2026-04-02**|**Yet Even Less Is Even Better For Agentic, Reasoning, and Coding LLMs**|CodeArts Model Team et.al.|[2604.00824](http://arxiv.org/abs/2604.00824)|null|
 |**2026-03-31**|**PRISM: PRIor from corpus Statistics for topic Modeling**|Tal Ishon et.al.|[2603.29406](http://arxiv.org/abs/2603.29406)|null|
@@ -470,6 +479,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**ViraHinter: a dual-modal artificial intelligence framework for predicting virus-host interactions**|Weiqiang Bai et.al.|[2604.02842](http://arxiv.org/abs/2604.02842)|null|
+|**2026-04-03**|**Do Agent Societies Develop Intellectual Elites? The Hidden Power Laws of Collective Cognition in LLM Multi-Agent Systems**|Kavana Venkatesh et.al.|[2604.02674](http://arxiv.org/abs/2604.02674)|null|
 |**2026-04-01**|**Do Prediction Markets Forecast Cryptocurrency Volatility? Evidence from Kalshi Macro Contracts**|Hardhik Mohanty et.al.|[2604.01431](http://arxiv.org/abs/2604.01431)|null|
 |**2026-04-01**|**Event Embedding of Protein Networks : Compositional Learning of Biological Function**|Antonin Sulc et.al.|[2604.00911](http://arxiv.org/abs/2604.00911)|null|
 |**2026-04-01**|**BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery**|Yao Qin et.al.|[2604.00550](http://arxiv.org/abs/2604.00550)|null|
@@ -559,6 +570,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**A Flow Matching Framework for Soft-Robot Inverse Dynamics**|Hang Yang et.al.|[2604.03006](http://arxiv.org/abs/2604.03006)|null|
+|**2026-04-03**|**Few-Shot Distribution-Aligned Flow Matching for Data Synthesis in Medical Image Segmentation**|Jie Yang et.al.|[2604.02868](http://arxiv.org/abs/2604.02868)|null|
+|**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759](http://arxiv.org/abs/2604.02759)|null|
+|**2026-04-02**|**Rapidly deploying on-device eye tracking by distilling visual foundation models**|Cheng Jiang et.al.|[2604.02509](http://arxiv.org/abs/2604.02509)|null|
+|**2026-04-02**|**ECG Foundation Models and Medical LLMs for Agentic Cardiovascular Intelligence at the Edge: A Review and Outlook**|Mudassir Hasan Khan et.al.|[2604.02501](http://arxiv.org/abs/2604.02501)|null|
+|**2026-04-02**|**Generative models on phase space**|Zachary Bogorad et.al.|[2604.02415](http://arxiv.org/abs/2604.02415)|null|
 |**2026-04-02**|**Modular Energy Steering for Safe Text-to-Image Generation with Foundation Models**|Yaoteng Tan et.al.|[2604.02265](http://arxiv.org/abs/2604.02265)|null|
 |**2026-04-02**|**UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**|Qiyao Zhang et.al.|[2604.02241](http://arxiv.org/abs/2604.02241)|null|
 |**2026-04-02**|**Impact of Multimodal and Conversational AI on Learning Outcomes and Experience**|Karan Taneja et.al.|[2604.02221](http://arxiv.org/abs/2604.02221)|null|
@@ -971,6 +988,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**OntoKG: Ontology-Oriented Knowledge Graph Construction with Intrinsic-Relational Routing**|Yitao Li et.al.|[2604.02618](http://arxiv.org/abs/2604.02618)|null|
+|**2026-04-02**|**Competency Questions as Executable Plans: a Controlled RAG Architecture for Cultural Heritage Storytelling**|Naga Sowjanya Barla et.al.|[2604.02545](http://arxiv.org/abs/2604.02545)|null|
+|**2026-04-02**|**Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space**|Ilya Levin et.al.|[2604.02476](http://arxiv.org/abs/2604.02476)|null|
 |**2026-04-02**|**A Pragmatist Understanding of Quantum Mechanics**|Richard Healey et.al.|[2604.02197](http://arxiv.org/abs/2604.02197)|null|
 |**2026-04-02**|**The IAEA Fusion Data Lake Project -- Accelerating AI and Big Data Applications through Open Science and FAIR Data**|Daljeet Singh Gahle et.al.|[2604.01797](http://arxiv.org/abs/2604.01797)|null|
 |**2026-04-02**|**Detecting Toxic Language: Ontology and BERT-based Approaches for Bulgarian Text**|Melania Berbatova et.al.|[2604.01745](http://arxiv.org/abs/2604.01745)|null|
@@ -1176,6 +1196,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**PR3DICTR: A modular AI framework for medical 3D image-based detection and outcome prediction**|Daniel C. MacRae et.al.|[2604.03203](http://arxiv.org/abs/2604.03203)|null|
+|**2026-04-03**|**SD-FSMIS: Adapting Stable Diffusion for Few-Shot Medical Image Segmentation**|Meihua Li et.al.|[2604.03134](http://arxiv.org/abs/2604.03134)|null|
+|**2026-04-03**|**Synonymous Codon Usage Bias Overrides Phylogeny to Reflect Convergent Frond Architecture in a Rapidly Radiating Fern Family Thelypteridaceae**|Kerui Huang et.al.|[2604.03028](http://arxiv.org/abs/2604.03028)|null|
+|**2026-04-03**|**Extending deep learning U-Net architecture for predicting unsteady fluid flows in textured microchannels**|Ganesh Sahadeo Meshram et.al.|[2604.02976](http://arxiv.org/abs/2604.02976)|null|
+|**2026-04-03**|**Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models**|Hai Nguyen-Truong et.al.|[2604.02893](http://arxiv.org/abs/2604.02893)|null|
+|**2026-04-03**|**Few-Shot Distribution-Aligned Flow Matching for Data Synthesis in Medical Image Segmentation**|Jie Yang et.al.|[2604.02868](http://arxiv.org/abs/2604.02868)|null|
+|**2026-04-03**|**Visual Instruction-Finetuned Language Model for Versatile Brain MR Image Tasks**|Jonghun Kim et.al.|[2604.02748](http://arxiv.org/abs/2604.02748)|null|
+|**2026-04-03**|**XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis**|Shawn Young et.al.|[2604.02695](http://arxiv.org/abs/2604.02695)|null|
+|**2026-04-03**|**Moondream Segmentation: From Words to Masks**|Ethan Reid et.al.|[2604.02593](http://arxiv.org/abs/2604.02593)|null|
+|**2026-04-02**|**Why Invariance is Not Enough for Biomedical Domain Generalization and How to Fix It**|Sebo Diaz et.al.|[2604.02564](http://arxiv.org/abs/2604.02564)|null|
 |**2026-04-02**|**The Retraction Epidemic in Science Across Publishers, Fields, and Countries**|Sara Venturini et.al.|[2604.02302](http://arxiv.org/abs/2604.02302)|null|
 |**2026-04-02**|**AdamFlow: Adam-based Wasserstein Gradient Flows for Surface Registration in Medical Imaging**|Qiang Ma et.al.|[2604.02290](http://arxiv.org/abs/2604.02290)|null|
 |**2026-04-02**|**Bayesian covariance regression for differential network analysis of zero-inflated microbiome data**|Zichun Xu et.al.|[2604.02286](http://arxiv.org/abs/2604.02286)|null|
