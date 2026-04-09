@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**A PMP-inspired Evaluation Framework for Assessing Deep-Learning Earth System Models**|Giuliana Pallotta et.al.|[2604.06567](http://arxiv.org/abs/2604.06567)|null|
 |**2026-04-06**|**General Multimodal Protein Design Enables DNA-Encoding of Chemistry**|Jarrid Rector-Brooks et.al.|[2604.05181](http://arxiv.org/abs/2604.05181)|null|
 |**2026-04-06**|**Towards protein folding pathways by reconstructing protein residue networks with a policy-driven model**|Susan Khor et.al.|[2604.04677](http://arxiv.org/abs/2604.04677)|null|
 |**2026-04-04**|**'Layer su Layer': Identifying and Disambiguating the Italian NPN Construction in BERT's family**|Greta Gorzoni et.al.|[2604.03673](http://arxiv.org/abs/2604.03673)|null|
@@ -137,6 +138,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**TeamLLM: A Human-Like Team-Oriented Collaboration Framework for Multi-Step Contextualized Tasks**|Xiangyu Wang et.al.|[2604.06765](http://arxiv.org/abs/2604.06765)|null|
 |**2026-03-11**|**Evaluating Digital Inclusiveness of Digital Agri-Food Tools Using Large Language Models: A Comparative Analysis Between Human and AI-Based Evaluations**|Githma Pewinya et.al.|[2604.03252](http://arxiv.org/abs/2604.03252)|null|
 |**2026-03-31**|**LLM Essay Scoring Under Holistic and Analytic Rubrics: Prompt Effects and Bias**|Filip J. Kucia et.al.|[2604.00259](http://arxiv.org/abs/2604.00259)|null|
 |**2026-04-01**|**Latent-Y: A Lab-Validated Autonomous Agent for De Novo Drug Design**|Latent Labs Team et.al.|[2603.29727](http://arxiv.org/abs/2603.29727)|null|
@@ -176,6 +178,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Probing 3D Chromatin Structure Awareness in Evo2 DNA Language Model**|UkJin Lee et.al.|[2604.07196](http://arxiv.org/abs/2604.07196)|null|
+|**2026-04-08**|**WebCVTree4: A Newly Designed Phylogenetic and Taxonomic Study Platform for Prokaryotes Using Composition Vectors and Whole Genomes**|Guanghong Zuo et.al.|[2604.06835](http://arxiv.org/abs/2604.06835)|null|
+|**2026-04-08**|**ECLIPSE: A Composable Pipeline for Predicting ecDNA Formation, Evolution, and Therapeutic Vulnerabilities in Cancer**|Bryan Cheng et.al.|[2604.06569](http://arxiv.org/abs/2604.06569)|null|
+|**2026-04-08**|**The Mechanistic Invariance Test: Genomic Language Models Fail to Learn Positional Regulatory Logic**|Bryan Cheng et.al.|[2604.06549](http://arxiv.org/abs/2604.06549)|null|
 |**2026-04-07**|**Nonvariational quantum optimisation approaches to pangenome-guided sequence assembly**|Josh Cudby et.al.|[2604.06106](http://arxiv.org/abs/2604.06106)|null|
 |**2026-04-07**|**The HTC-Claw: Automating Discovery through High-Throughput Computational Campaigns**|Lianduan Zeng et.al.|[2604.06076](http://arxiv.org/abs/2604.06076)|null|
 |**2026-04-07**|**PhageBench: Can LLMs Understand Raw Bacteriophage Genomes?**|Yusen Hou et.al.|[2604.05775](http://arxiv.org/abs/2604.05775)|null|
@@ -499,6 +505,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**How Does LLM Help Regional CPI Forecast: An LLM-powered Deep Panel Modeling Framework**|Tianchen Gao et.al.|[2604.06894](http://arxiv.org/abs/2604.06894)|null|
+|**2026-04-07**|**ToxReason: A Benchmark for Mechanistic Chemical Toxicity Reasoning via Adverse Outcome Pathway**|Jueon Park et.al.|[2604.06264](http://arxiv.org/abs/2604.06264)|null|
 |**2026-04-07**|**MEC: Machine-Learning-Assisted Generalized Entropy Calibration for Semi-Supervised Mean Estimation**|Se Yoon Lee et.al.|[2604.05446](http://arxiv.org/abs/2604.05446)|null|
 |**2026-04-03**|**ViraHinter: a dual-modal artificial intelligence framework for predicting virus-host interactions**|Weiqiang Bai et.al.|[2604.02842](http://arxiv.org/abs/2604.02842)|null|
 |**2026-04-03**|**Do Agent Societies Develop Intellectual Elites? The Hidden Power Laws of Collective Cognition in LLM Multi-Agent Systems**|Kavana Venkatesh et.al.|[2604.02674](http://arxiv.org/abs/2604.02674)|null|
@@ -591,6 +599,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Flow Motion Policy: Manipulator Motion Planning with Flow Matching Models**|Davood Soleymanzadeh et.al.|[2604.07084](http://arxiv.org/abs/2604.07084)|null|
+|**2026-04-08**|**Equivariant Multi-agent Reinforcement Learning for Multimodal Vehicle-to-Infrastructure Systems**|Charbel Bou Chaaya et.al.|[2604.06914](http://arxiv.org/abs/2604.06914)|null|
+|**2026-04-08**|**Enhanced Self-Supervised Multi-Image Super-Resolution for Camera Array Images**|Yating Chen et.al.|[2604.06816](http://arxiv.org/abs/2604.06816)|null|
+|**2026-04-08**|**FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching**|Junchao Yi et.al.|[2604.06757](http://arxiv.org/abs/2604.06757)|null|
+|**2026-04-08**|**ULTRAS -- Unified Learning of Transformer Representations for Audio and Speech Signals**|Ameenudeen P E et.al.|[2604.06702](http://arxiv.org/abs/2604.06702)|null|
+|**2026-04-08**|**VAMAE: Vessel-Aware Masked Autoencoders for OCT Angiography**|Ilerioluwakiiye Abolade et.al.|[2604.06583](http://arxiv.org/abs/2604.06583)|null|
+|**2026-04-07**|**Discrete Flow Matching Policy Optimization**|Maojiang Su et.al.|[2604.06491](http://arxiv.org/abs/2604.06491)|null|
+|**2026-04-07**|**ODE-free Neural Flow Matching for One-Step Generative Modeling**|Xiao Shou et.al.|[2604.06413](http://arxiv.org/abs/2604.06413)|null|
 |**2026-04-07**|**Lipschitz regularity in Flow Matching and Diffusion Models: sharp sampling rates and functional inequalities**|Arthur Stéphanovitch et.al.|[2604.06065](http://arxiv.org/abs/2604.06065)|null|
 |**2026-04-07**|**Optimal-Transport-Guided Functional Flow Matching for Turbulent Field Generation in Hilbert Space**|Li Kunpeng et.al.|[2604.05700](http://arxiv.org/abs/2604.05700)|null|
 |**2026-04-07**|**Rectified Schrödinger Bridge Matching for Few-Step Visual Navigation**|Wuyang Luan et.al.|[2604.05673](http://arxiv.org/abs/2604.05673)|null|
@@ -1244,6 +1260,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling**|Junqi Liu et.al.|[2604.07329](http://arxiv.org/abs/2604.07329)|null|
+|**2026-04-08**|**Two-dimensional shelving spectroscopy of ultraviolet ground state transitions in dysprosium**|Kevin S. H. Ng et.al.|[2604.07283](http://arxiv.org/abs/2604.07283)|null|
+|**2026-04-08**|**Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images**|Xiaojun Zhang et.al.|[2604.07271](http://arxiv.org/abs/2604.07271)|null|
+|**2026-04-08**|**Atomic-Scale Detection of Néel Vector Switching in the Single-Layer A-type Antiferromagnet Cr2S3-2D**|Affan Safeer et.al.|[2604.07245](http://arxiv.org/abs/2604.07245)|null|
+|**2026-04-08**|**Emergence of cooperation in nonlinear higher-order public goods games**|Jaume Llabrés et.al.|[2604.07228](http://arxiv.org/abs/2604.07228)|null|
+|**2026-04-08**|**Photo-Assisted Pd-Nb2O5/Carbon Nanocomposites for Enhanced Ethanol Electro-Oxidation Kinetics and CO Tolerance in Alkaline Media**|João V. T. Neves et.al.|[2604.07203](http://arxiv.org/abs/2604.07203)|null|
+|**2026-04-08**|**Photoexcited Hole States at the SrTiO3(001) Surface Imaged with Noncontact AFM**|Igor Sokolovic et.al.|[2604.07114](http://arxiv.org/abs/2604.07114)|null|
+|**2026-04-08**|**Microscopic evidence of spin-driven multiferroicity and topological spin textures in monolayer NiI2**|Haitao Wang et.al.|[2604.06959](http://arxiv.org/abs/2604.06959)|null|
+|**2026-04-08**|**Time-driven Survival Analysis from FDG-PET/CT in Non-Small Cell Lung Cancer**|Sambit Tarai et.al.|[2604.06885](http://arxiv.org/abs/2604.06885)|null|
+|**2026-04-08**|**WebCVTree4: A Newly Designed Phylogenetic and Taxonomic Study Platform for Prokaryotes Using Composition Vectors and Whole Genomes**|Guanghong Zuo et.al.|[2604.06835](http://arxiv.org/abs/2604.06835)|null|
 |**2026-04-07**|**Extending ZACH-ViT to Robust Medical Imaging: Corruption and Adversarial Stress Testing in Low-Data Regimes**|Athanasios Angelakis et.al.|[2604.06099](http://arxiv.org/abs/2604.06099)|null|
 |**2026-04-07**|**Toward Aristotelian Medical Representations: Backpropagation-Free Layer-wise Analysis for Interpretable Generalized Metric Learning on MedMNIST**|Michael Karnes et.al.|[2604.06017](http://arxiv.org/abs/2604.06017)|null|
 |**2026-04-07**|**A Mixture of Experts Foundation Model for Scanning Electron Microscopy Image Analysis**|Sk Miraj Ahmed et.al.|[2604.05960](http://arxiv.org/abs/2604.05960)|null|
