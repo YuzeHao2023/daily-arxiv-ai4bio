@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Biologically-Grounded Multi-Encoder Architectures as Developability Oracles for Antibody Design**|Simon J. Crouzet et.al.|[2604.09369](http://arxiv.org/abs/2604.09369)|null|
 |**2026-04-08**|**A PMP-inspired Evaluation Framework for Assessing Deep-Learning Earth System Models**|Giuliana Pallotta et.al.|[2604.06567](http://arxiv.org/abs/2604.06567)|null|
 |**2026-04-06**|**General Multimodal Protein Design Enables DNA-Encoding of Chemistry**|Jarrid Rector-Brooks et.al.|[2604.05181](http://arxiv.org/abs/2604.05181)|null|
 |**2026-04-06**|**Towards protein folding pathways by reconstructing protein residue networks with a policy-driven model**|Susan Khor et.al.|[2604.04677](http://arxiv.org/abs/2604.04677)|null|
@@ -138,6 +139,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Biologically-Grounded Multi-Encoder Architectures as Developability Oracles for Antibody Design**|Simon J. Crouzet et.al.|[2604.09369](http://arxiv.org/abs/2604.09369)|null|
 |**2026-04-08**|**TeamLLM: A Human-Like Team-Oriented Collaboration Framework for Multi-Step Contextualized Tasks**|Xiangyu Wang et.al.|[2604.06765](http://arxiv.org/abs/2604.06765)|null|
 |**2026-03-11**|**Evaluating Digital Inclusiveness of Digital Agri-Food Tools Using Large Language Models: A Comparative Analysis Between Human and AI-Based Evaluations**|Githma Pewinya et.al.|[2604.03252](http://arxiv.org/abs/2604.03252)|null|
 |**2026-03-31**|**LLM Essay Scoring Under Holistic and Analytic Rubrics: Prompt Effects and Bias**|Filip J. Kucia et.al.|[2604.00259](http://arxiv.org/abs/2604.00259)|null|
@@ -178,6 +180,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**A novel hybrid approach for positive-valued DAG learning**|Yao Zhao et.al.|[2604.08935](http://arxiv.org/abs/2604.08935)|null|
+|**2026-04-09**|**SenBen: Sensitive Scene Graphs for Explainable Content Moderation**|Fatih Cagatay Akyon et.al.|[2604.08819](http://arxiv.org/abs/2604.08819)|null|
+|**2026-04-09**|**EvoLen: Evolution-Guided Tokenization for DNA Language Model**|Nan Huang et.al.|[2604.08698](http://arxiv.org/abs/2604.08698)|null|
 |**2026-04-09**|**U-CECE: A Universal Multi-Resolution Framework for Conceptual Counterfactual Explanations**|Angeliki Dimitriou et.al.|[2604.08295](http://arxiv.org/abs/2604.08295)|null|
 |**2026-04-09**|**Co-design for Trustworthy AI: An Interpretable and Explainable Tool for Type 2 Diabetes Prediction Using Genomic Polygenic Risk Scores**|Ralf Beuthan et.al.|[2604.08217](http://arxiv.org/abs/2604.08217)|null|
 |**2026-04-09**|**Introducing Echo Networks for Computational Neuroevolution**|Christian Kroos et.al.|[2604.08204](http://arxiv.org/abs/2604.08204)|null|
@@ -422,12 +427,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Cross-Modal Knowledge Distillation from Spatial Transcriptomics to Histology**|Arbel Hizmi et.al.|[2604.09076](http://arxiv.org/abs/2604.09076)|null|
 |**2026-04-09**|**A Quasi-Regression Method for the Mediation Analysis of Zero-Inflated Single-Cell Data**|Seungjun Ahn et.al.|[2604.08507](http://arxiv.org/abs/2604.08507)|null|
 |**2026-04-07**|**Transcriptomic Models for Immunotherapy Response Prediction Show Limited Cross-cohort Generalisability**|Yuheng Liang et.al.|[2604.05478](http://arxiv.org/abs/2604.05478)|null|
 |**2026-04-05**|**SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources**|Shuaike Shen et.al.|[2604.03964](http://arxiv.org/abs/2604.03964)|null|
 |**2026-04-04**|**CountsDiff: A Diffusion Model on the Natural Numbers for Generation and Imputation of Count-Based Data**|Renzo G. Soatto et.al.|[2604.03779](http://arxiv.org/abs/2604.03779)|null|
 |**2026-04-04**|**A Multimodal Foundation Model of Spatial Transcriptomics and Histology for Biological Discovery and Clinical Prediction**|Jinxi Xiang et.al.|[2604.03630](http://arxiv.org/abs/2604.03630)|null|
-|**2026-04-03**|**Inference for Clustering: Conformal Sets for Cluster Labels**|Anirban Nath et.al.|[2604.03488](http://arxiv.org/abs/2604.03488)|null|
+|**2026-04-09**|**Inference for Clustering: Conformal Sets for Cluster Labels**|YoonHaeng Hur et.al.|[2604.03488](http://arxiv.org/abs/2604.03488)|null|
 |**2026-04-01**|**VeloTree: Inferring single-cell trajectories from RNA velocity fields with varifold distances**|Elodie Maignant et.al.|[2604.02380](http://arxiv.org/abs/2604.02380)|null|
 |**2026-04-09**|**QuantumXCT: Learning Interaction-Induced State Transformation in Cell-Cell Communication via Quantum Entanglement and Generative Modeling**|Selim Romero et.al.|[2604.02203](http://arxiv.org/abs/2604.02203)|null|
 |**2026-04-06**|**Yet Even Less Is Even Better For Agentic, Reasoning, and Coding LLMs**|CodeArts Model Team et.al.|[2604.00824](http://arxiv.org/abs/2604.00824)|null|
@@ -512,6 +518,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**A Physically-Informed Subgraph Isomorphism Approach to Molecular Docking Using Quantum Annealers**|Francesco Micucci et.al.|[2604.09540](http://arxiv.org/abs/2604.09540)|null|
 |**2026-04-09**|**Reinforcement Learning with LLM-Guided Action Spaces for Synthesizable Lead Optimization**|Tao Li et.al.|[2604.07669](http://arxiv.org/abs/2604.07669)|null|
 |**2026-04-08**|**Rhizome OS-1: Rhizome's Semi-Autonomous Operating System for Small Molecule Drug Discovery**|Yiwen Wang et.al.|[2604.07512](http://arxiv.org/abs/2604.07512)|null|
 |**2026-04-08**|**How Does LLM Help Regional CPI Forecast: An LLM-powered Deep Panel Modeling Framework**|Tianchen Gao et.al.|[2604.06894](http://arxiv.org/abs/2604.06894)|null|
@@ -608,6 +615,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Online3R: Online Learning for Consistent Sequential Reconstruction Based on Geometry Foundation Model**|Shunkai Zhou et.al.|[2604.09480](http://arxiv.org/abs/2604.09480)|null|
+|**2026-04-10**|**Data Selection Effects on Self-Supervised Learning of Audio Representations for French Audiovisual Broadcasts**|Valentin Pelloin et.al.|[2604.09472](http://arxiv.org/abs/2604.09472)|null|
+|**2026-04-10**|**Physics-guided surrogate learning enables zero-shot control of turbulent wings**|Yuning Wang et.al.|[2604.09434](http://arxiv.org/abs/2604.09434)|null|
+|**2026-04-10**|**DialogueSidon: Recovering Full-Duplex Dialogue Tracks from In-the-Wild Dialogue Audio**|Wataru Nakata et.al.|[2604.09344](http://arxiv.org/abs/2604.09344)|null|
+|**2026-04-10**|**VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis**|Xiaolei Lang et.al.|[2604.09330](http://arxiv.org/abs/2604.09330)|null|
+|**2026-04-10**|**Training-free, Perceptually Consistent Low-Resolution Previews with High-Resolution Image for Efficient Workflows of Diffusion Models**|Wongi Jeong et.al.|[2604.09227](http://arxiv.org/abs/2604.09227)|null|
+|**2026-04-10**|**LatentFlowSR: High-Fidelity Audio Super-Resolution via Noise-Robust Latent Flow Matching**|Fei Liu et.al.|[2604.09188](http://arxiv.org/abs/2604.09188)|null|
+|**2026-04-10**|**Truncated Rectified Flow Policy for Reinforcement Learning with One-Step Sampling**|Xubin Zhou et.al.|[2604.09159](http://arxiv.org/abs/2604.09159)|null|
+|**2026-04-10**|**Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch**|Gabriele Mario Caddeo et.al.|[2604.09100](http://arxiv.org/abs/2604.09100)|null|
+|**2026-04-10**|**Beyond Isolated Clients: Integrating Graph-Based Embeddings into Event Sequence Models**|Harry Proshian et.al.|[2604.09085](http://arxiv.org/abs/2604.09085)|null|
 |**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|
 |**2026-04-09**|**A Machine Learning Framework for Turbofan Health Estimation via Inverse Problem Formulation**|Milad Leyli-Abadi et.al.|[2604.08460](http://arxiv.org/abs/2604.08460)|null|
 |**2026-04-09**|**Equivariant Efficient Joint Discrete and Continuous MeanFlow for Molecular Graph Generation**|Rongjian Xu et.al.|[2604.08189](http://arxiv.org/abs/2604.08189)|null|
@@ -1059,6 +1076,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Efficient Shapley values computation for Boolean network models of gene regulation**|Giang Pham et.al.|[2604.09403](http://arxiv.org/abs/2604.09403)|null|
+|**2026-04-10**|**Scalable High-Recall Constraint-Satisfaction-Based Information Retrieval for Clinical Trials Matching**|Cyrus Zhou et.al.|[2604.08849](http://arxiv.org/abs/2604.08849)|null|
+|**2026-04-08**|**From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI**|Hongyin Zhu et.al.|[2604.08603](http://arxiv.org/abs/2604.08603)|null|
+|**2026-04-07**|**STIndex: A Context-Aware Multi-Dimensional Spatiotemporal Information Extraction System**|Wenxiao Zhang et.al.|[2604.08597](http://arxiv.org/abs/2604.08597)|null|
 |**2026-04-08**|**SMT with Uninterpreted Functions and Monotonicity Constraints in Systems Biology**|Ondřej Huvar et.al.|[2604.07496](http://arxiv.org/abs/2604.07496)|null|
 |**2026-04-07**|**FinReporting: An Agentic Workflow for Localized Reporting of Cross-Jurisdiction Financial Disclosures**|Fan Zhang et.al.|[2604.05966](http://arxiv.org/abs/2604.05966)|null|
 |**2026-04-07**|**Beyond Tools and Persons: Who Are They? Classifying Robots and AI Agents for Proportional Governance**|Huansheng Ning et.al.|[2604.05568](http://arxiv.org/abs/2604.05568)|null|
@@ -1278,6 +1299,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Toward World Models for Epidemiology**|Zeeshan Memon et.al.|[2604.09519](http://arxiv.org/abs/2604.09519)|null|
+|**2026-04-10**|**DSVTLA: Deep Swin Vision Transformer-Based Transfer Learning Architecture for Multi-Type Cancer Histopathological Cancer Image Classification**|Muazzem Hussain Khan et.al.|[2604.09468](http://arxiv.org/abs/2604.09468)|null|
+|**2026-04-10**|**On the origin of superlattice stacking faults nucleation via climb of Frank partial in CoNi-based superalloys**|Zhida Liang et.al.|[2604.09329](http://arxiv.org/abs/2604.09329)|null|
+|**2026-04-10**|**The Fast Lane Hypothesis: Von Economo Neurons Implement a Biological Speed-Accuracy Tradeoff**|Esila Keskin et.al.|[2604.09229](http://arxiv.org/abs/2604.09229)|null|
+|**2026-04-10**|**Favorable half-Heusler structure of synthesized TiCoSb alloy: a theoretical and experimental study**|Pallabi Sardar et.al.|[2604.09223](http://arxiv.org/abs/2604.09223)|null|
+|**2026-04-10**|**Vision Transformers for Preoperative CT-Based Prediction of Histopathologic Chemotherapy Response Score in High-Grade Serous Ovarian Carcinoma**|Francesca Fati et.al.|[2604.09197](http://arxiv.org/abs/2604.09197)|null|
+|**2026-04-10**|**UniSemAlign: Text-Prototype Alignment with a Foundation Encoder for Semi-Supervised Histopathology Segmentation**|Le-Van Thai et.al.|[2604.09169](http://arxiv.org/abs/2604.09169)|null|
+|**2026-04-10**|**Controlled beams of cryo-cooled protein-like nanoparticles**|Jingxuan He et.al.|[2604.09090](http://arxiv.org/abs/2604.09090)|null|
+|**2026-04-10**|**Robust by Design: A Continuous Monitoring and Data Integration Framework for Medical AI**|Mohammad Daouk et.al.|[2604.09009](http://arxiv.org/abs/2604.09009)|null|
+|**2026-04-10**|**Local control and lateral nanofocusing of hyperbolic phonon polaritons**|Jacob T. Heiden et.al.|[2604.08996](http://arxiv.org/abs/2604.08996)|null|
 |**2026-04-09**|**When Fine-Tuning Changes the Evidence: Architecture-Dependent Semantic Drift in Chest X-Ray Explanations**|Kabilan Elangovan et.al.|[2604.08513](http://arxiv.org/abs/2604.08513)|null|
 |**2026-04-09**|**Quantifying Explanation Consistency: The C-Score Metric for CAM-Based Explainability in Medical Image Classification**|Kabilan Elangovan et.al.|[2604.08502](http://arxiv.org/abs/2604.08502)|null|
 |**2026-04-09**|**Persistence-Augmented Neural Networks**|Elena Xinyi Wang et.al.|[2604.08469](http://arxiv.org/abs/2604.08469)|null|
