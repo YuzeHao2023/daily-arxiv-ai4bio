@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.16
+## Updated on 2026.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Polyformer: a generative framework for thermodynamic modeling of polymeric molecules**|Alessio Valentini et.al.|[2604.14241](http://arxiv.org/abs/2604.14241)|null|
 |**2026-04-14**|**Calibrated Abstention for Reliable TCR--pMHC Binding Prediction under Epitope Shift**|Arman Bekov et.al.|[2604.13254](http://arxiv.org/abs/2604.13254)|null|
 |**2026-04-14**|**Pareto-Optimal Offline Reinforcement Learning via Smooth Tchebysheff Scalarization**|Aadyot Bhatnagar et.al.|[2604.13175](http://arxiv.org/abs/2604.13175)|null|
 |**2026-04-14**|**SCRIPT: A Subcharacter Compositional Representation Injection Module for Korean Pre-Trained Language Models**|SungHo Kim et.al.|[2604.12377](http://arxiv.org/abs/2604.12377)|null|
@@ -191,6 +192,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Combining Bayesian and Frequentist Inference for Laboratory-Specific Performance Guarantees in Copy Number Variation Detection**|Austin Talbot et.al.|[2604.14305](http://arxiv.org/abs/2604.14305)|null|
 |**2026-04-15**|**A generative model for bipartite gene-sharing networks**|Jaime Iranzo et.al.|[2604.13963](http://arxiv.org/abs/2604.13963)|null|
 |**2026-04-15**|**High-Dimensional Data Analysis for Elliptically Symmetric Distributions**|Long Feng et.al.|[2604.13944](http://arxiv.org/abs/2604.13944)|null|
 |**2026-04-14**|**SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis**|Kathakoli Sengupta et.al.|[2604.13035](http://arxiv.org/abs/2604.13035)|null|
@@ -449,11 +451,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Spectral Effects Of Heavy-Tailed Vertex Noise In Geometric Graphs**|Ben Cardoen et.al.|[2604.15123](http://arxiv.org/abs/2604.15123)|null|
+|**2026-04-16**|**Intermediate Layers Encode Optimal Biological Representations in Single-Cell Foundation Models**|Vincenzo Yuto Civale et.al.|[2604.14838](http://arxiv.org/abs/2604.14838)|null|
 |**2026-04-13**|**INST-Align: Implicit Neural Alignment for Spatial Transcriptomics via Canonical Expression Fields**|Bonian Han et.al.|[2604.12084](http://arxiv.org/abs/2604.12084)|null|
 |**2026-04-13**|**Nested Atoms Model with Application to Clustering Big Population-Scale Single-Cell Data**|Arhit Chakrabarti et.al.|[2604.11731](http://arxiv.org/abs/2604.11731)|null|
 |**2026-04-10**|**Cross-Modal Knowledge Distillation from Spatial Transcriptomics to Histology**|Arbel Hizmi et.al.|[2604.09076](http://arxiv.org/abs/2604.09076)|null|
 |**2026-04-09**|**A Quasi-Regression Method for the Mediation Analysis of Zero-Inflated Single-Cell Data**|Seungjun Ahn et.al.|[2604.08507](http://arxiv.org/abs/2604.08507)|null|
-|**2026-04-15**|**Transcriptomic Models for Immunotherapy Response Prediction Show Limited Cross-cohort Generalisability**|Yuheng Liang et.al.|[2604.05478](http://arxiv.org/abs/2604.05478)|null|
+|**2026-04-16**|**Transcriptomic Models for Immunotherapy Response Prediction Show Limited Cross-cohort Generalisability**|Yuheng Liang et.al.|[2604.05478](http://arxiv.org/abs/2604.05478)|null|
 |**2026-04-05**|**SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources**|Shuaike Shen et.al.|[2604.03964](http://arxiv.org/abs/2604.03964)|null|
 |**2026-04-04**|**CountsDiff: A Diffusion Model on the Natural Numbers for Generation and Imputation of Count-Based Data**|Renzo G. Soatto et.al.|[2604.03779](http://arxiv.org/abs/2604.03779)|null|
 |**2026-04-04**|**A Multimodal Foundation Model of Spatial Transcriptomics and Histology for Biological Discovery and Clinical Prediction**|Jinxi Xiang et.al.|[2604.03630](http://arxiv.org/abs/2604.03630)|null|
@@ -644,6 +648,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|null|
+|**2026-04-16**|**Amortized Optimal Transport from Sliced Potentials**|Minh-Phuc Truong et.al.|[2604.15114](http://arxiv.org/abs/2604.15114)|null|
+|**2026-04-16**|**Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching**|Aihua Li et.al.|[2604.15009](http://arxiv.org/abs/2604.15009)|null|
+|**2026-04-16**|**Generative Modeling of Complex-Valued Brain MRI Data**|Marco Schlimbach et.al.|[2604.14800](http://arxiv.org/abs/2604.14800)|null|
+|**2026-04-16**|**Co-distilled attention guided masked image modeling with noisy teacher for self-supervised learning on medical images**|Jue Jiang et.al.|[2604.14506](http://arxiv.org/abs/2604.14506)|null|
+|**2026-04-15**|**Metric-Aware Principal Component Analysis (MAPCA):A Unified Framework for Scale-Invariant Representation Learning**|Michael Leznik et.al.|[2604.14249](http://arxiv.org/abs/2604.14249)|null|
 |**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125](http://arxiv.org/abs/2604.14125)|null|
 |**2026-04-15**|**PRiMeFlow: Capturing Complex Expression Heterogeneity in Perturbation Response Modelling**|Zichao Yan et.al.|[2604.13986](http://arxiv.org/abs/2604.13986)|null|
 |**2026-04-15**|**EMGFlow: Robust and Efficient Surface Electromyography Synthesis via Flow Matching**|Boxuan Jiang et.al.|[2604.13685](http://arxiv.org/abs/2604.13685)|null|
@@ -1127,6 +1137,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Beyond Literal Summarization: Redefining Hallucination for Medical SOAP Note Evaluation**|Bhavik Vachhani et.al.|[2604.14829](http://arxiv.org/abs/2604.14829)|null|
+|**2026-04-16**|**Prime--Zero Duality: Fractal Geometry, Renormalization-Group Flow, and an Information-Ontological Framework for Number Theory**|Zhengqiang Li et.al.|[2604.14596](http://arxiv.org/abs/2604.14596)|null|
+|**2026-04-15**|**APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI**|Pratyay Banerjee et.al.|[2604.14362](http://arxiv.org/abs/2604.14362)|null|
 |**2026-04-14**|**Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation**|Mohsen Nayebi Kerdabadi et.al.|[2604.13331](http://arxiv.org/abs/2604.13331)|null|
 |**2026-04-14**|**On the Creativity of AI Agents**|Giorgio Franceschelli et.al.|[2604.13242](http://arxiv.org/abs/2604.13242)|null|
 |**2026-04-14**|**SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis**|Kathakoli Sengupta et.al.|[2604.13035](http://arxiv.org/abs/2604.13035)|null|
@@ -1366,6 +1379,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation**|Tianhao Fu et.al.|[2604.15271](http://arxiv.org/abs/2604.15271)|null|
+|**2026-04-16**|**RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**|Mélanie Roschewitz et.al.|[2604.15231](http://arxiv.org/abs/2604.15231)|null|
+|**2026-04-16**|**Orientational bistability and field-controlled switching of a superparamagnetic dimer**|James R. N. Tett et.al.|[2604.15212](http://arxiv.org/abs/2604.15212)|null|
+|**2026-04-16**|**Beyond Independent Frames: Latent Attention Masked Autoencoders for Multi-View Echocardiography**|Simon Böhi et.al.|[2604.15096](http://arxiv.org/abs/2604.15096)|null|
+|**2026-04-16**|**Roadmap on Attosecond Science**|Rocio Borrego Varillas et.al.|[2604.15085](http://arxiv.org/abs/2604.15085)|null|
+|**2026-04-16**|**Magneto-optical imaging of macroscopic altermagnetic domains in MnTe**|Gakuto Watanabe et.al.|[2604.14947](http://arxiv.org/abs/2604.14947)|null|
+|**2026-04-16**|**MetaDent: Labeling Clinical Images for Vision-Language Models in Dentistry**|Meng-Xun Li et.al.|[2604.14866](http://arxiv.org/abs/2604.14866)|null|
+|**2026-04-16**|**Efficient Search of Implantable Adaptive Cells for Medical Image Segmentation**|Emil Benedykciuk et.al.|[2604.14849](http://arxiv.org/abs/2604.14849)|null|
+|**2026-04-16**|**Domain Fine-Tuning FinBERT on Finnish Histopathological Reports: Train-Time Signals and Downstream Correlations**|Rami Luisto et.al.|[2604.14815](http://arxiv.org/abs/2604.14815)|null|
+|**2026-04-16**|**Orbitals of Artificial Atoms in a Gapped Two-Dimensional Vacuum**|Mong-Wen Gu et.al.|[2604.14737](http://arxiv.org/abs/2604.14737)|null|
 |**2026-04-15**|**Sub-micromolar imaging of intrinsic chromophores by two-photon photothermal microscopy captures mitochondrial response to chemotherapy**|Nathaniel Hai et.al.|[2604.14120](http://arxiv.org/abs/2604.14120)|null|
 |**2026-04-15**|**The Epidemiology of Artificial Intelligence**|Harsh Parikh et.al.|[2604.14086](http://arxiv.org/abs/2604.14086)|null|
 |**2026-04-15**|**MApLe: Multi-instance Alignment of Diagnostic Reports and Large Medical Images**|Felicia Bader et.al.|[2604.13970](http://arxiv.org/abs/2604.13970)|null|
