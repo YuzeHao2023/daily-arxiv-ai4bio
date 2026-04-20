@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**A gem system with a lava world and a habitable zone sub-Neptune orbiting TOI-1752**|A. Peláez-Torres et.al.|[2604.15816](http://arxiv.org/abs/2604.15816)|null|
 |**2026-04-15**|**Polyformer: a generative framework for thermodynamic modeling of polymeric molecules**|Alessio Valentini et.al.|[2604.14241](http://arxiv.org/abs/2604.14241)|null|
 |**2026-04-14**|**Calibrated Abstention for Reliable TCR--pMHC Binding Prediction under Epitope Shift**|Arman Bekov et.al.|[2604.13254](http://arxiv.org/abs/2604.13254)|null|
 |**2026-04-14**|**Pareto-Optimal Offline Reinforcement Learning via Smooth Tchebysheff Scalarization**|Aadyot Bhatnagar et.al.|[2604.13175](http://arxiv.org/abs/2604.13175)|null|
@@ -192,6 +193,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Brain Score Tracks Shared Properties of Languages: Evidence from Many Natural Languages and Structured Sequences**|Jingnong Qu et.al.|[2604.15503](http://arxiv.org/abs/2604.15503)|null|
 |**2026-04-15**|**Combining Bayesian and Frequentist Inference for Laboratory-Specific Performance Guarantees in Copy Number Variation Detection**|Austin Talbot et.al.|[2604.14305](http://arxiv.org/abs/2604.14305)|null|
 |**2026-04-15**|**A generative model for bipartite gene-sharing networks**|Jaime Iranzo et.al.|[2604.13963](http://arxiv.org/abs/2604.13963)|null|
 |**2026-04-15**|**High-Dimensional Data Analysis for Elliptically Symmetric Distributions**|Long Feng et.al.|[2604.13944](http://arxiv.org/abs/2604.13944)|null|
@@ -648,6 +650,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**Polyglot: Multilingual Style Preserving Speech-Driven Facial Animation**|Federico Nocentini et.al.|[2604.16108](http://arxiv.org/abs/2604.16108)|null|
+|**2026-04-17**|**Stylistic-STORM (ST-STORM) : Perceiving the Semantic Nature of Appearance**|Hamed Ouattara et.al.|[2604.16086](http://arxiv.org/abs/2604.16086)|null|
+|**2026-04-17**|**The Amazing Stability of Flow Matching**|Rania Briq et.al.|[2604.16079](http://arxiv.org/abs/2604.16079)|null|
+|**2026-04-17**|**AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning**|Guransh Singh et.al.|[2604.16067](http://arxiv.org/abs/2604.16067)|null|
+|**2026-04-17**|**SSMamba: A Self-Supervised Hybrid State Space Model for Pathological Image Classification**|Enhui Chai et.al.|[2604.15711](http://arxiv.org/abs/2604.15711)|null|
+|**2026-04-17**|**Graph self-supervised learning based on frequency corruption**|Haojie Li et.al.|[2604.15699](http://arxiv.org/abs/2604.15699)|null|
+|**2026-04-16**|**Frequency-Aware Flow Matching for High-Quality Image Generation**|Sucheng Ren et.al.|[2604.15521](http://arxiv.org/abs/2604.15521)|null|
+|**2026-04-16**|**RelativeFlow: Taming Medical Image Denoising Learning with Noisy Reference**|Yuxin Liu et.al.|[2604.15459](http://arxiv.org/abs/2604.15459)|null|
 |**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|null|
 |**2026-04-16**|**Amortized Optimal Transport from Sliced Potentials**|Minh-Phuc Truong et.al.|[2604.15114](http://arxiv.org/abs/2604.15114)|null|
 |**2026-04-16**|**Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching**|Aihua Li et.al.|[2604.15009](http://arxiv.org/abs/2604.15009)|null|
@@ -1137,6 +1147,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**Characterising LLM-Generated Competency Questions: a Cross-Domain Empirical Study using Open and Closed Models**|Reham Alharbi et.al.|[2604.16258](http://arxiv.org/abs/2604.16258)|null|
+|**2026-04-17**|**Structure preserving properties of higher order moment closures for TASEP**|Kilian Pioch et.al.|[2604.15925](http://arxiv.org/abs/2604.15925)|null|
+|**2026-04-16**|**Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures**|Dipto Das et.al.|[2604.15514](http://arxiv.org/abs/2604.15514)|null|
+|**2026-04-16**|**The Metric Fossil: Emergent Spacetime from Asymmetric Projection**|Jonathon Sendall et.al.|[2604.15404](http://arxiv.org/abs/2604.15404)|null|
 |**2026-04-16**|**Beyond Literal Summarization: Redefining Hallucination for Medical SOAP Note Evaluation**|Bhavik Vachhani et.al.|[2604.14829](http://arxiv.org/abs/2604.14829)|null|
 |**2026-04-16**|**Prime--Zero Duality: Fractal Geometry, Renormalization-Group Flow, and an Information-Ontological Framework for Number Theory**|Zhengqiang Li et.al.|[2604.14596](http://arxiv.org/abs/2604.14596)|null|
 |**2026-04-15**|**APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI**|Pratyay Banerjee et.al.|[2604.14362](http://arxiv.org/abs/2604.14362)|null|
@@ -1379,6 +1393,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**Benchmarking Current-to-Voltage Amplifiers for Quantum Transport Measurements**|J. Escorza et.al.|[2604.16269](http://arxiv.org/abs/2604.16269)|null|
+|**2026-04-17**|**A Complexity Agnostic Clustering Engine for Time Projection Chambers and its Implementation in FPGA**|Jinyuan Wu et.al.|[2604.16253](http://arxiv.org/abs/2604.16253)|null|
+|**2026-04-17**|**Dual-Modal Lung Cancer AI: Interpretable Radiology and Microscopy with Clinical Risk Integration**|Baramee Sukumal et.al.|[2604.16104](http://arxiv.org/abs/2604.16104)|null|
+|**2026-04-17**|**Foliated Geometry of Inverse Problems: Torsion, Curvature Duality, and Near-Associativity**|N. C. Combe et.al.|[2604.16089](http://arxiv.org/abs/2604.16089)|null|
+|**2026-04-17**|**Ranking XAI Methods for Head and Neck Cancer Outcome Prediction**|Baoqiang Ma et.al.|[2604.16034](http://arxiv.org/abs/2604.16034)|null|
+|**2026-04-17**|**Laser induced surface nitriding of niobium: phase evolution and superconducting behaviour**|J. Frechilla et.al.|[2604.15981](http://arxiv.org/abs/2604.15981)|null|
+|**2026-04-17**|**Evaluating quality in synthetic data generation for large tabular health datasets**|Jean-Baptiste Escudié et.al.|[2604.15961](http://arxiv.org/abs/2604.15961)|null|
+|**2026-04-17**|**Identification and Structural Characterization of Twisted Atomically Thin Bilayer Materials by Deep Learning**|Haitao Yang et.al.|[2604.15960](http://arxiv.org/abs/2604.15960)|null|
+|**2026-04-17**|**TwinTrack: Post-hoc Multi-Rater Calibration for Medical Image Segmentation**|Tristan Kirscher et.al.|[2604.15950](http://arxiv.org/abs/2604.15950)|null|
+|**2026-04-17**|**Markov embedding of ranked unlabelled evolutionary trees and its applications**|Lasse Thorup Fallesen et.al.|[2604.15889](http://arxiv.org/abs/2604.15889)|null|
 |**2026-04-16**|**SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation**|Tianhao Fu et.al.|[2604.15271](http://arxiv.org/abs/2604.15271)|null|
 |**2026-04-16**|**RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**|Mélanie Roschewitz et.al.|[2604.15231](http://arxiv.org/abs/2604.15231)|null|
 |**2026-04-16**|**Orientational bistability and field-controlled switching of a superparamagnetic dimer**|James R. N. Tett et.al.|[2604.15212](http://arxiv.org/abs/2604.15212)|null|
