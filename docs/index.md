@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**ConforNets: Latents-Based Conformational Control in OpenFold3**|Minji Lee et.al.|[2604.18559](http://arxiv.org/abs/2604.18559)|null|
+|**2026-04-20**|**Multi-Scale Reversible Chaos Game Representation: A Unified Framework for Sequence Classification**|Sarwan Ali et.al.|[2604.18477](http://arxiv.org/abs/2604.18477)|null|
+|**2026-04-20**|**An Integrated Deep-Learning Framework for Peptide-Protein Interaction Prediction and Target-Conditioned Peptide Generation with ConGA-PePPI and TC-PepGen**|Chupei Tang et.al.|[2604.18467](http://arxiv.org/abs/2604.18467)|null|
+|**2026-04-18**|**ProtoCycle: Reflective Tool-Augmented Planning for Text-Guided Protein Design**|Yutang Ge et.al.|[2604.16896](http://arxiv.org/abs/2604.16896)|null|
+|**2026-04-18**|**Applications of deep generative models to DNA reaction kinetics and to cryogenic electron microscopy**|Chenwei Zhang et.al.|[2604.16851](http://arxiv.org/abs/2604.16851)|null|
 |**2026-04-17**|**A gem system with a lava world and a habitable zone sub-Neptune orbiting TOI-1752**|A. Peláez-Torres et.al.|[2604.15816](http://arxiv.org/abs/2604.15816)|null|
 |**2026-04-15**|**Polyformer: a generative framework for thermodynamic modeling of polymeric molecules**|Alessio Valentini et.al.|[2604.14241](http://arxiv.org/abs/2604.14241)|null|
 |**2026-04-14**|**Calibrated Abstention for Reliable TCR--pMHC Binding Prediction under Epitope Shift**|Arman Bekov et.al.|[2604.13254](http://arxiv.org/abs/2604.13254)|null|
@@ -193,6 +198,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**A Null Model for Mapper Subtype Claims**|Chad M. Topaz et.al.|[2604.17395](http://arxiv.org/abs/2604.17395)|null|
+|**2026-04-19**|**Frequency-guided Multi-level Reasoning for Scene Graph Generation in Video**|Chenxing Li et.al.|[2604.17298](http://arxiv.org/abs/2604.17298)|null|
+|**2026-04-17**|**Geometric coherence of single-cell CRISPR perturbations reveals regulatory architecture and predicts cellular stress**|Prashant C. Raju et.al.|[2604.16642](http://arxiv.org/abs/2604.16642)|null|
+|**2026-04-17**|**In Search of Lost DNA Sequence Pretraining**|Zhijiang Tang et.al.|[2604.16570](http://arxiv.org/abs/2604.16570)|null|
 |**2026-04-16**|**Brain Score Tracks Shared Properties of Languages: Evidence from Many Natural Languages and Structured Sequences**|Jingnong Qu et.al.|[2604.15503](http://arxiv.org/abs/2604.15503)|null|
 |**2026-04-15**|**Combining Bayesian and Frequentist Inference for Laboratory-Specific Performance Guarantees in Copy Number Variation Detection**|Austin Talbot et.al.|[2604.14305](http://arxiv.org/abs/2604.14305)|null|
 |**2026-04-15**|**A generative model for bipartite gene-sharing networks**|Jaime Iranzo et.al.|[2604.13963](http://arxiv.org/abs/2604.13963)|null|
@@ -453,6 +462,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-18**|**SAVE: A Generalizable Framework for Multi-Condition Single-Cell Generation with Gene Block Attention**|Jiahao Li et.al.|[2604.16776](http://arxiv.org/abs/2604.16776)|null|
 |**2026-04-16**|**Spectral Effects Of Heavy-Tailed Vertex Noise In Geometric Graphs**|Ben Cardoen et.al.|[2604.15123](http://arxiv.org/abs/2604.15123)|null|
 |**2026-04-16**|**Intermediate Layers Encode Optimal Biological Representations in Single-Cell Foundation Models**|Vincenzo Yuto Civale et.al.|[2604.14838](http://arxiv.org/abs/2604.14838)|null|
 |**2026-04-13**|**INST-Align: Implicit Neural Alignment for Spatial Transcriptomics via Canonical Expression Fields**|Bonian Han et.al.|[2604.12084](http://arxiv.org/abs/2604.12084)|null|
@@ -548,6 +558,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**How Creative Are Large Language Models in Generating Molecules?**|Wen Tao et.al.|[2604.18031](http://arxiv.org/abs/2604.18031)|null|
 |**2026-04-15**|**BOAT: Navigating the Sea of In Silico Predictors for Antibody Design via Multi-Objective Bayesian Optimization**|Jackie Rao et.al.|[2604.13980](http://arxiv.org/abs/2604.13980)|null|
 |**2026-04-11**|**Inverse Design of Inorganic Compounds with Generative AI**|Hannes Kneiding et.al.|[2604.11827](http://arxiv.org/abs/2604.11827)|null|
 |**2026-04-13**|**AbLWR:A Context-Aware Listwise Ranking Framework for Antibody-Antigen Binding Affinity Prediction via Positive-Unlabeled Learning**|Fan Xu et.al.|[2604.11272](http://arxiv.org/abs/2604.11272)|null|
@@ -650,6 +661,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Randomly Initialized Networks Can Learn from Peer-to-Peer Consensus**|Esteban Rodríguez-Betancourt et.al.|[2604.18390](http://arxiv.org/abs/2604.18390)|null|
+|**2026-04-20**|**Attraction, Repulsion, and Friction: Introducing DMF, a Friction-Augmented Drifting Model**|Arkadii Kazanskii et.al.|[2604.18194](http://arxiv.org/abs/2604.18194)|null|
+|**2026-04-20**|**Can LLM-Generated Text Empower Surgical Vision-Language Pre-training?**|Chengan Che et.al.|[2604.18134](http://arxiv.org/abs/2604.18134)|null|
+|**2026-04-20**|**Complex normalizing flows can be information Kähler-Ricci flows**|Andrew Gracyk et.al.|[2604.17954](http://arxiv.org/abs/2604.17954)|null|
+|**2026-04-20**|**Fisher Decorator: Refining Flow Policy via A Local Transport Map**|Xiaoyuan Cheng et.al.|[2604.17919](http://arxiv.org/abs/2604.17919)|null|
+|**2026-04-20**|**OFlow: Injecting Object-Aware Temporal Flow Matching for Robust Robotic Manipulation**|Kuanning Wang et.al.|[2604.17876](http://arxiv.org/abs/2604.17876)|null|
+|**2026-04-20**|**OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL**|Haoxiang Jie et.al.|[2604.17706](http://arxiv.org/abs/2604.17706)|null|
+|**2026-04-20**|**Grokking of Diffusion Models: Case Study on Modular Addition**|Joon Hyeok Kim et.al.|[2604.17673](http://arxiv.org/abs/2604.17673)|null|
+|**2026-04-18**|**FlowRefiner: Flow Matching-Based Iterative Refinement for 3D Turbulent Flow Simulation**|Yilong Dai et.al.|[2604.17149](http://arxiv.org/abs/2604.17149)|null|
+|**2026-04-18**|**Anonymization, Not Elimination: Utility-Preserved Speech Anonymization**|Yunchong Xiao et.al.|[2604.17000](http://arxiv.org/abs/2604.17000)|null|
 |**2026-04-17**|**Polyglot: Multilingual Style Preserving Speech-Driven Facial Animation**|Federico Nocentini et.al.|[2604.16108](http://arxiv.org/abs/2604.16108)|null|
 |**2026-04-17**|**Stylistic-STORM (ST-STORM) : Perceiving the Semantic Nature of Appearance**|Hamed Ouattara et.al.|[2604.16086](http://arxiv.org/abs/2604.16086)|null|
 |**2026-04-17**|**The Amazing Stability of Flow Matching**|Rania Briq et.al.|[2604.16079](http://arxiv.org/abs/2604.16079)|null|
@@ -1147,6 +1168,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**WorldDB: A Vector Graph-of-Worlds Memory Engine with Ontology-Aware Write-Time Reconciliation**|Harish Santhanalakshmi Ganesan et.al.|[2604.18478](http://arxiv.org/abs/2604.18478)|null|
+|**2026-04-20**|**Materials Informatics Across the Length Scales**|Jamal Abdul Nasir et.al.|[2604.18086](http://arxiv.org/abs/2604.18086)|null|
+|**2026-04-20**|**Employing General-Purpose and Biomedical Large Language Models with Advanced Prompt Engineering for Pharmacoepidemiologic Study Design**|Xinyao Zhang et.al.|[2604.17988](http://arxiv.org/abs/2604.17988)|null|
+|**2026-04-19**|**Developing Models of Procedural Skills using an AI-assisted Text-to-Model Approach**|Rahul K. Dass et.al.|[2604.17624](http://arxiv.org/abs/2604.17624)|null|
+|**2026-04-19**|**Characterizing Model-Native Skills**|Feiyang Kang et.al.|[2604.17614](http://arxiv.org/abs/2604.17614)|null|
+|**2026-04-18**|**AutoPKG: An Automated Framework for Dynamic E-commerce Product-Attribute Knowledge Graph Construction**|Pollawat Hongwimol et.al.|[2604.16950](http://arxiv.org/abs/2604.16950)|null|
+|**2026-04-18**|**OC-Distill: Ontology-aware Contrastive Learning with Cross-Modal Distillation for ICU Risk Prediction**|Zhongyuan Liang et.al.|[2604.16878](http://arxiv.org/abs/2604.16878)|null|
+|**2026-04-17**|**Don't Start What You Can't Finish: A Counterfactual Audit of Support-State Triage in LLM Agents**|Eren Unlu et.al.|[2604.16752](http://arxiv.org/abs/2604.16752)|null|
+|**2026-04-17**|**Evaluating Adaptive Personalization of Educational Readings with Simulated Learners**|Ryan T. Woo et.al.|[2604.16744](http://arxiv.org/abs/2604.16744)|null|
+|**2026-04-17**|**From Subsumption to Satisfiability: LLM-Assisted Active Learning for OWL Ontologies**|Haoruo Zhao et.al.|[2604.16672](http://arxiv.org/abs/2604.16672)|null|
 |**2026-04-17**|**Characterising LLM-Generated Competency Questions: a Cross-Domain Empirical Study using Open and Closed Models**|Reham Alharbi et.al.|[2604.16258](http://arxiv.org/abs/2604.16258)|null|
 |**2026-04-17**|**Structure preserving properties of higher order moment closures for TASEP**|Kilian Pioch et.al.|[2604.15925](http://arxiv.org/abs/2604.15925)|null|
 |**2026-04-16**|**Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures**|Dipto Das et.al.|[2604.15514](http://arxiv.org/abs/2604.15514)|null|
@@ -1393,6 +1424,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems**|William Lavery et.al.|[2604.18548](http://arxiv.org/abs/2604.18548)|null|
+|**2026-04-20**|**IDOBE: Infectious Disease Outbreak forecasting Benchmark Ecosystem**|Aniruddha Adiga et.al.|[2604.18521](http://arxiv.org/abs/2604.18521)|null|
+|**2026-04-20**|**High precision micro-optical elements on fiber facets via focused-ion beam machining**|Raman Kumar et.al.|[2604.18426](http://arxiv.org/abs/2604.18426)|null|
+|**2026-04-20**|**DSA-CycleGAN: A Domain Shift Aware CycleGAN for Robust Multi-Stain Glomeruli Segmentation**|Zeeshan Nisar et.al.|[2604.18368](http://arxiv.org/abs/2604.18368)|null|
+|**2026-04-20**|**Fast dynamic wavefront correction for multi-photon microscopy with a high resolution MEMS phase-only modulator**|Juan David Muñoz-Bolaños et.al.|[2604.18342](http://arxiv.org/abs/2604.18342)|null|
+|**2026-04-20**|**Overcoming Selection Bias in Statistical Studies With Amortized Bayesian Inference**|Jonas Arruda et.al.|[2604.18319](http://arxiv.org/abs/2604.18319)|null|
+|**2026-04-20**|**Style-Based Neural Architectures for Real-Time Weather Classification**|Hamed Ouattara et.al.|[2604.18251](http://arxiv.org/abs/2604.18251)|null|
+|**2026-04-20**|**Medical Image Understanding Improves Survival Prediction via Visual Instruction Tuning**|Xixi Liu et.al.|[2604.18250](http://arxiv.org/abs/2604.18250)|null|
+|**2026-04-20**|**Beyond Pattern Matching: Seven Cross-Domain Techniques for Prompt Injection Detection**|Thamilvendhan Munirathinam et.al.|[2604.18248](http://arxiv.org/abs/2604.18248)|null|
+|**2026-04-20**|**ToFiE, a Topology-aware Fiber Extraction workflow for 3D reconstruction of dense and heterogeneous biological fiber networks from microscopy images**|Risa Togo et.al.|[2604.18230](http://arxiv.org/abs/2604.18230)|null|
 |**2026-04-17**|**Benchmarking Current-to-Voltage Amplifiers for Quantum Transport Measurements**|J. Escorza et.al.|[2604.16269](http://arxiv.org/abs/2604.16269)|null|
 |**2026-04-17**|**A Complexity Agnostic Clustering Engine for Time Projection Chambers and its Implementation in FPGA**|Jinyuan Wu et.al.|[2604.16253](http://arxiv.org/abs/2604.16253)|null|
 |**2026-04-17**|**Dual-Modal Lung Cancer AI: Interpretable Radiology and Microscopy with Clinical Risk Integration**|Baramee Sukumal et.al.|[2604.16104](http://arxiv.org/abs/2604.16104)|null|
