@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Construction of Knowledge Graph based on Language Model**|Qiubai Zhu et.al.|[2604.19137](http://arxiv.org/abs/2604.19137)|null|
+|**2026-04-21**|**TabEmb: Joint Semantic-Structure Embedding for Table Annotation**|Ehsan Hoseinzade et.al.|[2604.18939](http://arxiv.org/abs/2604.18939)|null|
 |**2026-04-20**|**ConforNets: Latents-Based Conformational Control in OpenFold3**|Minji Lee et.al.|[2604.18559](http://arxiv.org/abs/2604.18559)|null|
 |**2026-04-20**|**Multi-Scale Reversible Chaos Game Representation: A Unified Framework for Sequence Classification**|Sarwan Ali et.al.|[2604.18477](http://arxiv.org/abs/2604.18477)|null|
 |**2026-04-20**|**An Integrated Deep-Learning Framework for Peptide-Protein Interaction Prediction and Target-Conditioned Peptide Generation with ConGA-PePPI and TC-PepGen**|Chupei Tang et.al.|[2604.18467](http://arxiv.org/abs/2604.18467)|null|
@@ -154,6 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Direct RNA sequence design under codon constraints using expressive tensor-based secondary structure models**|Mark Fornace et.al.|[2604.19718](http://arxiv.org/abs/2604.19718)|null|
 |**2026-04-15**|**BOAT: Navigating the Sea of In Silico Predictors for Antibody Design via Multi-Objective Bayesian Optimization**|Jackie Rao et.al.|[2604.13980](http://arxiv.org/abs/2604.13980)|null|
 |**2026-04-14**|**Efficient estimation of cumulative incidence curves via data fusion with surrogates: application to integrated analysis of vaccine trial and immunobridging data**|Pan Zhao et.al.|[2604.13265](http://arxiv.org/abs/2604.13265)|null|
 |**2026-04-14**|**Calibrated Abstention for Reliable TCR--pMHC Binding Prediction under Epitope Shift**|Arman Bekov et.al.|[2604.13254](http://arxiv.org/abs/2604.13254)|null|
@@ -198,6 +201,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**MOSA: Motion-Guided Semantic Alignment for Dynamic Scene Graph Generation**|Xuejiao Wang et.al.|[2604.19631](http://arxiv.org/abs/2604.19631)|null|
+|**2026-04-20**|**Streaming Structured Inference with Flash-SemiCRF**|Benjamin K. Johnson et.al.|[2604.18780](http://arxiv.org/abs/2604.18780)|null|
+|**2026-04-18**|**Quantum AI for Cancer Diagnostic Biomarker Discovery**|Mandeep Kaur Saggi et.al.|[2604.18621](http://arxiv.org/abs/2604.18621)|null|
 |**2026-04-19**|**A Null Model for Mapper Subtype Claims**|Chad M. Topaz et.al.|[2604.17395](http://arxiv.org/abs/2604.17395)|null|
 |**2026-04-19**|**Frequency-guided Multi-level Reasoning for Scene Graph Generation in Video**|Chenxing Li et.al.|[2604.17298](http://arxiv.org/abs/2604.17298)|null|
 |**2026-04-17**|**Geometric coherence of single-cell CRISPR perturbations reveals regulatory architecture and predicts cellular stress**|Prashant C. Raju et.al.|[2604.16642](http://arxiv.org/abs/2604.16642)|null|
@@ -462,6 +468,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**JASPER: Joint Bayesian Analysis of Spatial Expression via Regression**|Pritam Dey et.al.|[2604.18742](http://arxiv.org/abs/2604.18742)|null|
 |**2026-04-18**|**SAVE: A Generalizable Framework for Multi-Condition Single-Cell Generation with Gene Block Attention**|Jiahao Li et.al.|[2604.16776](http://arxiv.org/abs/2604.16776)|null|
 |**2026-04-16**|**Spectral Effects Of Heavy-Tailed Vertex Noise In Geometric Graphs**|Ben Cardoen et.al.|[2604.15123](http://arxiv.org/abs/2604.15123)|null|
 |**2026-04-16**|**Intermediate Layers Encode Optimal Biological Representations in Single-Cell Foundation Models**|Vincenzo Yuto Civale et.al.|[2604.14838](http://arxiv.org/abs/2604.14838)|null|
@@ -558,6 +565,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Structure-guided molecular design with contrastive 3D protein-ligand learning**|Carles Navarro et.al.|[2604.19562](http://arxiv.org/abs/2604.19562)|null|
 |**2026-04-20**|**How Creative Are Large Language Models in Generating Molecules?**|Wen Tao et.al.|[2604.18031](http://arxiv.org/abs/2604.18031)|null|
 |**2026-04-15**|**BOAT: Navigating the Sea of In Silico Predictors for Antibody Design via Multi-Objective Bayesian Optimization**|Jackie Rao et.al.|[2604.13980](http://arxiv.org/abs/2604.13980)|null|
 |**2026-04-11**|**Inverse Design of Inorganic Compounds with Generative AI**|Hannes Kneiding et.al.|[2604.11827](http://arxiv.org/abs/2604.11827)|null|
@@ -661,6 +669,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Generative Drifting for Conditional Medical Image Generation**|Zirong Li et.al.|[2604.19736](http://arxiv.org/abs/2604.19736)|null|
+|**2026-04-21**|**SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**|Zewei Zhou et.al.|[2604.19710](http://arxiv.org/abs/2604.19710)|null|
+|**2026-04-21**|**Unveiling Fine-Grained Visual Traces: Evaluating Multimodal Interleaved Reasoning Chains in Multimodal STEM Tasks**|Jing Jin et.al.|[2604.19697](http://arxiv.org/abs/2604.19697)|null|
+|**2026-04-21**|**MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention**|Zhi Chen et.al.|[2604.19675](http://arxiv.org/abs/2604.19675)|null|
+|**2026-04-21**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|
 |**2026-04-20**|**Randomly Initialized Networks Can Learn from Peer-to-Peer Consensus**|Esteban Rodríguez-Betancourt et.al.|[2604.18390](http://arxiv.org/abs/2604.18390)|null|
 |**2026-04-20**|**Attraction, Repulsion, and Friction: Introducing DMF, a Friction-Augmented Drifting Model**|Arkadii Kazanskii et.al.|[2604.18194](http://arxiv.org/abs/2604.18194)|null|
 |**2026-04-20**|**Can LLM-Generated Text Empower Surgical Vision-Language Pre-training?**|Chengan Che et.al.|[2604.18134](http://arxiv.org/abs/2604.18134)|null|
@@ -1168,6 +1181,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Towards Reproducible Test Annotation for Cyber-Physical Energy Systems using Ontology-driven Dataspaces**|Kai Heussen et.al.|[2604.19686](http://arxiv.org/abs/2604.19686)|null|
+|**2026-04-20**|**Operational Discriminability and Bell-Contextual Correlations**|Seyed Arash Ghoreishi et.al.|[2604.18750](http://arxiv.org/abs/2604.18750)|null|
+|**2026-04-20**|**JASPER: Joint Bayesian Analysis of Spatial Expression via Regression**|Pritam Dey et.al.|[2604.18742](http://arxiv.org/abs/2604.18742)|null|
 |**2026-04-20**|**WorldDB: A Vector Graph-of-Worlds Memory Engine with Ontology-Aware Write-Time Reconciliation**|Harish Santhanalakshmi Ganesan et.al.|[2604.18478](http://arxiv.org/abs/2604.18478)|null|
 |**2026-04-20**|**Materials Informatics Across the Length Scales**|Jamal Abdul Nasir et.al.|[2604.18086](http://arxiv.org/abs/2604.18086)|null|
 |**2026-04-20**|**Employing General-Purpose and Biomedical Large Language Models with Advanced Prompt Engineering for Pharmacoepidemiologic Study Design**|Xinyao Zhang et.al.|[2604.17988](http://arxiv.org/abs/2604.17988)|null|
@@ -1424,6 +1440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Generative Drifting for Conditional Medical Image Generation**|Zirong Li et.al.|[2604.19736](http://arxiv.org/abs/2604.19736)|null|
+|**2026-04-21**|**MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention**|Zhi Chen et.al.|[2604.19675](http://arxiv.org/abs/2604.19675)|null|
+|**2026-04-21**|**RF-HiT: Rectified Flow Hierarchical Transformer for General Medical Image Segmentation**|Ahmed Marouane Djouama et.al.|[2604.19570](http://arxiv.org/abs/2604.19570)|null|
+|**2026-04-21**|**Deep sprite-based image models: An analysis**|Zeynep Sonat Baltacı et.al.|[2604.19480](http://arxiv.org/abs/2604.19480)|null|
+|**2026-04-21**|**ZC-Swish: Stabilizing Deep BN-Free Networks for Edge and Micro-Batch Applications**|Suvinava Basak et.al.|[2604.19453](http://arxiv.org/abs/2604.19453)|null|
+|**2026-04-21**|**Dynamical heterogeneity reverses structural suppression of cooperation**|Xiaochen Wang et.al.|[2604.19436](http://arxiv.org/abs/2604.19436)|null|
+|**2026-04-21**|**Fast projections of two-dimensional light patterns using acousto-optical deflectors**|Robbert Decruyenaere et.al.|[2604.19421](http://arxiv.org/abs/2604.19421)|null|
+|**2026-04-21**|**VCE: A zero-cost hallucination mitigation method of LVLMs via visual contrastive editing**|Yanbin Huang et.al.|[2604.19412](http://arxiv.org/abs/2604.19412)|null|
+|**2026-04-21**|**Drift Correction of Scan Images by Snapshot Referencing**|Zac Thollar et.al.|[2604.19384](http://arxiv.org/abs/2604.19384)|null|
+|**2026-04-21**|**Attend what matters: Leveraging vision foundational models for breast cancer classification using mammograms**|Samyak Sanghvi et.al.|[2604.19350](http://arxiv.org/abs/2604.19350)|null|
 |**2026-04-20**|**Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems**|William Lavery et.al.|[2604.18548](http://arxiv.org/abs/2604.18548)|null|
 |**2026-04-20**|**IDOBE: Infectious Disease Outbreak forecasting Benchmark Ecosystem**|Aniruddha Adiga et.al.|[2604.18521](http://arxiv.org/abs/2604.18521)|null|
 |**2026-04-20**|**High precision micro-optical elements on fiber facets via focused-ion beam machining**|Raman Kumar et.al.|[2604.18426](http://arxiv.org/abs/2604.18426)|null|
