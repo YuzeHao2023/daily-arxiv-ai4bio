@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
@@ -204,6 +204,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|null|
+|**2026-04-23**|**A Robust Framework for Two-Sample Mendelian Randomization under Population Heterogeneity**|Dingke Tang et.al.|[2604.21757](http://arxiv.org/abs/2604.21757)|null|
+|**2026-04-23**|**Evaluating Post-hoc Explanations of the Transformer-based Genome Language Model DNABERT-2**|Isabel Kurth et.al.|[2604.21690](http://arxiv.org/abs/2604.21690)|null|
+|**2026-04-23**|**Drug Synergy Prediction via Residual Graph Isomorphism Networks and Attention Mechanisms**|Jiyan Song et.al.|[2604.21473](http://arxiv.org/abs/2604.21473)|null|
+|**2026-04-23**|**Trustworthy Clinical Decision Support Using Meta-Predicates and Domain-Specific Languages**|Michael Bouzinier et.al.|[2604.21263](http://arxiv.org/abs/2604.21263)|null|
+|**2026-04-22**|**TorchGWAS : GPU-accelerated GWAS for thousands of quantitative phenotypes**|Xingzhong Zhao et.al.|[2604.21095](http://arxiv.org/abs/2604.21095)|null|
+|**2026-04-22**|**VARIANT: Web Server for Decoding and Analyzing Viral Mutations at Genome and Protein Levels**|Rui Wang et.al.|[2604.20942](http://arxiv.org/abs/2604.20942)|null|
 |**2026-04-22**|**Relative Entropy Estimation in Function Space: Theory and Applications to Trajectory Inference**|Chao Wang et.al.|[2604.20775](http://arxiv.org/abs/2604.20775)|null|
 |**2026-04-22**|**Conditional Monte Carlo Tree Diffusion for Designing Cell-Type-Specific and Biologically Faithful Regulatory DNA**|Animesh Awasthi et.al.|[2604.20488](http://arxiv.org/abs/2604.20488)|null|
 |**2026-04-21**|**Stochastic Networked Governance: Bridging Econophysics and Institutional Dynamics in a Positive-Sum Agent-Based Model**|Alok Yadav et.al.|[2604.19968](http://arxiv.org/abs/2604.19968)|null|
@@ -474,6 +481,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**CHRep: Cross-modal Histology Representation and Post-hoc Calibration for Spatial Gene Expression Prediction**|Changfan Wang et.al.|[2604.21573](http://arxiv.org/abs/2604.21573)|null|
 |**2026-04-22**|**Relative Entropy Estimation in Function Space: Theory and Applications to Trajectory Inference**|Chao Wang et.al.|[2604.20775](http://arxiv.org/abs/2604.20775)|null|
 |**2026-04-20**|**JASPER: Joint Bayesian Analysis of Spatial Expression via Regression**|Pritam Dey et.al.|[2604.18742](http://arxiv.org/abs/2604.18742)|null|
 |**2026-04-18**|**SAVE: A Generalizable Framework for Multi-Condition Single-Cell Generation with Gene Block Attention**|Jiahao Li et.al.|[2604.16776](http://arxiv.org/abs/2604.16776)|null|
@@ -572,6 +580,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Calibeating Prediction-Powered Inference**|Lars van der Laan et.al.|[2604.21260](http://arxiv.org/abs/2604.21260)|null|
 |**2026-04-22**|**Unlocking the Forecasting Economy: A Suite of Datasets for the Full Lifecycle of Prediction Market: [Experiments \& Analysis]**|Huaiyu Jia et.al.|[2604.20421](http://arxiv.org/abs/2604.20421)|null|
 |**2026-04-21**|**Structure-guided molecular design with contrastive 3D protein-ligand learning**|Carles Navarro et.al.|[2604.19562](http://arxiv.org/abs/2604.19562)|null|
 |**2026-04-20**|**How Creative Are Large Language Models in Generating Molecules?**|Wen Tao et.al.|[2604.18031](http://arxiv.org/abs/2604.18031)|null|
@@ -677,6 +686,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition**|Kwan Yun et.al.|[2604.21689](http://arxiv.org/abs/2604.21689)|null|
+|**2026-04-23**|**Generalizing Numerical Reasoning in Table Data through Operation Sketches and Self-Supervised Learning**|Hanjun Cho et.al.|[2604.21495](http://arxiv.org/abs/2604.21495)|null|
+|**2026-04-23**|**Trust-SSL: Additive-Residual Selective Invariance for Robust Aerial Self-Supervised Learning**|Wadii Boulila et.al.|[2604.21349](http://arxiv.org/abs/2604.21349)|null|
+|**2026-04-23**|**CorridorVLA: Explicit Spatial Constraints for Generative Action Heads via Sparse Anchors**|Dachong Li et.al.|[2604.21241](http://arxiv.org/abs/2604.21241)|null|
+|**2026-04-22**|**WFM: 3D Wavelet Flow Matching for Ultrafast Multi-Modal MRI Synthesis**|Yalcin Tur et.al.|[2604.21146](http://arxiv.org/abs/2604.21146)|null|
+|**2026-04-22**|**Linear Image Generation by Synthesizing Exposure Brackets**|Yuekun Dai et.al.|[2604.21008](http://arxiv.org/abs/2604.21008)|null|
 |**2026-04-22**|**ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control**|Shelly Golan et.al.|[2604.20816](http://arxiv.org/abs/2604.20816)|null|
 |**2026-04-22**|**Tokenised Flow Matching for Hierarchical Simulation Based Inference**|Giovanni Charles et.al.|[2604.20723](http://arxiv.org/abs/2604.20723)|null|
 |**2026-04-22**|**SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models**|Jiahao Xie et.al.|[2604.20705](http://arxiv.org/abs/2604.20705)|null|
@@ -1195,6 +1210,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering**|Yuyu Liu et.al.|[2604.21027](http://arxiv.org/abs/2604.21027)|null|
+|**2026-04-21**|**Biomedical systems biology workflow orchestration and execution with PoSyMed**|Simon Süwer et.al.|[2604.20906](http://arxiv.org/abs/2604.20906)|null|
 |**2026-04-22**|**Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**|Pavel Salovskii et.al.|[2604.20795](http://arxiv.org/abs/2604.20795)|null|
 |**2026-04-21**|**Towards Reproducible Test Annotation for Cyber-Physical Energy Systems using Ontology-driven Dataspaces**|Kai Heussen et.al.|[2604.19686](http://arxiv.org/abs/2604.19686)|null|
 |**2026-04-20**|**Operational Discriminability and Bell-Contextual Correlations**|Seyed Arash Ghoreishi et.al.|[2604.18750](http://arxiv.org/abs/2604.18750)|null|
@@ -1455,6 +1472,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Bismuth Films on EuO(111) as a Platform for Proximity-Induced Topological States**|Subham Naskar et.al.|[2604.21862](http://arxiv.org/abs/2604.21862)|null|
+|**2026-04-23**|**Optical nonlinear anomalous Hall effect reveals the hidden spin order in antiferromagnets**|A. Schmid et.al.|[2604.21802](http://arxiv.org/abs/2604.21802)|null|
+|**2026-04-23**|**Electronic and Vibrational Properties of On-Surface Synthesized Gulf-Edged Chiral Graphene Nanoribbons**|Xuanchen Li et.al.|[2604.21796](http://arxiv.org/abs/2604.21796)|null|
+|**2026-04-23**|**Nickel intercalation in epitaxial graphene on SiC(0001): a novel platform for engineering two-dimensional heterostructures**|Ylea Vlamidis et.al.|[2604.21739](http://arxiv.org/abs/2604.21739)|null|
+|**2026-04-23**|**Real-Space Imaging of Guided Exciton Polaritons in Free-standing Monolayer WSe2**|Manuka Suriyage et.al.|[2604.21726](http://arxiv.org/abs/2604.21726)|null|
+|**2026-04-23**|**A microwave super-resolution imaging approach towards breast cancer margin mapping**|Harry Penketh et.al.|[2604.21636](http://arxiv.org/abs/2604.21636)|null|
+|**2026-04-23**|**Emergence of a non-bulk hexagonal Fe $_2$S$_2$ single layer via phase transformation**|Affan Safeer et.al.|[2604.21613](http://arxiv.org/abs/2604.21613)|null|
+|**2026-04-23**|**Modulation of Spin Angular Momentum of Emission in Symmetric 1D Plasmonic Crystals by Cathodoluminescence**|Yuxin Yang et.al.|[2604.21550](http://arxiv.org/abs/2604.21550)|null|
+|**2026-04-23**|**Controlled Manipulation of Intermediate State in a Type-I Superconductor**|Xin-Sheng Gao et.al.|[2604.21499](http://arxiv.org/abs/2604.21499)|null|
+|**2026-04-23**|**Designing interferometers within a single optical beam**|Bereneice Sephton et.al.|[2604.21485](http://arxiv.org/abs/2604.21485)|null|
 |**2026-04-22**|**ProfileGLMM: a R Package Extending Bayesian Profile Regression using Generalised Linear Mixed Models**|Matteo Amestoy et.al.|[2604.20743](http://arxiv.org/abs/2604.20743)|null|
 |**2026-04-22**|**High-Fidelity Single-Shot Quantitative Differential Phase Microscopy Using Pseudothermal Sagnac Interferometer**|Pawel Goclowski et.al.|[2604.20739](http://arxiv.org/abs/2604.20739)|null|
 |**2026-04-22**|**Semi supervised GAN for smart microscopy, fast and data efficient cell cycle classification**|Rajeev Manick et.al.|[2604.20615](http://arxiv.org/abs/2604.20615)|null|
