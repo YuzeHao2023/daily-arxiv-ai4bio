@@ -204,6 +204,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Dr.Sai: An agentic AI for real-world physics analysis at BESIII**|Mingfeng He et.al.|[2604.22541](http://arxiv.org/abs/2604.22541)|null|
+|**2026-04-24**|**The Cathaya argyrophylla Genome Reveals the Evolutionary Trade-offs of a Living Fossil**|Yun Wang et.al.|[2604.22440](http://arxiv.org/abs/2604.22440)|null|
+|**2026-04-24**|**Tail-Greedy Unbalanced Haar Wavelet Segmentation for Copy Number Alteration Data**|Maharani Ahsani Ummi et.al.|[2604.22364](http://arxiv.org/abs/2604.22364)|null|
+|**2026-04-23**|**Zero-inflated modeling with smoothing on counting tensors**|Elena Tuzhilina et.al.|[2604.22088](http://arxiv.org/abs/2604.22088)|null|
+|**2026-04-23**|**Supregraph: Enabling Information-Optimal Assembly Graph Representation of a Read Set**|Anton Bankevich et.al.|[2604.21951](http://arxiv.org/abs/2604.21951)|null|
 |**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|null|
 |**2026-04-23**|**A Robust Framework for Two-Sample Mendelian Randomization under Population Heterogeneity**|Dingke Tang et.al.|[2604.21757](http://arxiv.org/abs/2604.21757)|null|
 |**2026-04-23**|**Evaluating Post-hoc Explanations of the Transformer-based Genome Language Model DNABERT-2**|Isabel Kurth et.al.|[2604.21690](http://arxiv.org/abs/2604.21690)|null|
@@ -686,6 +691,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Beyond Patient Invariance: Learning Cardiac Dynamics via Action-Conditioned JEPAs**|Jose Geraldo Fernandes et.al.|[2604.22618](http://arxiv.org/abs/2604.22618)|null|
+|**2026-04-24**|**ArmSSL: Adversarial Robust Black-Box Watermarking for Self-Supervised Learning Pre-trained Encoders**|Yongqi Jiang et.al.|[2604.22550](http://arxiv.org/abs/2604.22550)|null|
+|**2026-04-24**|**Distilling Vision Transformers for Distortion-Robust Representation Learning**|Konstantinos Alexis et.al.|[2604.22529](http://arxiv.org/abs/2604.22529)|null|
+|**2026-04-24**|**Deep Learning for Model Calibration in Simulation of Itaconic Acid Production**|Daria Fokina et.al.|[2604.22496](http://arxiv.org/abs/2604.22496)|null|
+|**2026-04-24**|**PoseFM: Relative Camera Pose Estimation Through Flow Matching**|Dominik Kuczkowski et.al.|[2604.22350](http://arxiv.org/abs/2604.22350)|null|
+|**2026-04-24**|**Knowledge Visualization: A Benchmark and Method for Knowledge-Intensive Text-to-Image Generation**|Ran Zhao et.al.|[2604.22302](http://arxiv.org/abs/2604.22302)|null|
+|**2026-04-24**|**UniSonate: A Unified Model for Speech, Music, and Sound Effect Generation with Text Instructions**|Chunyu Qiang et.al.|[2604.22209](http://arxiv.org/abs/2604.22209)|null|
+|**2026-04-24**|**Advancing automatic speech recognition using feature fusion with self-supervised learning features: A case study on Fearless Steps Apollo corpus**|Szu-Jui Chen et.al.|[2604.22203](http://arxiv.org/abs/2604.22203)|null|
+|**2026-04-23**|**A Hybrid Reinforcement and Self-Supervised Learning Aided Benders Decomposition Algorithm**|Bernard T. Agyeman et.al.|[2604.22107](http://arxiv.org/abs/2604.22107)|null|
+|**2026-04-23**|**Null-Space Flow Matching for MIMO Channel Estimation in Latency-Constrained Systems**|Junjie Zhao et.al.|[2604.22005](http://arxiv.org/abs/2604.22005)|null|
 |**2026-04-23**|**StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition**|Kwan Yun et.al.|[2604.21689](http://arxiv.org/abs/2604.21689)|null|
 |**2026-04-23**|**Generalizing Numerical Reasoning in Table Data through Operation Sketches and Self-Supervised Learning**|Hanjun Cho et.al.|[2604.21495](http://arxiv.org/abs/2604.21495)|null|
 |**2026-04-23**|**Trust-SSL: Additive-Residual Selective Invariance for Robust Aerial Self-Supervised Learning**|Wadii Boulila et.al.|[2604.21349](http://arxiv.org/abs/2604.21349)|null|
@@ -1210,6 +1225,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**How Hard is it to Decide if a Fact is Relevant to a Query?**|Meghyn Bienvenu et.al.|[2604.22422](http://arxiv.org/abs/2604.22422)|null|
+|**2026-04-23**|**Knowledge-driven Augmentation and Retrieval for Integrative Temporal Adaptation**|Weisi Liu et.al.|[2604.22098](http://arxiv.org/abs/2604.22098)|null|
 |**2026-04-22**|**HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering**|Yuyu Liu et.al.|[2604.21027](http://arxiv.org/abs/2604.21027)|null|
 |**2026-04-21**|**Biomedical systems biology workflow orchestration and execution with PoSyMed**|Simon Süwer et.al.|[2604.20906](http://arxiv.org/abs/2604.20906)|null|
 |**2026-04-22**|**Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**|Pavel Salovskii et.al.|[2604.20795](http://arxiv.org/abs/2604.20795)|null|
@@ -1472,6 +1489,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data**|Hillary Mutisya et.al.|[2604.22730](http://arxiv.org/abs/2604.22730)|null|
+|**2026-04-24**|**Mechanical Scaling Laws and Deformation Behavior of Nanoporous Tantalum Microparticles**|J. I. Ramallo et.al.|[2604.22726](http://arxiv.org/abs/2604.22726)|null|
+|**2026-04-24**|**A Unified Framework for Multiple Exposure Distributed Lag Non-Linear Models for Air Pollution Epidemiology**|Tianyi Pan et.al.|[2604.22692](http://arxiv.org/abs/2604.22692)|null|
+|**2026-04-24**|**Alterations in Conformations of Poly(3-hexylthiophene) on Au(111) Induced by Annealing**|Anmol Arya et.al.|[2604.22687](http://arxiv.org/abs/2604.22687)|null|
+|**2026-04-24**|**Useful nonrobust features are ubiquitous in biomedical images**|Coenraad Mouton et.al.|[2604.22579](http://arxiv.org/abs/2604.22579)|null|
+|**2026-04-24**|**Influence of Ni Doping on the Structural, Morphological, Optical, and Electrical Properties of Nanocrystalline Cd1-xMnxS Thin Films**|Himanshu Sharma Pathok et.al.|[2604.22561](http://arxiv.org/abs/2604.22561)|null|
+|**2026-04-24**|**Accurate Nanoscale Mapping of Electric Fields across Random Grain Boundaries in Polycrystalline Oxides Using Precession-Assisted 4D-STEM**|Sangjun Kang et.al.|[2604.22398](http://arxiv.org/abs/2604.22398)|null|
+|**2026-04-24**|**Electric-Field Control of Quantum Tunneling Regimes in Focused He-Ion-Beam-Irradiated Oxide Interfaces**|Yu Chen et.al.|[2604.22346](http://arxiv.org/abs/2604.22346)|null|
+|**2026-04-24**|**Multimodal Diffusion to Mutually Enhance Polarized Light and Low Resolution EBSD Data**|Harry Dong et.al.|[2604.22212](http://arxiv.org/abs/2604.22212)|null|
+|**2026-04-23**|**Plasmon-Exciton Coupling and Dephasing in Hybrid Au Nanostructure/J-Aggregate Systems**|Janak Bhandari et.al.|[2604.22094](http://arxiv.org/abs/2604.22094)|null|
 |**2026-04-23**|**Bismuth Films on EuO(111) as a Platform for Proximity-Induced Topological States**|Subham Naskar et.al.|[2604.21862](http://arxiv.org/abs/2604.21862)|null|
 |**2026-04-23**|**Optical nonlinear anomalous Hall effect reveals the hidden spin order in antiferromagnets**|A. Schmid et.al.|[2604.21802](http://arxiv.org/abs/2604.21802)|null|
 |**2026-04-23**|**Electronic and Vibrational Properties of On-Surface Synthesized Gulf-Edged Chiral Graphene Nanoribbons**|Xuanchen Li et.al.|[2604.21796](http://arxiv.org/abs/2604.21796)|null|
