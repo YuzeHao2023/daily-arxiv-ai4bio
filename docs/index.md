@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**PLMGH: What Matters in PLM-GNN Hybrids for Code Classification and Vulnerability Detection**|Mohamed Taoufik Kaouthar El Idrissi et.al.|[2604.25599](http://arxiv.org/abs/2604.25599)|null|
 |**2026-04-27**|**Factual and Edit-Sensitive Graph-to-Sequence Generation via Graph-Aware Adaptive Noising**|Aditya Hemant Shahane et.al.|[2604.24104](http://arxiv.org/abs/2604.24104)|null|
 |**2026-04-27**|**KOMBO: Korean Character Representations Based on the Combination Rules of Subcharacters**|SungHo Kim et.al.|[2604.23948](http://arxiv.org/abs/2604.23948)|null|
 |**2026-04-22**|**LAFA: A Framework for Reproducible Longitudinal Assessment of Protein Function Annotation Models**|An Phan et.al.|[2604.20782](http://arxiv.org/abs/2604.20782)|null|
@@ -206,11 +207,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**A Combinatorial Optimisation Approach to Multi-factorial Gap-filling in Genome-scale Metabolic Models (GEMs)**|Philip Kilby et.al.|[2604.25233](http://arxiv.org/abs/2604.25233)|null|
 |**2026-04-27**|**MIMIC: A Generative Multimodal Foundation Model for Biomolecules**|Siavash Golkar et.al.|[2604.24506](http://arxiv.org/abs/2604.24506)|null|
 |**2026-04-27**|**A representation-theoretic interpretation of the Schur expansion of two-row genomic Schur functions**|Young-Hun Kim et.al.|[2604.24454](http://arxiv.org/abs/2604.24454)|null|
 |**2026-04-27**|**PathMoG: A Pathway-Centric Modular Graph Neural Network for Multi-Omics Survival Prediction**|Di Wang et.al.|[2604.24371](http://arxiv.org/abs/2604.24371)|null|
 |**2026-04-27**|**CMGL: Confidence-guided Multi-omics Graph Learning for Cancer Subtype Classification**|Boyang Fan et.al.|[2604.24201](http://arxiv.org/abs/2604.24201)|null|
-|**2026-04-27**|**Dynamic Grammar-Compressed Self-Index in $delta$ -Optimal Space**|Takaaki Nishimoto et.al.|[2604.24080](http://arxiv.org/abs/2604.24080)|null|
+|**2026-04-28**|**Dynamic Grammar-Compressed Self-Index in $δ$ -Optimal Space**|Takaaki Nishimoto et.al.|[2604.24080](http://arxiv.org/abs/2604.24080)|null|
 |**2026-04-26**|**Imaging Exploration of Molecular Subtypes in Tongue Squamous Cell Carcinoma**|Hao Pan et.al.|[2604.23679](http://arxiv.org/abs/2604.23679)|null|
 |**2026-04-25**|**Using Importance Sampling to Estimate $p$ -values in All-Subset Meta-Analysis, with Applications to Single-Cell eQTL Mapping**|Samuel Anyaso-Samuel et.al.|[2604.23085](http://arxiv.org/abs/2604.23085)|null|
 |**2026-04-24**|**StackFeat RL: Reinforcement Learning over Iterative Dual Criterion Feature Selection for Stable Biomarker Discovery**|A. Yermekov et.al.|[2604.22892](http://arxiv.org/abs/2604.22892)|null|
@@ -599,6 +601,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-26**|**A multi-stage soft computing framework for complex disease modelling and decision support: A liver cirrhosis case study**|Xueyuan Huang et.al.|[2604.24796](http://arxiv.org/abs/2604.24796)|null|
 |**2026-04-27**|**Advancing Ligand-based Virtual Screening and Molecular Generation with Pretrained Molecular Embedding Distance**|Shiyun Wa et.al.|[2604.24474](http://arxiv.org/abs/2604.24474)|null|
 |**2026-04-27**|**A phase transition in monetary function explains expansion without inflation**|Ran Huang et.al.|[2604.24035](http://arxiv.org/abs/2604.24035)|null|
 |**2026-04-27**|**Agentic AI platforms for autonomous training and rule induction of human-human and virus-human protein-protein interactions**|Hung N. Do et.al.|[2604.23924](http://arxiv.org/abs/2604.23924)|null|
@@ -710,6 +713,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**PhyloSDF: Phylogenetically-Conditioned Neural Generation of 3D Skull Morphology via Residual Flow Matching**|Kaikwan Lau et.al.|[2604.25371](http://arxiv.org/abs/2604.25371)|null|
+|**2026-04-28**|**Exploring Time Conditioning in Diffusion Generative Models from Disjoint Noisy Data Manifolds**|Liuzhuozheng Li et.al.|[2604.25289](http://arxiv.org/abs/2604.25289)|null|
+|**2026-04-28**|**Conditional Flow Matching for Probabilistic Downscaling of Maximum 3-day Snowfall in Alaska**|Douglas Brinkerhoff et.al.|[2604.25172](http://arxiv.org/abs/2604.25172)|null|
+|**2026-04-27**|**Learning biophysical models of gene regulation with probability flow matching**|Suryanarayana Maddu et.al.|[2604.25062](http://arxiv.org/abs/2604.25062)|null|
+|**2026-04-27**|**DiscreteRTC: Discrete Diffusion Policies are Natural Asynchronous Executors**|Pengcheng Wang et.al.|[2604.25050](http://arxiv.org/abs/2604.25050)|null|
 |**2026-04-27**|**GradMAP: Gradient-Based Multi-Agent Proximal Learning for Grid-Edge Flexibility**|Yihong Zhou et.al.|[2604.24549](http://arxiv.org/abs/2604.24549)|null|
 |**2026-04-27**|**Self-Supervised Representation Learning via Hyperspherical Density Shaping**|Esteban Rodríguez-Betancourt et.al.|[2604.24498](http://arxiv.org/abs/2604.24498)|null|
 |**2026-04-27**|**Geometric Analysis of Self-Supervised Vision Representations for Semantic Image Retrieval**|Esteban Rodríguez-Betancourt et.al.|[2604.24469](http://arxiv.org/abs/2604.24469)|null|
@@ -1254,6 +1262,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Holistic Decision-Making in Stopping Problems: Emphasizing Psychological Aspects**|Georgy Sofronov et.al.|[2604.25696](http://arxiv.org/abs/2604.25696)|null|
+|**2026-04-27**|**Learning biophysical models of gene regulation with probability flow matching**|Suryanarayana Maddu et.al.|[2604.25062](http://arxiv.org/abs/2604.25062)|null|
+|**2026-04-27**|**Negative Ontology of True Target for Machine Learning: Towards Evaluation and Learning under Democratic Supervision**|Yongquan Yang et.al.|[2604.24824](http://arxiv.org/abs/2604.24824)|null|
 |**2026-04-26**|**CyberCane: Neuro-Symbolic RAG for Privacy-Preserving Phishing Detection with Formal Ontology Reasoning**|Safayat Bin Hakim et.al.|[2604.23563](http://arxiv.org/abs/2604.23563)|null|
 |**2026-04-25**|**Bridging Reasoning and Action: Hybrid LLM-RL Framework for Efficient Cross-Domain Task-Oriented Dialogue**|Yangyang Zhao et.al.|[2604.23345](http://arxiv.org/abs/2604.23345)|null|
 |**2026-04-25**|**Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach**|Abid Talukder et.al.|[2604.23090](http://arxiv.org/abs/2604.23090)|null|
@@ -1522,6 +1533,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Model-agnostic information transfer and fusion for classification with label noise**|Zhu Guojun et.al.|[2604.25845](http://arxiv.org/abs/2604.25845)|null|
+|**2026-04-28**|**Magnification-Invariant Image Classification via Domain Generalization and Stable Sparse Embedding Signatures**|Ifeanyi Ezuma et.al.|[2604.25817](http://arxiv.org/abs/2604.25817)|null|
+|**2026-04-28**|**A modelling perspective on mosquito infectiousness: time-varying transmission competence in arbovirus vector**|Léa Loisel et.al.|[2604.25714](http://arxiv.org/abs/2604.25714)|null|
+|**2026-04-28**|**Robustness Evaluation of a Foundation Segmentation Model Under Simulated Domain Shifts in Abdominal CT: Implications for Health Digital Twin Deployment**|Sanghati Basu et.al.|[2604.25685](http://arxiv.org/abs/2604.25685)|null|
+|**2026-04-28**|**SlicerRoboTMS: An Open-Source 3D Slicer Extension for Robot-Assisted Transcranial Magnetic Stimulation**|Wenzhi Bai et.al.|[2604.25661](http://arxiv.org/abs/2604.25661)|null|
+|**2026-04-28**|**Background Remover -- an effective tool for processing noisy microscopy images**|Anna Kilian et.al.|[2604.25558](http://arxiv.org/abs/2604.25558)|null|
+|**2026-04-28**|**Ultrafast electron vortex produced by a grating made of light**|Zichen Li et.al.|[2604.25546](http://arxiv.org/abs/2604.25546)|null|
+|**2026-04-28**|**TopoMamba: Topology-Aware Scanning and Fusion for Segmenting Heterogeneous Medical Visual Media**|Fuchen Zheng et.al.|[2604.25545](http://arxiv.org/abs/2604.25545)|null|
+|**2026-04-28**|**Highly fluctuating double- $q$ magnetic order in the van der Waals metal CeTe$_3$**|Ryutaro Okuma et.al.|[2604.25436](http://arxiv.org/abs/2604.25436)|null|
+|**2026-04-28**|**PhyloSDF: Phylogenetically-Conditioned Neural Generation of 3D Skull Morphology via Residual Flow Matching**|Kaikwan Lau et.al.|[2604.25371](http://arxiv.org/abs/2604.25371)|null|
 |**2026-04-27**|**Dynamical preparation of U(1) quantum spin liquids in an analogue quantum simulator**|Simon Karch et.al.|[2604.24744](http://arxiv.org/abs/2604.24744)|null|
 |**2026-04-27**|**DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation**|Tal Grossman et.al.|[2604.24719](http://arxiv.org/abs/2604.24719)|null|
 |**2026-04-27**|**Benchmarking Pathology Foundation Models for Breast Cancer Survival Prediction**|Fredrik K. Gustafsson et.al.|[2604.24679](http://arxiv.org/abs/2604.24679)|null|
