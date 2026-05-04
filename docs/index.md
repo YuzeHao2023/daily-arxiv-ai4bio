@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**MUDY: Multi-Granular Dynamic Candidate Contextualization for Unsupervised Keyphrase Extraction**|Hyeongu Kang et.al.|[2605.00597](http://arxiv.org/abs/2605.00597)|null|
+|**2026-04-30**|**Towards A Generative Protein Evolution Machine with DPLM-Evo**|Xinyou Wang et.al.|[2605.00182](http://arxiv.org/abs/2605.00182)|null|
 |**2026-04-29**|**Digital Simulation of Non-Hermitian Knotted Bands on Quantum Hardware**|Truman Yu Ng et.al.|[2604.26914](http://arxiv.org/abs/2604.26914)|null|
 |**2026-04-29**|**Protein folding on a 64 qubit trapped-ion hardware via counterdiabatic quantum optimization**|Alejandro Gomez Cadavid et.al.|[2604.26861](http://arxiv.org/abs/2604.26861)|null|
 |**2026-04-28**|**PLMGH: What Matters in PLM-GNN Hybrids for Code Classification and Vulnerability Detection**|Mohamed Taoufik Kaouthar El Idrissi et.al.|[2604.25599](http://arxiv.org/abs/2604.25599)|null|
@@ -210,6 +212,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots**|Junda Ying et.al.|[2605.00545](http://arxiv.org/abs/2605.00545)|null|
+|**2026-04-30**|**CRC-Screen: Certified DNA-Synthesis Hazard Screening Under Taxonomic Shift**|Najmul Hasan et.al.|[2605.00074](http://arxiv.org/abs/2605.00074)|null|
 |**2026-04-30**|**Towards High Performance Quantum Computing (HPQ): Parallelisation of the Hamiltonian Auto Decomposition Optimisation Framework (HADOF)**|Namasi G Sankar et.al.|[2604.27836](http://arxiv.org/abs/2604.27836)|null|
 |**2026-04-30**|**Secure Cross-Silo Synthetic Genomic Data Generation**|Daniil Filienko et.al.|[2604.27456](http://arxiv.org/abs/2604.27456)|null|
 |**2026-04-29**|**OptimusKG: Unifying biomedical knowledge in a modern multimodal graph**|Lucas Vittor et.al.|[2604.27269](http://arxiv.org/abs/2604.27269)|null|
@@ -613,6 +617,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Persistence in perturbed contact models in continuum**|S. Pirogov et.al.|[2605.00148](http://arxiv.org/abs/2605.00148)|null|
 |**2026-04-30**|**Prediction-powered Inference by Mixture of Experts**|Yanwu Gu et.al.|[2604.27892](http://arxiv.org/abs/2604.27892)|null|
 |**2026-04-30**|**Hyper-Dimensional Fingerprints as Molecular Representations**|Jonas Teufel et.al.|[2604.27810](http://arxiv.org/abs/2604.27810)|null|
 |**2026-04-29**|**Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction**|Jinjiang Guo et.al.|[2604.26498](http://arxiv.org/abs/2604.26498)|null|
@@ -730,8 +735,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
+|**2026-05-01**|**Soft Graph Diffusion Transformer for MIMO Detection**|Nan Jiang et.al.|[2605.00449](http://arxiv.org/abs/2605.00449)|null|
+|**2026-05-01**|**GaMMA: Towards Joint Global-Temporal Music Understanding in Large Multimodal Models**|Zuyao You et.al.|[2605.00371](http://arxiv.org/abs/2605.00371)|null|
+|**2026-05-01**|**Flow matching for Sentinel-2 super-resolution: implementation, application, and implications**|Dakota Hester et.al.|[2605.00367](http://arxiv.org/abs/2605.00367)|null|
+|**2026-05-01**|**Binomial flows: Denoising and flow matching for discrete ordinal data**|Yair Shenfeld et.al.|[2605.00360](http://arxiv.org/abs/2605.00360)|null|
+|**2026-05-01**|**Free Energy Surface Sampling via Reduced Flow Matching**|Zichen Liu et.al.|[2605.00337](http://arxiv.org/abs/2605.00337)|null|
+|**2026-04-30**|**Alethia: A Foundational Encoder for Voice Deepfakes**|Yi Zhu et.al.|[2605.00251](http://arxiv.org/abs/2605.00251)|null|
+|**2026-04-30**|**SPLICE: Latent Diffusion over JEPA Embeddings for Conformal Time-Series Inpainting**|Arnaud Zinflou et.al.|[2605.00126](http://arxiv.org/abs/2605.00126)|null|
 |**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|null|
-|**2026-04-30**|**GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment**|Ziang Guo et.al.|[2604.28111](http://arxiv.org/abs/2604.28111)|null|
+|**2026-05-01**|**GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment**|Ziang Guo et.al.|[2604.28111](http://arxiv.org/abs/2604.28111)|null|
 |**2026-04-30**|**Self-Supervised Learning of Plant Image Representations**|Ilyass Moummad et.al.|[2604.27538](http://arxiv.org/abs/2604.27538)|null|
 |**2026-04-30**|**LA-Pose: Latent Action Pretraining Meets Pose Estimation**|Zhengqing Wang et.al.|[2604.27448](http://arxiv.org/abs/2604.27448)|null|
 |**2026-04-30**|**BrainDINO: A Brain MRI Foundation Model for Generalizable Clinical Representation Learning**|Yizhou Wu et.al.|[2604.27277](http://arxiv.org/abs/2604.27277)|null|
@@ -1287,12 +1300,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Polaris: Coupled Orbital Polar Embeddings for Hierarchical Concept Learning**|Sahil Mishra et.al.|[2605.00265](http://arxiv.org/abs/2605.00265)|null|
+|**2026-04-30**|**AgentReputation: A Decentralized Agentic AI Reputation Framework**|Mohd Sameen Chishti et.al.|[2605.00073](http://arxiv.org/abs/2605.00073)|null|
 |**2026-04-30**|**Knowledge Graph Representations for LLM-Based Policy Compliance Reasoning**|Wilder Baldwin et.al.|[2604.27713](http://arxiv.org/abs/2604.27713)|null|
 |**2026-04-30**|**BAss: Symbolic Reasoning in Abstract Dialectical Frameworks**|Samuel Pastva et.al.|[2604.27576](http://arxiv.org/abs/2604.27576)|null|
-|**2026-04-30**|**Exploring Applications of Transfer-State Large Language Models: Cognitive Profiling and Socratic AI Tutoring**|Minori Noguchi et.al.|[2604.27454](http://arxiv.org/abs/2604.27454)|null|
+|**2026-05-01**|**Exploring Applications of Transfer-State Large Language Models: Cognitive Profiling and Socratic AI Tutoring**|Minori Noguchi et.al.|[2604.27454](http://arxiv.org/abs/2604.27454)|null|
 |**2026-04-30**|**TIO-SHACL: Comprehensive SHACL validation for TMF Intent Ontologies**|Jean Martins et.al.|[2604.27359](http://arxiv.org/abs/2604.27359)|null|
 |**2026-04-29**|**OptimusKG: Unifying biomedical knowledge in a modern multimodal graph**|Lucas Vittor et.al.|[2604.27269](http://arxiv.org/abs/2604.27269)|null|
-|**2026-04-29**|**Derivation of the Born Rule and Operational Quantum Formalism in the Accessibility Framework through Boundary Reduction**|Everett Fall et.al.|[2604.27125](http://arxiv.org/abs/2604.27125)|null|
+|**2026-05-01**|**Derivation of the Born Rule and Operational Quantum Formalism in the Accessibility Framework through Boundary Reduction**|Everett Fall et.al.|[2604.27125](http://arxiv.org/abs/2604.27125)|null|
 |**2026-04-29**|**Can we teach generative artificial intelligence the design language of engineered living materials?**|Andrés Díaz Lantada et.al.|[2604.26872](http://arxiv.org/abs/2604.26872)|null|
 |**2026-04-29**|**Beyond Linear Additive and Hill Functions: A General Logistic Reformulation of Delay-Coupled Gene Regulatory Networks with Equilibrium Analysis, Hopf Bifurcation, and Lipschitz Stability**|Ismail Belgacem et.al.|[2604.26810](http://arxiv.org/abs/2604.26810)|null|
 |**2026-04-29**|**Schroedinger's Equation at 100: The Wave Picture That Helped and Possibly Hurt**|Caslav Brukner et.al.|[2604.26325](http://arxiv.org/abs/2604.26325)|null|
@@ -1568,6 +1583,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Oxygen Vacancies at Dislocation Core Modulate Plasticity in Strontium Titanate**|Min-Chul Kang et.al.|[2605.00801](http://arxiv.org/abs/2605.00801)|null|
+|**2026-05-01**|**Unsupervised Denoising of Real Clinical Low Dose Liver CT with Perceptual Attention Networks**|Jingxi Pu et.al.|[2605.00793](http://arxiv.org/abs/2605.00793)|null|
+|**2026-05-01**|**TrueEBSD in MTEX: automatic image matching for correlative microscopy applications**|Vivian Tong et.al.|[2605.00703](http://arxiv.org/abs/2605.00703)|null|
+|**2026-05-01**|**DMDSC: A Dynamic-Margin Deep Simplex Classifier for Open-Set Recognition on Medical Image Datasets**|Vishal et.al.|[2605.00675](http://arxiv.org/abs/2605.00675)|null|
+|**2026-05-01**|**Prediction of Alzheimer's Disease Risk Factors from Retinal Images via Deep Learning: Development and Validation of Biologically Relevant Morphological Associations in the UK Biobank**|Seowung Leem et.al.|[2605.00665](http://arxiv.org/abs/2605.00665)|null|
+|**2026-05-01**|**Suppressing Plasmonic Heating in Aqueous Environments with Hexagonal Boron Nitride**|Martina Russo et.al.|[2605.00587](http://arxiv.org/abs/2605.00587)|null|
+|**2026-05-01**|**Plasmon Induced Delocalized Second-Harmonic Generation Towards Buried-Interface Spectroscopy**|Alan R. Bowman et.al.|[2605.00575](http://arxiv.org/abs/2605.00575)|null|
+|**2026-05-01**|**Vesselpose: Vessel Graph Reconstruction from Learned Voxel-wise Direction Vectors in 3D Vascular Images**|Rajalakshmi Palaniappan et.al.|[2605.00538](http://arxiv.org/abs/2605.00538)|null|
+|**2026-05-01**|**An Advanced Epitaxial Strategy Enabling Vertical GaN Devices on Silicon Wafers**|Fumio Kawamura et.al.|[2605.00464](http://arxiv.org/abs/2605.00464)|null|
+|**2026-05-01**|**Combined Dictionary Unfolding Network with Gradient-Adaptive Fidelity for Transferable Multi-Source Fusion**|Ge Luo et.al.|[2605.00461](http://arxiv.org/abs/2605.00461)|null|
 |**2026-04-30**|**Uniaxial strain-driven ferroelastic domain control in LaAlO3**|Matthias Roeper et.al.|[2604.28183](http://arxiv.org/abs/2604.28183)|null|
 |**2026-04-30**|**Continuous-tone Simple Points: An $\ell_0$ -Norm of Cyclic Gradient for Topology-Preserving Data-Driven Image Segmentation**|Wenxiao Li et.al.|[2604.28159](http://arxiv.org/abs/2604.28159)|null|
 |**2026-04-30**|**Polar Topologies in a Ferroelastic Metal Membrane**|Rahil Haria et.al.|[2604.28120](http://arxiv.org/abs/2604.28120)|null|
