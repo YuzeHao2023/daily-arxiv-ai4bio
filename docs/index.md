@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.05.06
+## Updated on 2026.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Interpretable Neural Networks to Predict Momentum Fluxes of Orographic Gravity Waves**|Elias Haslauer et.al.|[2605.05052](http://arxiv.org/abs/2605.05052)|null|
+|**2026-05-06**|**TCRTransBench: A Comprehensive Benchmark for Bidirectional TCR-Peptide Sequence Generation**|Yiming Wang et.al.|[2605.04762](http://arxiv.org/abs/2605.04762)|null|
 |**2026-05-05**|**Deep Graph-Language Fusion for Structure-Aware Code Generation**|Mert Tiftikci et.al.|[2605.03689](http://arxiv.org/abs/2605.03689)|null|
 |**2026-05-01**|**Proteo-R1: Reasoning Foundation Models for De Novo Protein Design**|Fang Wu et.al.|[2605.02937](http://arxiv.org/abs/2605.02937)|null|
 |**2026-05-04**|**Fuzzy Fingerprinting Encoder Pre-trained Language Models for Emotion Recognition in Conversations: Human Assessment and Validity Study**|Patrícia Pereira et.al.|[2605.02665](http://arxiv.org/abs/2605.02665)|null|
@@ -217,6 +219,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**When Does Gene Regulatory Network Inference Break? A Controlled Diagnostic Study of Causal and Correlational Methods on Single-Cell Data**|Miguel Fernandez-de-Retana et.al.|[2605.04930](http://arxiv.org/abs/2605.04930)|null|
+|**2026-05-06**|**FL-Sailer: Efficient and Privacy-Preserving Federated Learning for Scalable Single-Cell Epigenetic Data Analysis via Adaptive Sampling**|Guangyi Zhang et.al.|[2605.04519](http://arxiv.org/abs/2605.04519)|null|
+|**2026-05-06**|**Loop Extrusion Reversal by Condensin Motor is Mediated by Catch Bonds**|Atreya Dey et.al.|[2605.04482](http://arxiv.org/abs/2605.04482)|null|
+|**2026-05-05**|**Faster Iterative $φ$ Queries on the Positional BWT**|Paola Bonizzoni et.al.|[2605.04244](http://arxiv.org/abs/2605.04244)|null|
 |**2026-05-05**|**Connecting IBD tracts and runs of homozygosity: A coalescent framework for inferring effective population size**|Enrique Santiago et.al.|[2605.03498](http://arxiv.org/abs/2605.03498)|null|
 |**2026-05-04**|**Structure Learning for Directed Trees with Compositional Nodes**|Shuangjie Zhang et.al.|[2605.03178](http://arxiv.org/abs/2605.03178)|null|
 |**2026-05-02**|**EFGPP: Exploratory framework for genotype-phenotype prediction**|Muhammad Muneeb et.al.|[2605.02954](http://arxiv.org/abs/2605.02954)|null|
@@ -527,6 +533,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Transformed Latent Variable Multi-Output Gaussian Processes**|Xiaoyu Jiang et.al.|[2605.05133](http://arxiv.org/abs/2605.05133)|null|
+|**2026-05-06**|**When Does Gene Regulatory Network Inference Break? A Controlled Diagnostic Study of Causal and Correlational Methods on Single-Cell Data**|Miguel Fernandez-de-Retana et.al.|[2605.04930](http://arxiv.org/abs/2605.04930)|null|
+|**2026-05-06**|**HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction**|Keunho Byeon et.al.|[2605.04682](http://arxiv.org/abs/2605.04682)|null|
 |**2026-05-05**|**Donor-Aware scRNA-seq Benchmarks for IBD Classification**|Jonathan Muhire et.al.|[2605.03281](http://arxiv.org/abs/2605.03281)|null|
 |**2026-05-05**|**On Model-Based Clustering With Entropic Optimal Transport**|Gonzalo Mena et.al.|[2605.03240](http://arxiv.org/abs/2605.03240)|null|
 |**2026-04-30**|**CellxPert: Inference-Time MCMC Steering of a Multi-Omics Single-Cell Foundation Model for In-Silico Perturbation**|Andac Demir et.al.|[2605.00930](http://arxiv.org/abs/2605.00930)|null|
@@ -634,6 +643,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Benchmarking open-source tools for in silico antiviral drug discovery**|Daniel C. Elton et.al.|[2605.04265](http://arxiv.org/abs/2605.04265)|null|
 |**2026-05-05**|**AgenticPosesRanker: An Agentic AI Framework for Physically Grounded Ranking of Protein-Ligand Docking Poses**|Sofiene Khiari et.al.|[2605.03707](http://arxiv.org/abs/2605.03707)|null|
 |**2026-05-05**|**Counting Small Balanced (p,q)-bicliques in Signed Bipartite Graphs**|Mekala Kiran et.al.|[2605.03603](http://arxiv.org/abs/2605.03603)|null|
 |**2026-05-03**|**ISAAC: Auditing Causal Reasoning in Deep Models for Drug-Target Interaction**|Barbara Tarantino et.al.|[2605.02962](http://arxiv.org/abs/2605.02962)|null|
@@ -758,6 +768,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching**|Andranik Sargsyan et.al.|[2605.05077](http://arxiv.org/abs/2605.05077)|null|
+|**2026-05-06**|**Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation**|Hongxu Chen et.al.|[2605.05054](http://arxiv.org/abs/2605.05054)|null|
+|**2026-05-06**|**Chaotic Contrastive Learning for Robust Texture Classification**|Joao B Florindo et.al.|[2605.05012](http://arxiv.org/abs/2605.05012)|null|
+|**2026-05-06**|**Attention-Based Chaotic Self-Supervision for Medical Image Classification**|Joao Batista Florindo et.al.|[2605.04985](http://arxiv.org/abs/2605.04985)|null|
+|**2026-05-06**|**RLearner-LLM: Balancing Logical Grounding and Fluency in Large Language Models via Hybrid Direct Preference Optimization**|Qiming Bao et.al.|[2605.04539](http://arxiv.org/abs/2605.04539)|null|
+|**2026-05-06**|**Conditional Flow-VAE for Safety-Critical Traffic Scenario Generation**|Zimu Gong et.al.|[2605.04366](http://arxiv.org/abs/2605.04366)|null|
 |**2026-05-05**|**Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes**|Aaron Havens et.al.|[2605.03984](http://arxiv.org/abs/2605.03984)|null|
 |**2026-05-05**|**FluxFlow: Conservative Flow-Matching for Astronomical Image Super-Resolution**|Shuhong Liu et.al.|[2605.03749](http://arxiv.org/abs/2605.03749)|null|
 |**2026-05-05**|**A Comprehensive Analysis of Tokenization and Self-Supervised Learning in End-to-End Automatic Speech Recognition applied on French Language**|Thibault Bañeras-Roux et.al.|[2605.03696](http://arxiv.org/abs/2605.03696)|null|
@@ -1339,6 +1355,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Toward a Risk Assessment Framework for Institutional DeFi: A Nine-Dimension Approach**|Eva Oberholzer et.al.|[2605.05145](http://arxiv.org/abs/2605.05145)|null|
+|**2026-05-06**|**When Does Gene Regulatory Network Inference Break? A Controlled Diagnostic Study of Causal and Correlational Methods on Single-Cell Data**|Miguel Fernandez-de-Retana et.al.|[2605.04930](http://arxiv.org/abs/2605.04930)|null|
 |**2026-05-05**|**Fisher-Informational Time: A Causal-Geometric Framework for Emergent Clock Time Physical Distinguishability**|J. Sumaya-Martinez et.al.|[2605.03958](http://arxiv.org/abs/2605.03958)|null|
 |**2026-05-05**|**SAM-NER: Semantic Archetype Mediation for Zero-Shot Named Entity Recognition**|Ruichu Cai et.al.|[2605.03706](http://arxiv.org/abs/2605.03706)|null|
 |**2026-05-05**|**Graph Neural Network based Hierarchy-Aware Embeddings of Knowledge Graphs: Applications to Yeast Phenotype Prediction**|Filip Kronström et.al.|[2605.03690](http://arxiv.org/abs/2605.03690)|null|
@@ -1631,6 +1649,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Representation**|Enhui Chai et.al.|[2605.05164](http://arxiv.org/abs/2605.05164)|null|
+|**2026-05-06**|**Wasserstein-Aligned Localisation for VLM-Based Distributional OOD Detection in Medical Imaging**|Bernhard Kainz et.al.|[2605.05161](http://arxiv.org/abs/2605.05161)|null|
+|**2026-05-06**|**FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching**|Andranik Sargsyan et.al.|[2605.05077](http://arxiv.org/abs/2605.05077)|null|
+|**2026-05-06**|**Full-chip CMP modelling based on Fully Convolutional Network leveraging White Light Interferometry**|Jules Exbrayat et.al.|[2605.05062](http://arxiv.org/abs/2605.05062)|null|
+|**2026-05-06**|**Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models**|Bartlomiej Sobieski et.al.|[2605.05026](http://arxiv.org/abs/2605.05026)|null|
+|**2026-05-06**|**Attention-Based Chaotic Self-Supervision for Medical Image Classification**|Joao Batista Florindo et.al.|[2605.04985](http://arxiv.org/abs/2605.04985)|null|
+|**2026-05-06**|**Characterization of Photopolymerized Microscopic Chiral Structures Using Photonic Orbital Angular Momentum**|Jing Xu et.al.|[2605.04953](http://arxiv.org/abs/2605.04953)|null|
+|**2026-05-06**|**Local elastic perturbation of colloidal suspensions near the colloidal glass transition**|Piotr Habdas et.al.|[2605.04937](http://arxiv.org/abs/2605.04937)|null|
+|**2026-05-06**|**Magnetic Brightening and Nanoscale Imaging of Spin-Polarized Helical Edge Modes**|Samuel Haeuser et.al.|[2605.04883](http://arxiv.org/abs/2605.04883)|null|
+|**2026-05-06**|**A Two-Step Chemical Vapor Deposition Process for the Synthesis of an Ir(111)/Borophene/2D-Hexagonal Boron Nitride Heterostructure by Intrinsic Segregation**|Marko A. Kriegel et.al.|[2605.04871](http://arxiv.org/abs/2605.04871)|null|
 |**2026-05-05**|**Inferring Phylogenetic Networks from Allowed and Forbidden LCA-Constraints**|Patricia A. Ebert et.al.|[2605.03827](http://arxiv.org/abs/2605.03827)|null|
 |**2026-05-05**|**A Robust Unsupervised Domain Adaptation Framework for Medical Image Classification Using RKHS-MMD**|Sapna Sachan et.al.|[2605.03787](http://arxiv.org/abs/2605.03787)|null|
 |**2026-05-05**|**Distribution-Free Pretraining of Classification Losses via Evolutionary Dynamics**|Meng Xiang et.al.|[2605.03722](http://arxiv.org/abs/2605.03722)|null|
